@@ -1,6 +1,9 @@
 bootstrap-zero
 ==============
 
-Bootstrap templates and themes project
+Bootstrap Templates and Themes Project
+----
 
-App written on NodeJS
+Free, open source HTML CSS and JavaScript templates and themes for Twitter Bootstrap.
+
+App written on Node.js
