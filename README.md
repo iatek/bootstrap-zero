@@ -1,4 +1,6 @@
 bootstrap-zero
 ==============
 
-Bootstrap template and themes project
+Bootstrap templates and themes project
+
+App written on NodeJS
