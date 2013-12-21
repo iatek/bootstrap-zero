@@ -8,10 +8,10 @@ var port = process.env.PORT || 4000,
     
 app.get('/', function(req, res){
 
-    var fs = require('fs');
-    fs.readFile('./static/templates.json', 'utf8', function (err, data) {
-        console.log(data.templates);
-        res.render("index",{templates:data.templates,utils:utils});
+    request.get({url:'/api/templates'},function(e,r,b){
+         
+        res.render("index",{templates:b.templates,utils:utils});
+         
     });
     
 });
