@@ -1,4 +1,5 @@
-
+{   
+    templates:
     [
         {
             id:"101004",
@@ -404,16 +405,17 @@
             author:"Bootply.com"
         },
 		{
-            id:"94967",
+            id:"88300",
             name:"50 50 - /assets/templates/88300.png",
-            title:"Fixed Width Template",
+            title:"50-50",
             short:"Pixel-based container layout",
             full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
             tags:["starter","fixed","width"],
-            imgUrl:"/assets/templates/94967.png",
-            downloadUrl:"http://bootply.com/download/94967",
-            sourceUrl:"http://bootply.com/94967",
-            previewUrl:"http://bootply.com/render/94967",
+            imgUrl:"/assets/templates/88300.png",
+            downloadUrl:"http://bootply.com/download/88300",
+            sourceUrl:"http://bootply.com/88300",
+            previewUrl:"http://bootply.com/render/88300",
             author:"Bootply.com"
         }
-    ]    
+    ]
+}

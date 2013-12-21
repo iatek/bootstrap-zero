@@ -21,7 +21,7 @@
             success: function (data) {
                 var id,name,title,short,full,tags,imgUrl,downloadUrl,sourceUrl,previewUrl;
                 var col,panel,panel_heading,panel_body,panel_footer;
-                var templates = data;
+                var templates = data.templates;
                 for (var t in templates) {
                     name = t.name;
                     id = t.id;
