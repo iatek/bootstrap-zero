@@ -69,7 +69,7 @@ app.get('/api/templates', function(req, res){
     //});
     
     var fileJSON = require('./static/templates.json');
-    res.json(fileJSON);
+    res.send(fileJSON);
     
 });
 
