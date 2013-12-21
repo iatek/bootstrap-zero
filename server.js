@@ -70,8 +70,12 @@ app.get('/api/templates', function(req, res){
     //    res.json(data);
     //});
     
-    var fileJSON = require('./static/templates.json');
-    res.send(fileJSON);
+    //var fileJSON = require('./static/templates.json');
+    //res.send(fileJSON);
+
+    fs.readFile('./static/templates.json', 'utf8', function (err, data) {
+        res.json(data.templates);
+    });
     
 });
 
