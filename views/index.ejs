@@ -14,7 +14,7 @@
                 	<div class="panel-body"><img src="<%=templates[i].imageUrl%>" class="img-responsive"></div>
                 </div>              
       		</div>
-      		 <% } %>
+      		<% } %>
         </div>
     </div>
     
@@ -24,39 +24,7 @@
         /* load templates */
         
         /*
-        $.ajax({
-            url: "/api/templates",
-            type: "get",
-            success: function (data) {
-                var id,name,title,short,full,tags,imgUrl,downloadUrl,sourceUrl,previewUrl;
-                var col,panel,panel_heading,panel_body,panel_footer;
-                var templates = data.templates;
-                for (var t in templates) {
-                    name = t.name;
-                    id = t.id;
-                    title = t.title;
-                    short = t.short;
-                    full = t.full;
-                    tags = t.tags;
-                    imgUrl = t.imgUrl;
-                    downloadUrl = t.downloadUrl;
-                    sourceUrl = t.sourceUrl;
-                    previewUrl = t.previewUrl;
-                    
-                    col = $('<div class="col-sm-4"></div>');
-                    panel = $('<div class="panel panel-default"></div>');
-                  	panel_heading = $('<div class="panel-heading"><h3>'+title+'</h3></div>');
-                	panel_body = $('<div class="panel-body"><img src="'+imgUrl+'" class="img-responsive"></div>');
-                	panel_footer = $('<div class="panel-footer">'+short+'</div>');
-                	
-                	panel_heading.appendTo(panel);
-                	panel_body.appendTo(panel);
-                	panel_footer.appendTo(panel);
-                	panel.appendTo(col);
-                	col.appendTo('#templates');
-                }
-            }
-        });
+        
         
         */
         
