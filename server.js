@@ -73,7 +73,7 @@ app.get('/api/templates', function(req, res){
     //var fileJSON = require('./static/templates.json');
     //res.send(fileJSON);
 
-    fs.readFile('./static/templates.json', 'utf8', function (err, data) {
+    fs.readFile('./templates.json', 'utf8', function (err, data) {
         res.json(data.templates);
     });
     
