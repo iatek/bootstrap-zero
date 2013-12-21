@@ -64,9 +64,13 @@ app.get('/tag/:tag/:page?', function(req,res){
 app.get('/api/templates', function(req, res){
     var fs = require('fs');
     
-    fs.readFile('./static/templates.json', 'utf8', function (err, data) {
-        res.json(data);
-    });
+    //fs.readFile('./static/templates.json', 'utf8', function (err, data) {
+    //    res.json(data);
+    //});
+    
+    var fileJSON = require('./static/templates.json');
+    res.json(JSON.parse(fileJSON));
+    
 });
 
 
