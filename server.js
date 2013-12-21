@@ -10,6 +10,7 @@ app.get('/', function(req, res){
 
     var fs = require('fs');
     fs.readFile('./static/templates.json', 'utf8', function (err, data) {
+        console.log(data.templates);
         res.render("index",{templates:data.templates,utils:utils});
     });
     
