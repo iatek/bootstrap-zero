@@ -7,11 +7,10 @@ var port = process.env.PORT || 4000,
    
     
 app.get('/', function(req, res){
-    var fs = require('fs');
     
-    fs.readFile('./static/templates.json', 'utf8', function (err, data) {
-        res.json(JSON.parse(data));
-    });
+    var templates = require('./static/templates.json');
+    res.render("index",{templates:templates,utils:utils});
+    
 });
     
 app.get('/:page?', function(req,res){
