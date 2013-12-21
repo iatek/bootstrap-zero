@@ -74,7 +74,7 @@ app.get('/api/templates', function(req, res){
     //res.send(fileJSON);
 
     fs.readFile('./templates.json', 'utf8', function (err, data) {
-        res.json(data.templates);
+        res.json(data);
     });
     
 });
