@@ -10,7 +10,7 @@ app.get('/', function(req, res){
 
     request.get({url:'/api/templates',json:true},function(e,r,b){
          
-        res.render("index",{templates:{},utils:utils});
+        res.render("index",{templates:b.templates,utils:utils});
          
     });
     
@@ -77,7 +77,7 @@ app.get('/api/templates', function(req, res){
     //    res.json(data);
     //});
     
-    fs.createReadStream('templates.json').pipe(res);
+    fs.createReadStream('templates.json').pipe(JSON.parse(res));
     
 });
 
