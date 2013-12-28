@@ -10,7 +10,8 @@ app.get('/', function(req, res){
 
     request.get({url:'/api/templates',json:true},function(e,r,b){
          
-        res.render("index",{templates:b.templates,utils:utils});
+        var j = JSON.parse(JSON.stringify(b));
+        res.render("index",{templates:j.templates,utils:utils});
          
     });
     
