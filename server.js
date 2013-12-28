@@ -26,11 +26,11 @@ app.get('/api/templates', function(req, res){
     //var fileJSON = require('./static/templates.json');
     //res.send(fileJSON);
 
-    fs.readFile('./templates.json', 'utf8', function (err, data) {
-        res.send(JSON.parse(data));
-    });
+    //fs.readFile('./templates.json', 'utf8', function (err, data) {
+    //    res.send(data);
+    //});
     
-    //fs.createReadStream('templates.json').pipe(res);
+    fs.createReadStream('templates.json',{flags: 'r', encoding: 'utf-8'}).pipe(res);
     
 });
 
