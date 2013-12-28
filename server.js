@@ -10,7 +10,7 @@ app.get('/', function(req, res){
 
     request.get({url:'/api/templates'},function(e,r,b){
          
-        res.render("index",{templates:b.templates,utils:utils});
+        res.render("index",{templates:{},utils:utils});
          
     });
     
