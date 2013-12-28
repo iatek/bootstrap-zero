@@ -30,6 +30,7 @@ app.get('/api/templates', function(req, res){
     //    res.send(data);
     //});
     
+    res.writeHead(200, {"Content-Type": "application/json"});
     fs.createReadStream('templates.json',{flags: 'r', encoding: 'utf-8'}).pipe(res);
     
 });
