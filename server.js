@@ -23,7 +23,7 @@ app.get('/', function(req, res){
 app.get('/api/templates', function(req, res){
     var fs = require('fs');
     
-    fs.readFile('./static/templates.json', 'json', function (err, data) {
+    fs.readFile('./static/templates.json', null, function (err, data) {
         res.json(data);
     });
     
