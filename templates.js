@@ -1,4 +1,4 @@
-module.exports = [
+module.exports = {templates:[
         {
             id:"101004",
             name:"Basic",
@@ -415,4 +415,5 @@ module.exports = [
             previewUrl:"http://bootply.com/render/88300",
             author:"Bootply.com"
         }
-    ];
+    ]
+};
