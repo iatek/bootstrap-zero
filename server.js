@@ -14,7 +14,7 @@ app.get('/', function(req, res){
         
         console.log(j);
         
-        res.render("index",{templates:j.templates,utils:utils});
+        res.render("index",{templates:b.templates,utils:utils});
          
     });
     
