@@ -26,7 +26,7 @@ app.get('/templates/:id', function(req, res){
     
     for (var t in templates) {
     
-        console.log("t..."+t);
+        console.log("t..."+t+templates[t].id);
     
         if (templates[t].id===id) {
             res.render("detail",{template:templates[t],utils:utils});
