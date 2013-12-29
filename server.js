@@ -24,7 +24,7 @@ app.get('/api/templates', function(req, res){
     var fs = require('fs');
     
     fs.readFile('./static/templates.json', 'utf8', function (err, data) {
-        res.json(data);
+        res.json(JSON.parse(data));
     });
     
     //var fileJSON = require('./static/templates.json');
