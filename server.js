@@ -8,18 +8,6 @@ var port = process.env.PORT || 4000,
     
 app.get('/', function(req, res){
 
-    /*
-    request.get({url:'/api/templates',json:true},function(e,r,b){
-         
-        var j = JSON.parse(b);
-        
-        console.log(j);
-        
-        res.render("index",{templates:b.templates,utils:utils});
-         
-    });
-    */
-    
     var data = require('./templates');
     res.render("index",{templates:data.templates,utils:utils});
     
