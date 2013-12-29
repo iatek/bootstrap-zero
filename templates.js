@@ -16,7 +16,7 @@ module.exports =
     {
         id:"100993",
         name:"Sidebar",
-        title:"Sidebar Template",
+        title:"Sidebar",
         short:"Popular left column layout",
         full:"This is a popular 2 column template for Bootstrap 3 that includes a left-side 33% width column, and 66% width content area.",
         tags:["sidebar","starter"],
@@ -29,7 +29,7 @@ module.exports =
     {
         id:"94967",
         name:"Fixed_Width",
-        title:"Fixed Width Template",
+        title:"Fixed Width",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -185,7 +185,7 @@ module.exports =
 	{
         id:"96937",
         name:"App - /assets/templates/96937.png",
-        title:"App Template",
+        title:"App",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -420,7 +420,7 @@ module.exports =
         id:"102931",
         name:"Firm",
         title:"The Firm",
-        short:"Clean one page layout ideal for small business or startup",
+        short:"Clean one page scrolling layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
         imgUrl:"http://www.bootply.com/assets/templates/102931.png",
