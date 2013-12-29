@@ -3,12 +3,12 @@ var port = process.env.PORT || 4000,
     utils = require('./utils'),
     conf = require('./conf'),
     request = require('request'),
-    templates = require('./templates'),
     pageSize = 20;
    
     
 app.get('/', function(req, res){
 
+    var templates = require('./templates');
     res.render("index",{templates:templates,utils:utils});
     
 });
@@ -17,6 +17,7 @@ app.get('/templates/:id', function(req, res){
 
     console.log("/templates.......");
 
+    var templates = require('./templates');
     var id = req.params.id;
    
     if (typeof id==="undefined") {
