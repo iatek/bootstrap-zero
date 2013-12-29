@@ -19,7 +19,7 @@ app.get('/templates/:id', function(req, res){
 
     var id = req.params.id;
    
-    if (typeof id===null) {
+    if (typeof id==="undefined") {
         return;
     }
     
@@ -31,7 +31,7 @@ app.get('/templates/:id', function(req, res){
         
     }
     
-    res.render("404");
+    res.render("404",{error:"no results"});
     
     //res.render("index",{templates:data,utils:utils});
     
