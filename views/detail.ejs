@@ -2,7 +2,22 @@
 	    <div class="row">
       		<div class="col-md-12">
       			<h2><%=template.title%></h2>
-                <p>Vanilla. Kickstart your Bootstrap design with these clean templates.</p>
+                <p class="lead"><%=template.short%></p>
+                
+                <p><%=template.full%></p>
+                
+                <hr>
+                
+                <img src="<%=template.imgUrl%>" class="img-responsive">
+                
+                <h4>
+                    <small>
+                    <a href="<%=template.previewUrl%>" class="label label-success" target="ext">Preview</a>
+                    <a href="<%=template.downloadUrl%>" class="label label-inverse" target="ext">Download</a>
+                    <a href="<%=template.sourceUrl%>" class="label label-inverse" target="ext">Code</a>
+                    </small>
+                </h4>
+                
                 <hr>
       		</div>
       	</div>
