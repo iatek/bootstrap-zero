@@ -24,18 +24,18 @@ app.get('/templates/:id', function(req, res){
         return;
     }
     
-    for (var t in templates) {
+    for (var i=0;i<templates.length;i++) {
     
-        console.log("t..."+t+templates[t].id);
+        console.log("t..."+i+":"+templates[i].id);
     
-        if (templates[t].id===id) {
-            res.render("detail",{template:templates[t],utils:utils});
+        if (templates[i].id===id) {
+            res.render("detail",{template:templates[i],utils:utils});
         }    
         
     }
     
     res.render("404",{error:"no results"});
-    
+    ;
     //res.render("index",{templates:data,utils:utils});
     
 });
