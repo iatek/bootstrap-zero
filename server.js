@@ -30,12 +30,12 @@ app.get('/templates/:id', function(req, res){
     
         if (templates[i].id===id) {
             res.render("detail",{template:templates[i],utils:utils});
+            return;
         }    
         
     }
     
     res.render("404",{error:"no results"});
-    ;
     //res.render("index",{templates:data,utils:utils});
     
 });
