@@ -11,18 +11,16 @@
                 <hr>
                 
                 <h4>
-                    <a href="<%=template.previewUrl%>" class="label label-success" target="ext">Preview</a> 
-                    <a href="<%=template.downloadUrl%>" class="label label-default" target="ext">Download</a> 
-                    <a href="<%=template.sourceUrl%>" class="label label-default" target="ext">Code</a> 
-                </h4>
-                
-                <h4 class="pull-right clearfix">
                     <% for (var tag in template.tags) { %>
                     <a href="/tagged/<%=template.tags[tag]%>" class="label label-info" target="ext"><%=template.tags[tag]%></a> 
                     <% } %>
                 </h4>
                 
-                
+                <h4 class="pull-right clearfix">
+                    <a href="<%=template.previewUrl%>" class="label label-success" target="ext">Preview</a> 
+                    <a href="<%=template.downloadUrl%>" class="label label-default" target="ext">Download</a> 
+                    <a href="<%=template.sourceUrl%>" class="label label-default" target="ext">Code</a> 
+                </h4>
       		</div>
       	</div>
       	<div class="row" id="templates">
