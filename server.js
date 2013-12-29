@@ -9,7 +9,7 @@ var port = process.env.PORT || 4000,
 app.get('/', function(req, res){
 
     var data = require('./templates');
-    res.render("index",{templates:data.templates,utils:utils});
+    res.render("index",{templates:data,utils:utils});
     
 });
 
