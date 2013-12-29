@@ -40,19 +40,6 @@ module.exports =
         author:"Bootply.com"
     },
 	{
-        id:"94967",
-        name:"Fixed Width Template - /assets/templates/94967.png",
-        title:"Fixed Width Template",
-        short:"Pixel-based container layout",
-        full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
-        tags:["starter","fixed","width"],
-        imgUrl:"http://bootply.com/assets/templates/94967.png",
-        downloadUrl:"http://bootply.com/download/94967",
-        sourceUrl:"http://bootply.com/94967",
-        previewUrl:"http://bootply.com/render/94967",
-        author:"Bootply.com"
-    },
-	{
         id:"75225",
         name:"Fixed Navbar - /assets/templates/75225.png",
         title:"Fixed Navbar",
@@ -198,7 +185,7 @@ module.exports =
 	{
         id:"96937",
         name:"App - /assets/templates/96937.png",
-        title:"Fixed Width Template",
+        title:"App Template",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -408,6 +395,32 @@ module.exports =
         name:"50 50 - /assets/templates/88300.png",
         title:"50-50",
         short:"Pixel-based container layout",
+        full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
+        tags:["starter","fixed","width"],
+        imgUrl:"http://www.bootply.com/assets/templates/88300.png",
+        downloadUrl:"http://bootply.com/download/88300",
+        sourceUrl:"http://bootply.com/88300",
+        previewUrl:"http://bootply.com/render/88300",
+        author:"Bootply.com"
+    },
+	{
+        id:"88300",
+        name:"Happy Scroll",
+        title:"Happy Scroll",
+        short:"Pixel-based container layout",
+        full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
+        tags:["starter","fixed","width"],
+        imgUrl:"http://www.bootply.com/assets/templates/88300.png",
+        downloadUrl:"http://bootply.com/download/88300",
+        sourceUrl:"http://bootply.com/88300",
+        previewUrl:"http://bootply.com/render/88300",
+        author:"Bootply.com"
+    },
+	{
+        id:"88300",
+        name:"Firm",
+        title:"The Firm",
+        short:"Clean one page layout ideal for small business or startup",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
         imgUrl:"http://www.bootply.com/assets/templates/88300.png",
