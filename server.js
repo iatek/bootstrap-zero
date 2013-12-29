@@ -27,7 +27,7 @@ app.get('/api/templates', function(req, res){
     //    res.json(data);
     //});
     
-    var data = require('./templates.json');
+    var data = require('./templates');
     res.send(data);
     
     //var fileJSON = require('./static/templates.json');
