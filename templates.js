@@ -55,7 +55,7 @@ module.exports =
 	{
         id:"75225",
         name:"Fixed Navbar - /assets/templates/75225.png",
-        title:"Fixed Width Template",
+        title:"Fixed Navbar",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -68,7 +68,7 @@ module.exports =
     {
         id:"75231",
         name:"Sticky Footer - /assets/templates/75231.png",
-        title:"Fixed Width Template",
+        title:"Sticky Footer",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -81,7 +81,7 @@ module.exports =
 	{
         id:"73778",
         name:"Grid - /assets/templates/73778.png",
-        title:"Fixed Width Template",
+        title:"Grid",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -94,7 +94,7 @@ module.exports =
 	{
         id:"100983",
         name:"Affix Sidebar - /assets/templates/100983.png",
-        title:"Fixed Width Template",
+        title:"Affix Sidebar",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -107,7 +107,7 @@ module.exports =
 	{
         id:"65566",
         name:"Full Example - /assets/templates/65566.png",
-        title:"Fixed Width Template",
+        title:"Full Example",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -250,7 +250,7 @@ module.exports =
 	{
         id:"91970",
         name:"Holo - /assets/templates/91970.png",
-        title:"Fixed Width Template",
+        title:"Holo",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -263,7 +263,7 @@ module.exports =
 	{
         id:"85779",
         name:"Story - /assets/templates/85779.png",
-        title:"Fixed Width Template",
+        title:"Storystrap",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -276,7 +276,7 @@ module.exports =
 	{
         id:"85861",
         name:"Dashboard - /assets/templates/85861.png",
-        title:"Fixed Width Template",
+        title:"Dashboard",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
@@ -391,16 +391,16 @@ module.exports =
         author:"Bootply.com"
     },
 	{
-        id:"94967",
+        id:"96266",
         name:"Face It - /assets/templates/96266.png",
-        title:"Fixed Width Template",
+        title:"Facebook",
         short:"Pixel-based container layout",
         full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
         tags:["starter","fixed","width"],
-        imgUrl:"/assets/templates/94967.png",
-        downloadUrl:"http://bootply.com/download/94967",
-        sourceUrl:"http://bootply.com/94967",
-        previewUrl:"http://bootply.com/render/94967",
+        imgUrl:"/assets/templates/96266.png",
+        downloadUrl:"http://bootply.com/download/96266",
+        sourceUrl:"http://bootply.com/96266",
+        previewUrl:"http://bootply.com/render/96266",
         author:"Bootply.com"
     },
 	{
