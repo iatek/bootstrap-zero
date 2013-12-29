@@ -23,9 +23,9 @@ app.get('/', function(req, res){
 app.get('/api/templates', function(req, res){
     var fs = require('fs');
     
-    //fs.readFile('./static/templates.json', 'utf8', function (err, data) {
-    //    res.json(data);
-    //});
+    fs.readFile('./static/templates.json', 'utf8', function (err, data) {
+        res.json(data);
+    });
     
     //var fileJSON = require('./static/templates.json');
     //res.send(fileJSON);
@@ -35,7 +35,7 @@ app.get('/api/templates', function(req, res){
     //});
     
     //res.writeHead(200, {"Content-Type": "application/json"});
-    fs.createReadStream('templates.json',{flags:'r',encoding:'utf-8'}).pipe(res);
+    //fs.createReadStream('templates.json',{flags:'r',encoding:'utf-8'}).pipe(res);
     
 });
 
