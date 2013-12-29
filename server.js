@@ -3,13 +3,37 @@ var port = process.env.PORT || 4000,
     utils = require('./utils'),
     conf = require('./conf'),
     request = require('request'),
+    templates = require('./templates'),
     pageSize = 20;
    
     
 app.get('/', function(req, res){
 
-    var data = require('./templates');
-    res.render("index",{templates:data,utils:utils});
+    res.render("index",{templates:templates,utils:utils});
+    
+});
+
+app.get('/templates/:id', function(req, res){
+
+    console.log("/templates.......");
+
+    var id = req.params.id;
+   
+    if (typeof id===null) {
+        return;
+    }
+    
+    for (var t in templates) {
+    
+        if (templates[t].id===id) {
+            res.render("detail",{template:templates[t],utils:utils});
+        }    
+        
+    }
+    
+    res.render("404");
+    
+    //res.render("index",{templates:data,utils:utils});
     
 });
 
@@ -38,7 +62,7 @@ app.get('/api/templates', function(req, res){
     
 app.get('/:page?', function(req,res){
     
-    var offset = 0
+    var offset = 0;
     var page = (req.params.page)||1;
    
     if (page>1) {
