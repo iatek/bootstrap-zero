@@ -1,4 +1,4 @@
-var templates = [
+module.exports = [
         {
             id:"101004",
             name:"Basic",
