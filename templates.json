@@ -415,5 +415,4 @@ var templates = [
             previewUrl:"http://bootply.com/render/88300",
             author:"Bootply.com"
         }
-    ]
-}
+    ];
