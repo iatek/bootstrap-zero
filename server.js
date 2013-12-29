@@ -12,7 +12,7 @@ app.get('/', function(req, res){
          
         var j = JSON.parse(b);
         
-        //console.log(j);
+        console.log(j);
         
         res.render("index",{templates:j.templates,utils:utils});
          
