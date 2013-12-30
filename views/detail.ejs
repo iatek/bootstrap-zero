@@ -4,9 +4,12 @@
       			<h1><%=template.title%> Bootstrap Template</h1>
                 <p class="lead"><%=template.short%></p>
                 
-                <p><%=template.full%></p>
-                
-                <img src="<%=template.imgUrl%>" class="img-thumbnail img-responsive">
+                <div class="row">
+                    
+                    <div class="col-sm-9"><img src="<%=template.imgUrl%>" class="img-thumbnail img-responsive" alt="<%=template.title%> Bootstrap Template" /></div>
+                    <div class="col-sm-3"><p><%=template.full%></p></div>
+                    
+                </div>
                 
                 <h4>
                     <% for (var tag in template.tags) { %>
@@ -15,9 +18,9 @@
                 </h4>
                 
                 <h4 class="pull-right clearfix">
-                    <a href="<%=template.previewUrl%>" class="label label-success" target="ext">Preview</a> 
-                    <a href="<%=template.downloadUrl%>" class="label label-default" target="ext">Download</a> 
-                    <a href="<%=template.sourceUrl%>" class="label label-default" target="ext">Code</a> 
+                    <a href="<%=template.previewUrl%>" class="label label-success" target="ext" title="Preview this Bootstrap template">Preview</a> 
+                    <a href="<%=template.downloadUrl%>" class="label label-default" target="ext" title="Download this template">Download</a> 
+                    <a href="<%=template.sourceUrl%>" class="label label-default" target="ext" title="Get the HTML, CSS and JavaScript for this template">Code</a> 
                 </h4>
       		</div>
       	</div>
@@ -25,7 +28,7 @@
       	<div class="row">
       	      <div class="col-sm-2"><a href="/templates/<%=prev.id%>"><i class="glyphicon glyphicon-chevron-left"></i> Previous Template</a></div>
       	      <div class="col-sm-8"> </div>
-      	      <div class="col-sm-2 text-right"><a href="/templates/<%=next.id%>"><i class="glyphicon glyphicon-chevron-right"></i> Next Template</a></div>
+      	      <div class="col-sm-2 text-right"><a href="/templates/<%=next.id%>">Next Template <i class="glyphicon glyphicon-chevron-right"></i></a></div>
         </div>
     </div>
     
