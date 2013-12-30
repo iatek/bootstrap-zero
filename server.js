@@ -27,8 +27,8 @@ app.get('/templates/:id', function(req, res){
     for (var i=0;i<templates.length;i++) {
     
         //console.log("t..."+i+":"+templates[i].id);
-        var prev = templates[i-1]||templates[templates.length-1];
-        var next = templates[i+1]||templates[0];
+        var prev = (templates[i-1])||templates[templates.length-1];
+        var next = (templates[i+1])||templates[0];
     
         if (templates[i].id===id) {
             res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev});
