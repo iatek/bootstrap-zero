@@ -17,14 +17,14 @@
                 
                 <h4>
                     <% for (var tag in template.tags) { %>
-                    <a href="/tagged/<%=template.tags[tag]%>" class="label label-info" target="ext"><%=template.tags[tag]%></a> 
+                    <a href="/tagged/<%=template.tags[tag]%>" class="label label-default" target="ext"><%=template.tags[tag]%></a> 
                     <% } %>
                 </h4>
                 
                 <h4 class="pull-right clearfix">
+                    <a href="<%=template.downloadUrl%>" class="label label-info" target="ext" title="Download this template">Download</a> 
+                    <a href="<%=template.sourceUrl%>" class="label label-info" target="ext" title="Get the HTML, CSS and JavaScript for this template">Code</a> 
                     <a href="<%=template.previewUrl%>" class="label label-success" target="ext" title="Preview this Bootstrap template">Preview</a> 
-                    <a href="<%=template.downloadUrl%>" class="label label-default" target="ext" title="Download this template">Download</a> 
-                    <a href="<%=template.sourceUrl%>" class="label label-default" target="ext" title="Get the HTML, CSS and JavaScript for this template">Code</a> 
                 </h4>
       		</div>
       	</div>
