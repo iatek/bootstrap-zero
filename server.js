@@ -29,14 +29,13 @@ app.get('/templates/:id', function(req, res){
         console.log("t..."+i+":"+templates[i].id);
     
         if (templates[i].id===id) {
-            res.render("detail",{template:templates[i],utils:utils});
+            res.render("detail",{template:templates[i],utils:utils,next:templates[i-1],prev:templates[i+1]});
             return;
         }    
         
     }
     
     res.render("404",{error:"no results"});
-    //res.render("index",{templates:data,utils:utils});
     
 });
 
