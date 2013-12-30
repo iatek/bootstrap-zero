@@ -70,7 +70,7 @@ module.exports =
         name:"Grid - /assets/templates/73778.png",
         title:"Grid",
         short:"Demonstrates the powerful Bootstrap grid",
-        full:"This template uses multiple grid columns and widths.",
+        full:"This template uses multiple grid columns and widths. Use this example to see how to control the Bootstrap grid behavior and breakpoints on different devices you can combine the large, small or tiny grid sizes. Use combinations of .col-xs-*, .col-sm-* and .col-lg-* to manipulate the horizontal and vertical display of elements on multiple devices.",
         tags:["starter","grid","responsive","stacking","collapse","mobile"],
         imgUrl:"http://www.bootply.com/assets/templates/73778.png",
         downloadUrl:"http://bootply.com/download/73778",
