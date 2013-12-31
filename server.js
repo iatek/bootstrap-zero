@@ -9,11 +9,10 @@ var port = process.env.PORT || 4000,
 app.get('/', function(req, res){
 
     var templates = require('./templates');
+    var starters = [], themes = [];
     
     for (var i=0;i<templates.length;i++) {
     
-        var starters = [], themes = [];
-        
         if (templates[i].tags.indexOf("starter")!=-1) {
             starters.push(templates[i]);    
         }

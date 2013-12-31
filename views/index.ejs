@@ -48,12 +48,12 @@
       		</div>
       	</div>
       	<div class="row" id="themes">
-      	    <% for(i in templates) {%>
+      	    <% for(i in themes) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><%=templates[i].title%></h3></div>
-                	<div class="panel-body"><a href="/templates/<%=templates[i].id%>"><img src="<%=templates[i].imgUrl%>" class="img-responsive" /></a></div>
-                	<div class="panel-footer"><strong><%=templates[i].short%></strong></div>
+                  	<div class="panel-heading"><h3><%=themes[i].title%></h3></div>
+                	<div class="panel-body"><a href="/templates/<%=themes[i].id%>"><img src="<%=themes[i].imgUrl%>" class="img-responsive" /></a></div>
+                	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
                 </div>              
       		</div>
       		<% } %>
