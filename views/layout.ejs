@@ -44,7 +44,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 <li class="tw-btn hidden-xs"><a href="https://twitter.com/BootstrapZero" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @BootstrapZero</a> &nbsp; &nbsp; </li>
-                <li class="active">
+                <li>
                   <a href="#aboutModal" data-toggle="modal">About</a>
                 </li>
             </ul>
@@ -130,7 +130,7 @@
         $(document).ready(function() {
             
             /* highlight the top nav as scrolling occurs */
-            $('#wrap').scrollspy({ target: '#navbar' })
+            $('body').scrollspy({ target: '#navbar' })
             
             /* sunburst effect */
             $('#masthead').pow({
