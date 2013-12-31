@@ -1,0 +1,164 @@
+        html,
+        body {
+          height: 100%;
+        }
+        
+        body {
+        	padding-top: 51px;
+          	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+          	font-weight: 300;
+          	-webkit-font-smoothing: antialiased;
+        	background-color:#f9f9f9;
+        }
+        
+        h3 {
+          	margin-top:4px;
+            margin-bottom:4px;
+          	font-size:18px;
+        }
+        
+        h2 {
+          	margin-top:30px;
+            margin-bottom:5px;
+        }
+        
+                /* Wrapper for page content to push down footer */
+        #wrap {
+          min-height: 100%;
+          height: auto !important;
+          height: 100%;
+          /* Negative indent footer by its height */
+          margin: 0 auto -100px;
+          /* Pad bottom by footer height */
+          padding: 0 0 100px;
+        }
+        
+        #masthead {
+        	min-height:370px;
+        	color:#563d7c;
+          	background-color:#563d7c;
+            background-size:cover;
+          	margin-top:0;
+            margin-bottom:30px;
+            padding-top:20px;
+          	text-shadow: 0 1px 1px rgba(0,0,0,.1);
+          	font-weight: 500;
+          	border:0 solid #ccc;
+          	border-top-width:1px;
+          	border-top-color:#896fad;
+        }
+        
+        #masthead .lead {
+        
+        }
+        
+        #masthead h1 {
+        	font-size: 32px;
+        	line-height: 1;
+          	color:#fff;
+          	margin-top:40px;
+          	min-height:250px;
+          	border-radius:0px;
+        
+        }
+        
+        #masthead .well {
+        	margin-top:13%;
+        	background-color:#563d7c;
+          	border-color:#452c6b;
+        }
+        
+        .icon-bar {
+        	background-color:#fff;
+        }
+        
+        #main .panel-body {
+        	overflow:hidden;
+          	padding:0;
+        }
+        
+        #main .col-sm-4 {
+            padding-bottom:30px;
+        }
+        
+        #main .panel {
+            border-color:#e3e3e3;
+        }
+        
+        
+        @media screen and (min-width: 768px) {
+        	#masthead h1 {
+        		font-size:40px;
+            	padding-top:40px;
+            	line-height
+        	}
+        }
+        
+        .navbar-bright {
+        	background-color:#563d7c;
+            color:#CCFF33;
+            border-width:0;
+          	text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+            border-bottom-width:1px;
+          	border-bottom-color:#231c6b;
+        }
+          
+        .navbar-bright a {
+          	color:#CCFF33;
+        }
+        
+        .navbar-bright li > a:hover {
+            background-color:#452c6b;
+        }
+        
+        @media (min-width: 979px) {
+            #sidebar.affix-top {
+              position: static;
+              margin-top:30px;
+              width:228px;
+            }
+            
+            #sidebar.affix {
+              position: fixed;
+              top:70px;
+              width:228px;
+            }
+        
+          	#main .panel-body  {
+          		min-height:240px;
+          		max-height:240px;
+        	}
+        }
+        
+        #sidebar li.active {
+          	border:0 #eee solid;
+          	border-right-width:4px;
+        }
+        
+        footer {
+            padding-top:30px;
+            padding-bottom:30px;
+        	background-color:#563d7c;
+        	margin-top:50px;
+          	color:#efefef;
+          	height: 120px;
+        }
+        
+        footer a {
+        	color:#cdbfe3;
+        }
+        footer a:hover {
+        	color:#decff4;
+        }
+        
+        section {
+        	background-color:#fff;
+        }
+        
+        @media (min-width: 768px) {
+        
+          	#main .panel-body  {
+          		min-height:190px;
+          		max-height:190px;
+        	}
+        }
