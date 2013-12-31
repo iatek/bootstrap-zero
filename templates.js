@@ -366,9 +366,9 @@ module.exports =
     },
 	{
         id:"96266",
-        name:"Faceboot",
-        title:"Faceboot",
-        short:"Facebook style collapsing sidebar",
+        name:"Facebook",
+        title:"Facebook",
+        short:"Facebook-style collapsing sidebar",
         full:"A Facebook inspired template and theme that features a responsive collapsible off-canvas sidebar. This template also features a navbar search form, status post modal and content cards.",
         tags:["theme","sidebar","facebook"],
         imgUrl:"http://www.bootply.com/assets/templates/96266.png",
