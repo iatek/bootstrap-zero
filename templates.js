@@ -31,7 +31,7 @@ module.exports =
         name:"Fixed_Width",
         title:"Fixed Width",
         short:"Pixel-based container layout",
-        full:"Standard Bootstrap uses a fluid or percentage-based container. This template exemplifies a fixed or pixel-based container.",
+        full:"Bootstrap out-of-the-box uses a fluid or percentage-based container. Using a simple wrapper DIV you can easily create a fixed (ie:pixel-based) width container as this template does.",
         tags:["starter","fixed","width"],
         imgUrl:"http://www.bootply.com/assets/templates/94967.png",
         downloadUrl:"http://bootply.com/download/94967",
