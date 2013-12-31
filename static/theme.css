@@ -91,6 +91,8 @@
         
         #main .panel {
             border-color:#e3e3e3;
+            background-color:#fff;
+            border-radius:0;
         }
         
         @media screen and (min-width: 768px) {
