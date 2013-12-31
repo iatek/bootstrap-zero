@@ -68,9 +68,10 @@
         	background-color:#fff;
         }
         
-        #main a,a:link {
+        #main a,#main a:link {
             color:#563d7c;
         }
+        
         #main a:hover {
             color:#341b5a;
             text-decoration:none;
