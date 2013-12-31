@@ -11,14 +11,6 @@
         	background-color:#f9f9f9;
         }
         
-        a,a:link {
-            color:#563d7c;
-        }
-        a:hover {
-            color:#341b5a;
-            text-decoration:none;
-        }
-        
         h3 {
           	margin-top:4px;
             margin-bottom:4px;
@@ -76,6 +68,14 @@
         	background-color:#fff;
         }
         
+        #main a,a:link {
+            color:#563d7c;
+        }
+        #main a:hover {
+            color:#341b5a;
+            text-decoration:none;
+        }
+        
         #main > .row {
             padding-top:30px;
         }
@@ -91,8 +91,11 @@
         
         #main .panel {
             border-color:#e3e3e3;
-            background-color:#fff;
             border-radius:0;
+        }
+        
+        #main .panel-heading {
+            background-color:#fff;
         }
         
         @media screen and (min-width: 768px) {
