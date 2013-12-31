@@ -21,14 +21,14 @@
     </div>
     
     <div class="container" id="main">
-	    <div class="row">
+	    <div class="row" id="starters">
       		<div class="col-md-12">
       			<h2>Starter Templates</h2>
                 <p>Kickstart your Bootstrap design with these clean, vanilla templates.</p>
                 <hr>
       		</div>
       	</div>
-      	<div class="row" id="templates">
+      	<div class="row">
       	    <% for(i in starters) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
@@ -40,14 +40,14 @@
       		<% } %>
         </div>
         <hr>
-        <div class="row">
+        <div class="row" id="custom">
       		<div class="col-md-12">
       			<h2>Templates with Themes</h2>
                 <p>Get a less Bootstrap-y look with these fresh custom themes</p>
                 <hr>
       		</div>
       	</div>
-      	<div class="row" id="themes">
+      	<div class="row">
       	    <% for(i in themes) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
