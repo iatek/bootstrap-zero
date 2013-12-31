@@ -9,7 +9,21 @@ var port = process.env.PORT || 4000,
 app.get('/', function(req, res){
 
     var templates = require('./templates');
-    res.render("index",{templates:templates,utils:utils});
+    
+    for (var i=0;i<templates.length;i++) {
+    
+        var starters = [], themes = [];
+        
+        if (templates[i].tags.indexOf("starter")!=-1) {
+            starters.push(templates[i]);    
+        }
+        
+        if (templates[i].tags.indexOf("theme")!=-1) {
+            themes.push(templates[i]);  
+        } 
+    }
+    
+    res.render("index",{templates:templates,starters:starters,themes:themes,utils:utils});
     
 });
 
@@ -26,7 +40,6 @@ app.get('/templates/:id', function(req, res){
     
     for (var i=0;i<templates.length;i++) {
     
-        //console.log("t..."+i+":"+templates[i].id);
         var prev = (templates[i-1])||templates[templates.length-1];
         var next = (templates[i+1])||templates[0];
     
