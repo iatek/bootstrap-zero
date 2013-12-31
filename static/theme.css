@@ -171,4 +171,6 @@
             vertical-align: middle;
         }
         
-        
+        .navbar-toggle {
+            outline:0;
+        }
