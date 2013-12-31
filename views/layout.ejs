@@ -18,6 +18,11 @@
         <link rel="apple-touch-icon" sizes="114x114" href="/bootstrap/img/apple-touch-icon-114x114.png">
 
         <style type="text/css">
+        html,
+        body {
+          height: 100%;
+        }
+        
         body {
         	padding-top: 51px;
           	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -35,6 +40,17 @@
         h2 {
           	margin-top:30px;
             margin-bottom:5px;
+        }
+        
+                /* Wrapper for page content to push down footer */
+        #wrap {
+          min-height: 100%;
+          height: auto !important;
+          height: 100%;
+          /* Negative indent footer by its height */
+          margin: 0 auto -100px;
+          /* Pad bottom by footer height */
+          padding: 0 0 100px;
         }
         
         #masthead {
@@ -145,6 +161,7 @@
         	background-color:#563d7c;
         	margin-top:50px;
           	color:#efefef;
+          	height: 100px;
         }
         
         footer a {
@@ -168,6 +185,8 @@
         </style>
     </head>
     <body>
+    
+    <div id="wrap">
     
     <header class="navbar navbar-bright navbar-fixed-top" role="banner">
       <div class="container">
@@ -200,6 +219,8 @@
     </header>
     
     <%-body%>        
+
+    </div><!--/wrap-->
 
     <footer>
       <div class="container" role="contentinfo">
