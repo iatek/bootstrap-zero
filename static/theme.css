@@ -167,3 +167,8 @@
             margin-top: 15px;
         }
         
+        .list-inline>li {
+            vertical-align: middle;
+        }
+        
+        
