@@ -6,6 +6,7 @@ exports.init = function(port) {
     
     app.locals({
         _layoutFile:'layout.ejs',
+        path:''
     });
 
     app.configure(function(){

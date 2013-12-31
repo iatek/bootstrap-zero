@@ -31,18 +31,20 @@
           <a class="navbar-brand" id="brand" href="http://www.bootstrapzero.com/" title="Free templates and themes for Twitter Bootstrap">Bootstrap <span style="color:#f9f9f9;font-weight:200;">Zero</span></a>
         </div>
         <nav class="collapse navbar-collapse" role="navigation" id="navbar">
-          <ul class="nav navbar-nav">
-            <li>
-              <a href="#starters" title="Bootstrap starter templates">Starter Templates</a>
-            </li>
-            <li>
-              <a href="#custom" title="Custom Bootstrap templates">Custom Templates</a>
-            </li>
-          </ul>
-          <ul class="nav navbar-nav navbar-right">
-              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-              <li class="tw-btn hidden-xs"><a href="https://twitter.com/BootstrapZero" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @BootstrapZero</a> &nbsp; &nbsp; </li>
-          </ul>
+            <% if (path==="/"){ %>
+            <ul class="nav navbar-nav">
+                <li>
+                  <a href="#starters" title="Bootstrap starter templates">Starter Templates</a>
+                </li>
+                <li>
+                  <a href="#custom" title="Custom Bootstrap templates">Custom Templates</a>
+                </li>
+            </ul>
+            <% } %>
+            <ul class="nav navbar-nav navbar-right">
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <li class="tw-btn hidden-xs"><a href="https://twitter.com/BootstrapZero" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @BootstrapZero</a> &nbsp; &nbsp; </li>
+            </ul>
         </nav>
       </div>
     </header>

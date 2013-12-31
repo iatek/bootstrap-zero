@@ -22,7 +22,7 @@ app.get('/', function(req, res){
         } 
     }
     
-    res.render("index",{templates:templates,starters:starters,themes:themes,utils:utils});
+    res.render("index",{templates:templates,starters:starters,themes:themes,utils:utils,path:"/"});
     
 });
 
@@ -43,6 +43,36 @@ app.get('/templates/:id', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].id===id) {
+            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev});
+            return;
+        }    
+        
+    }
+    
+    res.render("404",{error:"no results"});
+    
+});
+
+app.get('/template/:title', function(req, res){
+
+    console.log("/template by title.......");
+
+    var templates = require('./templates');
+    var title = req.params.title;
+   
+    if (typeof title==="undefined") {
+        return;
+    }
+    else {
+        title = title.replace("-"," ");
+    }
+    
+    for (var i=0;i<templates.length;i++) {
+    
+        var prev = (templates[i-1])||templates[templates.length-1];
+        var next = (templates[i+1])||templates[0];
+    
+        if (templates[i].title===title) {
             res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev});
             return;
         }    
