@@ -107,7 +107,7 @@
           	color:#CCFF33;
         }
         
-        .navbar-bright li > a:hover {
+        .navbar-bright li > a:hover, .navbar-bright li.active > a {
             background-color:#452c6b;
         }
         
