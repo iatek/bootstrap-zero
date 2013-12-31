@@ -72,6 +72,10 @@
         	background-color:#fff;
         }
         
+        #main > .row {
+            padding-top:30px;
+        }
+        
         #main .panel-body {
         	overflow:hidden;
           	padding:0;
