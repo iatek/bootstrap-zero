@@ -91,16 +91,17 @@
         }
         
         #main .panel {
-            border-color:#ececec;
+            border-color:#e6e6e6;
             border-radius:0;
             border-width:2px;
             border-top-width:0;
             border-left-width:0;
-            box-shadow: 0 1px 0 rgba(0,0,0,0.08);
+            box-shadow: 1px 1px 0 rgba(0,0,0,0.08);
         }
         
         #main .panel-heading {
             background-color:#fff;
+            border-bottom-width:0;
         }
         
         @media screen and (min-width: 768px) {
