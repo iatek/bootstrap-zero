@@ -91,9 +91,9 @@
         }
         
         #main .panel {
-            border-color:#e3e3e3;
+            border-color:#f0f0f0;
             border-radius:0;
-            border-width:0;
+            border-width:1;
         }
         
         #main .panel-heading {
