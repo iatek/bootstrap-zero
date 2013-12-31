@@ -34,7 +34,7 @@
         }
         
         #masthead {
-        	min-height:370px;
+        	min-height:420px;
         	color:#452c6b;
           	background-color:#563d7c;
             background-size:cover;
@@ -46,10 +46,6 @@
           	border:0 solid #ccc;
           	border-top-width:1px;
           	border-top-color:#785e9c;
-        }
-        
-        #masthead .lead {
-        
         }
         
         #masthead h1 {
@@ -89,12 +85,10 @@
             border-color:#e3e3e3;
         }
         
-        
         @media screen and (min-width: 768px) {
         	#masthead h1 {
-        		font-size:40px;
+        		font-size:52px;
             	padding-top:40px;
-            	line-height
         	}
         }
         
