@@ -8,7 +8,7 @@
           	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
           	font-weight: 300;
           	-webkit-font-smoothing: antialiased;
-        	background-color:#f9f9f9;
+        	background-color:#f3f3f3;
         }
         
         h3 {
@@ -93,6 +93,7 @@
         #main .panel {
             border-color:#e3e3e3;
             border-radius:0;
+            border-width:0;
         }
         
         #main .panel-heading {
