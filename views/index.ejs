@@ -50,8 +50,8 @@
       	    <% for(i in themes) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><%=themes[i].title%></h3></div>
-                	<div class="panel-body"><a href="/templates/<%=themes[i].id%>"><img src="<%=themes[i].imgUrl%>" class="img-responsive" /></a></div>
+                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(" ","-")%>"><%=themes[i].title%></a></h3></div>
+                	<div class="panel-body"><a href="/templates/<%=themes[i].id%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].full%>" class="img-responsive" /></a></div>
                 	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
                 </div>              
       		</div>
