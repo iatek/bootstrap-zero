@@ -53,7 +53,7 @@ app.get('/templates/:id', function(req, res){
     
 });
 
-app.get('/template/:title', function(req, res){
+app.get('/bootstrap-template/:title', function(req, res){
 
     console.log("/template by title.......");
 
@@ -72,7 +72,7 @@ app.get('/template/:title', function(req, res){
         var prev = (templates[i-1])||templates[templates.length-1];
         var next = (templates[i+1])||templates[0];
     
-        if (templates[i].title===title) {
+        if (templates[i].title.toLowerCase()===title.toLowerCase()) {
             res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev});
             return;
         }    
