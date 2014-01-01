@@ -1,7 +1,7 @@
 bootstrap-zero
 ==============
 
-Free Bootstrap Templates and Themes Project
+Bootstrap Templates and Themes Project
 ----
 
 - Free, open source Bootstrap templates and themes for Twitter Bootstrap.
