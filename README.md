@@ -31,7 +31,7 @@ Basic, sidebar, affix, off-canvas, carousel, gallery, fixed width, fixed navbar,
 Custom Templates and Themes
 ----
     
-Facebook style, Google+ style, Mashable-style, TheNextWeb style, off-canvas, one page app, long scrolling, full screen carousel and others.
+Facebook style, Google+ style, Android Holo-style, Mashable-style, TheNextWeb style, off-canvas, one page app, long scrolling, full screen carousel and others.
 
 License
 ---

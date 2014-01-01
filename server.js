@@ -73,7 +73,7 @@ app.get('/bootstrap-template/:title', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].title.toLowerCase()===title.toLowerCase()) {
-            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev});
+            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev,title:title+" Bootstrap template"});
             return;
         }    
         
