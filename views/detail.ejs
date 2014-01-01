@@ -18,9 +18,17 @@
                     <div class="col-sm-7"><a href="<%=template.previewUrl%>" target="ext"><img src="<%=template.imgUrl%>" class="img-thumbnail img-responsive" alt="<%=template.title%> Bootstrap Template" /></a></div>
                     <div class="col-sm-5">
                         <p><%-template.full%></p>
+                        
+                        <p class="text-muted"><small>Responsive (Multiple Device Support)<br>
+                            <i class="fa fa-mobile" title="supports smartphone, iphone, android, galaxy, etc.."></i>
+                            <i class="fa fa-tablet" title="supports ipad, surface, kindle and other portrait tablet screen widths"></i>
+                            <i class="fa fa-laptop" title="supports laptop and landscape tablet screen widths"></i>
+                            <i class="fa fa-desktop" title="supports desktop, large monitors and larger screen widths"></i>
+                        </p>
+                        
                         <p class="text-muted"><small>Permalink<br><a href="/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g, "-")%>">http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g,"-")%></a></small></p>
-                        <h4 class="">
-                            <a href="<%=template.downloadUrl%>" class="label label-info" target="ext" title="Download this template">Download <i class="glyphicon glyphicon-download"></i></a> 
+                        <h4><br/>
+                            <a href="<%=template.downloadUrl%>" class="label label-info" target="ext" title="Download this template as HTML file">Download <i class="glyphicon glyphicon-circle-arrow-down"></i></a> 
                             <a href="<%=template.sourceUrl%>" class="label label-info" target="ext" title="Get the HTML, CSS and JavaScript for this template">Code</a> 
                             <a href="<%=template.previewUrl%>" class="label label-success" target="ext" title="Preview this Bootstrap template">Preview</a> 
                         </h4>
