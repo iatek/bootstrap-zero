@@ -22,15 +22,17 @@ Goal: Make Bootstrap templates that are..
 
 Standard Templates
 ----
-    Basic, sidebar, affix, off-canvas, carousel, gallery, fixed width, fixed navbar, blog, portal, app and others.
+    
+Basic, sidebar, affix, off-canvas, carousel, gallery, fixed width, fixed navbar, blog, portal, app and others.
 
 
 Custom Templates and Themes
 ----
-    Facebook style, Google+ style, Mashable-style, TheNextWeb style, off-canvas, one page app, long scrolling, full screen carousel and others.
+    
+Facebook style, Google+ style, Mashable-style, TheNextWeb style, off-canvas, one page app, long scrolling, full screen carousel and others.
 
 License
 ---
-GPL
+[MIT](https://github.com/iatek/bootstrap-zero/blob/master/LICENSE)
 
 
