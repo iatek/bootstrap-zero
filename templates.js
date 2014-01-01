@@ -103,7 +103,7 @@ module.exports =
         name:"Full Example - /assets/templates/65566.png",
         title:"Full Example",
         short:"A complete Bootstrap template",
-        full:"A Bootstrap template that exemplifies the Bootstrap CSS and many Bootstrap components such as buttons, tabs, panels, progress bars, pagination, labels and breadcrumbs.",
+        full:"A Bootstrap template that exemplifies the Bootstrap CSS and many Bootstrap components such as buttons, tabs, panels, progress bars, pagination, labels and breadcrumbs.<p>This template makes a great Bootstrap test page for demonstration of CSS, elements and components.</p>",
         tags:["starter","example","complete","tabs","panel","progress","buttons","label","context"],
         imgUrl:"http://www.bootply.com/assets/templates/65566.png",
         downloadUrl:"http://bootply.com/download/65566",
