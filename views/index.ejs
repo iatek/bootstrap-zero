@@ -34,7 +34,7 @@
       	    <% for(i in starters) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(" ","-")%>"><%=starters[i].title%></h3></a></div>
+                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=starters[i].title%></h3></a></div>
                 	<div class="panel-body"><a href="/templates/<%=starters[i].id%>"><img src="<%=starters[i].imgUrl%>" class="img-responsive" /></a></div>
                 	<div class="panel-footer"><strong><%=starters[i].short%></strong></div>
                 </div>              

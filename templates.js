@@ -171,8 +171,8 @@ module.exports =
     },
 	{
         id:"101498",
-        name:"Sign-In - /assets/templates/101498.png",
-        title:"Sign-In",
+        name:"Sign-In",
+        title:"Sign In",
         short:"Clean modal login form",
         full:"A simple login / sign-in page using the Bootstrap 3 modal. This example is shown inline, but could also be used as a pop-up modal.",
         tags:["starter","signin","login","modal"],
@@ -223,7 +223,7 @@ module.exports =
     },
 	{
         id:"90113",
-        name:"Plus - /assets/templates/90113.png",
+        name:"Plus",
         title:"Plus",
         short:"Google+ style with cards",
         full:"Google+ inspired responsive starter template with 2 top navs, cards, fluid columns and flat design. The template has login modal pop-up, home menu, and layout toggle that switches the grid between 2 and 3 columns.",
@@ -262,7 +262,7 @@ module.exports =
     },
 	{
         id:"85861",
-        name:"Dashboard - /assets/templates/85861.png",
+        name:"Dashboard",
         title:"Dashboard",
         short:"Control panel template",
         full:"This admin template for Bootstrap features a variety of tabular, form, progress and toolbox widgets in a multi-column responsive layout.",
@@ -392,7 +392,7 @@ module.exports =
     },
 	{
         id:"100702",
-        name:"Happy Scroll",
+        name:"HappyScroll",
         title:"Happy Scroll",
         short:"One page parallax style",
         full:"A bold, bright Bootstrap template that features a centered fly-in navbar with sections that activate when scrolling. This template also includes a Google Maps contact section, social media buttons and fixed image background.",
