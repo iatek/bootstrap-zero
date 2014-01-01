@@ -86,7 +86,7 @@ module.exports =
     },
 	{
         id:"100983",
-        name:"Affix Sidebar - /assets/templates/100983.png",
+        name:"Affix Sidebar",
         title:"Affix Sidebar",
         short:"Sidebar like the Bootstrap docs",
         full:"Similar to the Bootstrap documentation, this template features a left-side nav that attaches once scrolling goes beyond a large top header with ad space.",
@@ -100,7 +100,7 @@ module.exports =
     },
 	{
         id:"65566",
-        name:"Full Example - /assets/templates/65566.png",
+        name:"Full Example",
         title:"Full Example",
         short:"A complete Bootstrap template",
         full:"A Bootstrap template that exemplifies the Bootstrap CSS and many Bootstrap components such as buttons, tabs, panels, progress bars, pagination, labels and breadcrumbs.<p>This template makes a great Bootstrap test page for demonstration of CSS, elements and components.</p>",
@@ -114,7 +114,7 @@ module.exports =
     },
 	{
         id:"101053",
-        name:"Complex Navbar - /assets/templates/101053.png",
+        name:"Complex Navbar",
         title:"Complex Navbar",
         short:"Nav with buttons, text and form",
         full:"This Bootstrap layout will show you how to create a fixed top navbar with dropdowns, buttons, text and right-aligned search form.",
