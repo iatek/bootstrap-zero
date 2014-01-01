@@ -4,7 +4,11 @@
       		    <div class="row">
                     <div class="col-sm-7">
                         <h1><%=template.title%> Bootstrap Template</h1>
-                        <p class="lead"><%=template.short%> &nbsp; <span class="label label-default">Bootstrap v3.0.3</span> </p>
+                        <p class="lead"><%=template.short%> &nbsp; 
+                            <% if (typeof template.bootstrapVersion != "undefined") { %>
+                            <span class="label label-default" title="Template is compatible with and tested for Bootstrap version">Bootstrap v3.0.3</span>
+                            <% } %>
+                        </p>
                     </div>
                     <div class="col-sm-5">
                        
