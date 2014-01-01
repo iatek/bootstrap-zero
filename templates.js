@@ -5,13 +5,14 @@ module.exports =
         name:"Basic",
         title:"Basic",
         short:"The simple vanilla template",
-        full:"This is the defacto starter template for Bootstrap 3 that includes a top navigation bar and centered block.",
-        tags:["basic","starter"],
+        full:"Looking for a basic vanilla starter template for Bootstrap? This is the defacto starter template for Bootstrap 3 that includes a top navigation bar and centered block.",
+        tags:["basic","starter","empty"],
         imgUrl:"http://www.bootply.com/assets/templates/101004.png",
         downloadUrl:"http://bootply.com/download/101004",
         sourceUrl:"http://bootply.com/101004",
         previewUrl:"http://bootply.com/render/101004",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
     {
         id:"100993",
@@ -24,7 +25,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/100993",
         sourceUrl:"http://bootply.com/100993",
         previewUrl:"http://bootply.com/render/100993",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
     {
         id:"94967",
@@ -37,11 +39,12 @@ module.exports =
         downloadUrl:"http://bootply.com/download/94967",
         sourceUrl:"http://bootply.com/94967",
         previewUrl:"http://bootply.com/render/94967",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"75225",
-        name:"Fixed Navbar - /assets/templates/75225.png",
+        name:"Fixed Navbar",
         title:"Fixed Navbar",
         short:"Sticky top nav template",
         full:"A Basic Bootstrap template with fluid width and sticky top navigation.",
@@ -50,11 +53,12 @@ module.exports =
         downloadUrl:"http://bootply.com/download/75225",
         sourceUrl:"http://bootply.com/75225",
         previewUrl:"http://bootply.com/render/75225",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
     {
         id:"75231",
-        name:"Sticky Footer - /assets/templates/75231.png",
+        name:"Sticky Footer",
         title:"Sticky Footer",
         short:"Footer always pushed to the bottom",
         full:"A simple Bootstrap template with a sticky footer that always stays on the bottom regardless of page content.",
@@ -63,11 +67,12 @@ module.exports =
         downloadUrl:"http://bootply.com/download/75231",
         sourceUrl:"http://bootply.com/75231",
         previewUrl:"http://bootply.com/render/75231",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"73778",
-        name:"Grid - /assets/templates/73778.png",
+        name:"Grid",
         title:"Grid",
         short:"Demonstrates the powerful Bootstrap grid",
         full:"This template uses multiple grid columns and widths. Use this example to see how to control the Bootstrap grid behavior and breakpoints on different devices you can combine the large, small or tiny grid sizes. Use combinations of .col-xs-*, .col-sm-* and .col-lg-* to manipulate the horizontal and vertical display of elements on multiple devices.",
@@ -76,7 +81,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/73778",
         sourceUrl:"http://bootply.com/73778",
         previewUrl:"http://bootply.com/render/73778",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"100983",
@@ -89,7 +95,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/100983",
         sourceUrl:"http://bootply.com/100983",
         previewUrl:"http://bootply.com/render/100983",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"65566",
@@ -102,7 +109,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/65566",
         sourceUrl:"http://bootply.com/65566",
         previewUrl:"http://bootply.com/render/65566",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"101053",
@@ -115,20 +123,22 @@ module.exports =
         downloadUrl:"http://bootply.com/download/101053",
         sourceUrl:"http://bootply.com/101053",
         previewUrl:"http://bootply.com/render/101053",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"88026",
         name:"OffCanvas",
         title:"Off Canvas Sidebar",
         short:"Collapsing left sidebar",
-        full:"A Bootstrap template with left siebar that collapses off-canvas on smaller width devices like portrait tables and smartphones.",
+        full:"A Bootstrap template with left sidebar that collapses off-canvas on smaller width devices like portrait tables and smartphones.",
         tags:["starter","responsive","off-canvas","toggle"],
         imgUrl:"http://www.bootply.com/assets/templates/88026.png",
         downloadUrl:"http://bootply.com/download/88026",
         sourceUrl:"http://bootply.com/88026",
         previewUrl:"http://bootply.com/render/88026",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
 		id:"97459",
@@ -141,7 +151,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/97459",
         sourceUrl:"http://bootply.com/97459",
         previewUrl:"http://bootply.com/render/97459",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"62603",
@@ -154,7 +165,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/62603",
         sourceUrl:"http://bootply.com/62603",
         previewUrl:"http://bootply.com/render/62603",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.0"
     },
 	{
         id:"101009",
@@ -167,7 +179,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/101009",
         sourceUrl:"http://bootply.com/101009",
         previewUrl:"http://bootply.com/render/101009",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.2"
     },
 	{
         id:"101498",
@@ -180,7 +193,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/101498",
         sourceUrl:"http://bootply.com/101498",
         previewUrl:"http://bootply.com/render/101498",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"96937",
@@ -188,25 +202,27 @@ module.exports =
         title:"App",
         short:"Gmail-style full height layout",
         full:"100% width app style template for Bootstrap. The content area and sidebar have independant scrollbars. The navbar has a left and right-aligned links.",
-        tags:["starter","fixed","100%","full","scroll","scrollbars"],
+        tags:["starter","fixed","100%","full","scroll","scrollbars","app","gmail"],
         imgUrl:"http://www.bootply.com/assets/templates/96937.png",
         downloadUrl:"http://bootply.com/download/96937",
         sourceUrl:"http://bootply.com/96937",
         previewUrl:"http://bootply.com/render/96937",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"101499",
         name:"Blog",
         title:"Blog",
         short:"Ideal for articles and item lists",
-        full:"A simple starter for a blog or article list. This template also features a social button toolbar.",
-        tags:["starter","fixed","width"],
+        full:"A simple starter for a blog or article list. This template also features a navbar with search form, ad space, and a social button toolbar which uses Font Awesome fonts.",
+        tags:["starter","ad","blog","list","font-awesome","search"],
         imgUrl:"http://www.bootply.com/assets/templates/101499.png",
         downloadUrl:"http://bootply.com/download/101499",
         sourceUrl:"http://bootply.com/101499",
         previewUrl:"http://bootply.com/render/101499",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"101506",
@@ -219,7 +235,8 @@ module.exports =
         downloadUrl:"http://bootply.com/download/101506",
         sourceUrl:"http://bootply.com/101506",
         previewUrl:"http://bootply.com/render/101506",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"90113",
