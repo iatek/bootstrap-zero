@@ -19,10 +19,12 @@
                     <div class="col-sm-5">
                         <p><%-template.full%></p>
                         <p class="text-muted"><small>Permalink<br><a href="/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g, "-")%>">http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g,"-")%></a></small></p>
-                        <p class="text-right"><br/>
-                            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-size="large" data-align="right" data-related="BootstrapZero" data-text="Another free template from @BootstrapZero" data-url="http://www.bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(" ","-")%>">Tweet</a>
-                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                        </p>
+                        <h4 class="">
+                            <a href="<%=template.downloadUrl%>" class="label label-info" target="ext" title="Download this template">Download</a> 
+                            <a href="<%=template.sourceUrl%>" class="label label-info" target="ext" title="Get the HTML, CSS and JavaScript for this template">Code</a> 
+                            <a href="<%=template.previewUrl%>" class="label label-success" target="ext" title="Preview this Bootstrap template">Preview</a> 
+                        </h4>
+                        
                     </div>
                 </div>
                 
@@ -32,11 +34,10 @@
                     <% } %>
                 </h4>
                 
-                <h4 class="pull-right clearfix">
-                    <a href="<%=template.downloadUrl%>" class="label label-info" target="ext" title="Download this template">Download</a> 
-                    <a href="<%=template.sourceUrl%>" class="label label-info" target="ext" title="Get the HTML, CSS and JavaScript for this template">Code</a> 
-                    <a href="<%=template.previewUrl%>" class="label label-success" target="ext" title="Preview this Bootstrap template">Preview</a> 
-                </h4>
+                <p class="text-right"><br/>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-size="large" data-align="right" data-related="BootstrapZero" data-text="Another free template from @BootstrapZero" data-url="http://www.bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(" ","-")%>">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                </p>
       		</div>
       	</div>
       	<hr>
