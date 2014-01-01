@@ -120,10 +120,10 @@ module.exports =
 	{
         id:"88026",
         name:"OffCanvas",
-        title:"Off-canvas Sidebar",
+        title:"Off Canvas Sidebar",
         short:"Collapsing left sidebar",
-        full:"A Bootstrap template with left siebar that collapses off-canvas on smaller width devices like portait tables and smartphones.",
-        tags:["starter","responsive","off-canvase","toggle"],
+        full:"A Bootstrap template with left siebar that collapses off-canvas on smaller width devices like portrait tables and smartphones.",
+        tags:["starter","responsive","off-canvas","toggle"],
         imgUrl:"http://www.bootply.com/assets/templates/88026.png",
         downloadUrl:"http://bootply.com/download/88026",
         sourceUrl:"http://bootply.com/88026",
