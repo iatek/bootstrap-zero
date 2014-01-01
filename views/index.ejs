@@ -26,7 +26,7 @@
 	    <div class="row" id="starters">
       		<div class="col-md-12">
       			<h2>Starter Templates</h2>
-                <p>Kickstart your Bootstrap design with these clean, vanilla templates.</p>
+                <p>Kickstart your Bootstrap design with these clean, standard templates.</p>
                 <hr>
       		</div>
       	</div>
@@ -35,7 +35,7 @@
   			<div class="col-sm-4">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=starters[i].title%></h3></a></div>
-                	<div class="panel-body"><a href="/templates/<%=starters[i].id%>"><img src="<%=starters[i].imgUrl%>" class="img-responsive" /></a></div>
+                	<div class="panel-body"><a href="/templates/<%=starters[i].id%>"><img src="<%=starters[i].imgUrl%>" alt="<%=starters[i].tags%>" class="img-responsive" /></a></div>
                 	<div class="panel-footer"><strong><%=starters[i].short%></strong></div>
                 </div>              
       		</div>
@@ -54,7 +54,7 @@
   			<div class="col-sm-4">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(" ","-")%>"><%=themes[i].title%></a></h3></div>
-                	<div class="panel-body"><a href="/templates/<%=themes[i].id%>"><img src="<%=themes[i].imgUrl%>" alt="<%-themes[i].full%>" class="img-responsive" /></a></div>
+                	<div class="panel-body"><a href="/templates/<%=themes[i].id%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
                 	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
                 </div>              
       		</div>
