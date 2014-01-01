@@ -373,13 +373,14 @@ module.exports =
         name:"Darkside",
         title:"Darkside",
         short:"Dark with off-canvas sidebar",
-        full:"The deep gray layout features a sidebar drawer menu that responsively collapse off-canvas a smaller devices.",
-        tags:["theme","fixed","dark","sidebar","collapse","off-canvas"],
+        full:"The deep gray layout features a sidebar drawer menu that responsively collapse off-canvas on smaller devices such as tablets and smartphones. Once the sidebar is collapsed, it can be toggled on so that it slides in from the left and consumes 40% of the screen width. This template also includes a sticky bottom footer that stays at the bottom regardless of content hieght.",
+        tags:["theme","fixed","dark","sidebar","collapse","off-canvas","mobile","toggle","footer","sticky"],
         imgUrl:"http://www.bootply.com/assets/templates/88105.png",
         downloadUrl:"http://bootply.com/download/88105",
         sourceUrl:"http://bootply.com/88105",
         previewUrl:"http://bootply.com/render/88105",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.3"
     },
 	{
         id:"96266",
@@ -387,7 +388,7 @@ module.exports =
         title:"Facebook",
         short:"Facebook-style collapsing sidebar",
         full:"A Facebook inspired template and theme that features a responsive collapsible off-canvas sidebar. This template also features a navbar search form, status post modal and content cards.",
-        tags:["theme","sidebar","facebook"],
+        tags:["theme","sidebar","facebook","off-canvas","toggle"],
         imgUrl:"http://www.bootply.com/assets/templates/96266.png",
         downloadUrl:"http://bootply.com/download/96266",
         sourceUrl:"http://bootply.com/96266",

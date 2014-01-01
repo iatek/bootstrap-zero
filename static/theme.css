@@ -28,9 +28,9 @@
           height: auto !important;
           height: 100%;
           /* Negative indent footer by its height */
-          margin: 0 auto -120px;
+          margin: 0 auto -150px;
           /* Pad bottom by footer height */
-          padding: 0 0 120px;
+          padding: 0 0 150px;
         }
         
         #masthead {
@@ -158,7 +158,7 @@
         	background-color:#563d7c;
         	margin-top:50px;
           	color:#efefef;
-          	height: 130px;
+          	height: 150px;
         }
         
         footer a {
