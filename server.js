@@ -64,7 +64,7 @@ app.get('/bootstrap-template/:title', function(req, res){
         return;
     }
     else {
-        title = title.replace("-"," ");
+        title = title.replace(/-/g," ");
     }
     
     for (var i=0;i<templates.length;i++) {
