@@ -43,7 +43,7 @@ app.get('/templates/:id', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].id===id) {
-            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev});
+            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev,title:templates[i].title+" Bootstrap template",desc:"Boostrap " + templates[i].title + "template. This is a free, responsive starter template and theme for Bootstrap 3."});
             return;
         }    
         
