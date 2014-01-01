@@ -413,13 +413,14 @@ module.exports =
         name:"HappyScroll",
         title:"Happy Scroll",
         short:"One page parallax style",
-        full:"A bold, bright Bootstrap template that features a centered fly-in navbar with sections that activate when scrolling. This template also includes a Google Maps contact section, social media buttons and fixed image background.",
+        full:"A bold, bright Bootstrap template that features a centered fly-in navbar with sections that activate when scrolling. This template also includes a Google Maps contact section, social media buttons, sticky footer and fixed image background.",
         tags:["fixed","scrollspy","google-maps","map","sections","theme"],
         imgUrl:"http://www.bootply.com/assets/templates/100702.png",
         downloadUrl:"http://bootply.com/download/100702",
         sourceUrl:"http://bootply.com/100702",
         previewUrl:"http://bootply.com/render/100702",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        bootstrapVersion:"3.0.2"
     },
 	{
         id:"102931",
