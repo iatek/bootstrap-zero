@@ -111,6 +111,10 @@
         	}
         }
         
+        .label-inverse {
+            background-color:#fff;
+        }
+        
         .navbar-bright {
         	background-color:#563d7c;
             color:#CCFF33;
