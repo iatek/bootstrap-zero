@@ -5,7 +5,7 @@
       <div class="container">
           <div class="row">
             <div class="col-sm-8">
-              <h1>BootstrapZero <p class="lead"><span style="color:#CCFF33;">+Free</span> Templates and Themes for Bootstrap</p></h1>
+              <h1>Bootstrap Templates <p class="lead"><span style="color:#CCFF33;">+Free</span> Themes for Bootstrap</p></h1>
             </div>
             <div class="col-sm-4">
                 <!-- ad space
@@ -25,23 +25,41 @@
     <div class="container" id="main">
 	    <div class="row" id="starters">
       		<div class="col-md-12">
-      			<h2>Bootstrap Templates tagged <%=utils.capitalize(tag)%></h2>
+      			<h2>Starter Templates</h2>
+                <p>Kickstart your Bootstrap design with these clean, standard templates.</p>
                 <hr>
       		</div>
       	</div>
       	<div class="row">
-      	    <% for(i in templates) {%>
+      	    <% for(i in starters) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=templates[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=templates[i].title%></h3></a></div>
-                	<div class="panel-body"><a href="/templates/<%=templates[i].id%>"><img src="<%=templates[i].imgUrl%>" alt="<%=templates[i].tags%>,bootstrap template" class="img-responsive" /></a></div>
-                	<div class="panel-footer"><strong><%=templates[i].short%></strong></div>
+                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=starters[i].title%></h3></a></div>
+                	<div class="panel-body"><a href="/templates/<%=starters[i].id%>"><img src="<%=starters[i].imgUrl%>" alt="<%=starters[i].tags%>,bootstrap template" class="img-responsive" /></a></div>
+                	<div class="panel-footer"><strong><%=starters[i].short%></strong></div>
                 </div>              
       		</div>
       		<% } %>
         </div>
         <hr>
-        
+        <div class="row" id="custom">
+      		<div class="col-md-12">
+      			<h2>Templates with Themes</h2>
+                <p>Get a less Bootstrap-y look with these custom themes</p>
+                <hr>
+      		</div>
+      	</div>
+      	<div class="row">
+      	    <% for(i in themes) {%>
+  			<div class="col-sm-4">
+              	<div class="panel panel-default">
+                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
+                	<div class="panel-body"><a href="/templates/<%=themes[i].id%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
+                	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
+                </div>              
+      		</div>
+      		<% } %>
+        </div>
     </div>
     
     <script>
