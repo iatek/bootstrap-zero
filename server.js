@@ -105,6 +105,23 @@ app.get('/api/templates', function(req, res){
     
 });
 
+app.get('/tagged/:tag', function(req, res){
+
+    var templates = require('./templates');
+    var tag = req.params.tag;
+    var tagged = [];
+    
+    for (var i=0;i<templates.length;i++) {
+    
+        if (templates[i].tags.indexOf(tag)!=-1) {
+            tagged.push(templates[i]);    
+        }
+    }
+    
+    res.render("index",{templates:tagged,utils:utils,tag:tag});
+    
+});
+
 /* The 404 Route (ALWAYS Keep this as the last route) */
 app.get('/*', function(req, res){
     res.render('404.ejs');

@@ -1,0 +1,52 @@
+    
+    <a href="https://github.com/iatek/bootstrap-zero"><img style="position: fixed; top: 50px; right: 0; border: 0; z-index: 1201;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a> 
+    
+    <div id="masthead">  
+      <div class="container">
+          <div class="row">
+            <div class="col-sm-8">
+              <h1>BootstrapZero <p class="lead"><span style="color:#CCFF33;">+Free</span> Templates and Themes for Bootstrap</p></h1>
+            </div>
+            <div class="col-sm-4">
+                <!-- ad space
+                <div class="well well-lg"> 
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <img class="img-responsive" src="//placehold.it/280x100">
+                    </div>
+                  </div>
+                </div>
+                -->
+            </div>
+          </div>
+      </div><!-- /cont -->
+    </div>
+    
+    <div class="container" id="main">
+	    <div class="row" id="starters">
+      		<div class="col-md-12">
+      			<h2><%=tag%> Templates</h2>
+                <p>Kickstart your Bootstrap design with these <%=tag%> templates.</p>
+                <hr>
+      		</div>
+      	</div>
+      	<div class="row">
+      	    <% for(i in templates) {%>
+  			<div class="col-sm-4">
+              	<div class="panel panel-default">
+                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=templates[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=templates[i].title%></h3></a></div>
+                	<div class="panel-body"><a href="/templates/<%=templates[i].id%>"><img src="<%=templates[i].imgUrl%>" alt="<%=templates[i].tags%>,bootstrap template" class="img-responsive" /></a></div>
+                	<div class="panel-footer"><strong><%=templates[i].short%></strong></div>
+                </div>              
+      		</div>
+      		<% } %>
+        </div>
+        <hr>
+        
+    </div>
+    
+    <script>
+    $(document).ready(function(){
+        
+    });
+    </script>
