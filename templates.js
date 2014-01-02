@@ -428,7 +428,7 @@ module.exports =
         title:"The Firm",
         short:"Clean one page scrolling layout",
         full:"A long scrolling Bootstrap template with centered navbar and multiple vertical sections. The header contains a full screen image carousel with dot navigation. The center navbar attaches once the user scrolls beyond the carousel / slider. This template also includes a modal lightbox thumbnail viewer that is ideal for a portfolio or image gallery. The contact form address drives the integrated Google maps location.",
-        tags:["theme","scroll","one-page","background","business","full","google-maps","lightbox","slider","gallery","navbar","affix","contact"],
+        tags:["theme","scroll","one-page","background","business","full","google-maps","map","lightbox","slider","gallery","navbar","affix","contact"],
         imgUrl:"http://www.bootply.com/assets/templates/102931.png",
         downloadUrl:"http://bootply.com/download/102931",
         sourceUrl:"http://bootply.com/102931",
