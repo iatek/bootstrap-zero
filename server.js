@@ -95,17 +95,13 @@ app.get('/api/templates', function(req, res){
     
     //var fileJSON = require('./static/templates.json');
     //res.send(fileJSON);
-
-    //fs.readFile('./templates.json', 'utf8', function (err, data) {
-    //    res.send(data);
-    //});
     
     //res.writeHead(200, {"Content-Type": "application/json"});
     //fs.createReadStream('templates.json',{flags:'r',encoding:'utf-8'}).pipe(res);
     
 });
 
-app.get('/tagged/:tag', function(req, res){
+app.get('/bootstrap-templates/:tag', function(req, res){
 
     var templates = require('./templates');
     var tag = req.params.tag;
