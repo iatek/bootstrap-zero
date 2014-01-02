@@ -118,7 +118,7 @@ app.get('/tagged/:tag', function(req, res){
         }
     }
     
-    res.render("index",{templates:tagged,utils:utils,tag:tag});
+    res.render("list",{templates:tagged,utils:utils,tag:tag});
     
 });
 
