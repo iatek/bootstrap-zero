@@ -49,7 +49,7 @@
       		</div>
       	</div>
       	<div class="row">
-      	    <% for(i in themes) {%>
+      	    <% for(i in themes.slice(0,15)) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
@@ -60,6 +60,8 @@
       		<% } %>
         </div>
         <div class="row" id="tags">
+            <div class="col-md-12"><a href="/bootstrap-templates" class="btn btn-success btn-lg">All free themes and templates</a></div>
+      		<hr>
       		<div class="col-md-12">
       			<h2>Browse by Tag</h2>
                 <p></p>
