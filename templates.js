@@ -12,7 +12,9 @@ module.exports =
         sourceUrl:"http://bootply.com/101004",
         previewUrl:"http://bootply.com/render/101004",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
     {
         id:"100993",
@@ -26,7 +28,10 @@ module.exports =
         sourceUrl:"http://bootply.com/100993",
         previewUrl:"http://bootply.com/render/100993",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
     {
         id:"94967",
@@ -40,7 +45,10 @@ module.exports =
         sourceUrl:"http://bootply.com/94967",
         previewUrl:"http://bootply.com/render/94967",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"75225",
@@ -54,7 +62,10 @@ module.exports =
         sourceUrl:"http://bootply.com/75225",
         previewUrl:"http://bootply.com/render/75225",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
     {
         id:"75231",
@@ -68,7 +79,9 @@ module.exports =
         sourceUrl:"http://bootply.com/75231",
         previewUrl:"http://bootply.com/render/75231",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"73778",
@@ -82,7 +95,9 @@ module.exports =
         sourceUrl:"http://bootply.com/73778",
         previewUrl:"http://bootply.com/render/73778",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"100983",
@@ -96,7 +111,9 @@ module.exports =
         sourceUrl:"http://bootply.com/100983",
         previewUrl:"http://bootply.com/render/100983",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"65566",
@@ -110,7 +127,9 @@ module.exports =
         sourceUrl:"http://bootply.com/65566",
         previewUrl:"http://bootply.com/render/65566",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"101053",
@@ -124,7 +143,9 @@ module.exports =
         sourceUrl:"http://bootply.com/101053",
         previewUrl:"http://bootply.com/render/101053",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"88026",
@@ -138,7 +159,9 @@ module.exports =
         sourceUrl:"http://bootply.com/88026",
         previewUrl:"http://bootply.com/render/88026",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
 		id:"97459",
@@ -152,7 +175,9 @@ module.exports =
         sourceUrl:"http://bootply.com/97459",
         previewUrl:"http://bootply.com/render/97459",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"62603",
@@ -166,7 +191,9 @@ module.exports =
         sourceUrl:"http://bootply.com/62603",
         previewUrl:"http://bootply.com/render/62603",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.0"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.0",
+        license:"MIT"
     },
 	{
         id:"101009",
@@ -180,7 +207,9 @@ module.exports =
         sourceUrl:"http://bootply.com/101009",
         previewUrl:"http://bootply.com/render/101009",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.2"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.2",
+        license:"MIT"
     },
 	{
         id:"101498",
@@ -194,7 +223,9 @@ module.exports =
         sourceUrl:"http://bootply.com/101498",
         previewUrl:"http://bootply.com/render/101498",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"96937",
@@ -208,7 +239,9 @@ module.exports =
         sourceUrl:"http://bootply.com/96937",
         previewUrl:"http://bootply.com/render/96937",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"101499",
@@ -222,7 +255,9 @@ module.exports =
         sourceUrl:"http://bootply.com/101499",
         previewUrl:"http://bootply.com/render/101499",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"101506",
@@ -236,7 +271,9 @@ module.exports =
         sourceUrl:"http://bootply.com/101506",
         previewUrl:"http://bootply.com/render/101506",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"90113",
@@ -249,7 +286,11 @@ module.exports =
         downloadUrl:"http://bootply.com/download/90113",
         sourceUrl:"http://bootply.com/90113",
         previewUrl:"http://bootply.com/render/90113",
-        author:"Bootply.com"
+        author:"Bootply.com",
+authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"91970",
@@ -262,7 +303,10 @@ module.exports =
         downloadUrl:"http://bootply.com/download/91970",
         sourceUrl:"http://bootply.com/91970",
         previewUrl:"http://bootply.com/render/91970",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        license:"MIT"
     },
 	{
         id:"85779",
@@ -275,7 +319,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/85779",
         sourceUrl:"http://bootply.com/85779",
         previewUrl:"http://bootply.com/render/85779",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"85861",
@@ -288,7 +334,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/85861",
         sourceUrl:"http://bootply.com/85861",
         previewUrl:"http://bootply.com/render/85861",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"69913",
@@ -301,7 +349,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/69913",
         sourceUrl:"http://bootply.com/69913",
         previewUrl:"http://bootply.com/render/69913",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"85746",
@@ -314,7 +364,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/85746",
         sourceUrl:"http://bootply.com/85746",
         previewUrl:"http://bootply.com/render/85746",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"69873",
@@ -327,7 +379,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/69873",
         sourceUrl:"http://bootply.com/69873",
         previewUrl:"http://bootply.com/render/69873",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"85850",
@@ -340,7 +394,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/85850",
         sourceUrl:"http://bootply.com/85850",
         previewUrl:"http://bootply.com/render/85850",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"86704",
@@ -353,7 +409,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/86704",
         sourceUrl:"http://bootply.com/86704",
         previewUrl:"http://bootply.com/render/86704",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"85657",
@@ -366,7 +424,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/85657",
         sourceUrl:"http://bootply.com/85657",
         previewUrl:"http://bootply.com/render/85657",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"88105",
@@ -380,7 +440,9 @@ module.exports =
         sourceUrl:"http://bootply.com/88105",
         previewUrl:"http://bootply.com/render/88105",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.3"
+        authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.3",
+        license:"MIT"
     },
 	{
         id:"96266",
@@ -393,7 +455,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/96266",
         sourceUrl:"http://bootply.com/96266",
         previewUrl:"http://bootply.com/render/96266",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"88300",
@@ -406,7 +470,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/88300",
         sourceUrl:"http://bootply.com/88300",
         previewUrl:"http://bootply.com/render/88300",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        license:"MIT"
     },
 	{
         id:"100702",
@@ -420,7 +486,9 @@ module.exports =
         sourceUrl:"http://bootply.com/100702",
         previewUrl:"http://bootply.com/render/100702",
         author:"Bootply.com",
-        bootstrapVersion:"3.0.2"
+        authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.2",
+        license:"MIT"
     },
 	{
         id:"102931",
@@ -433,6 +501,9 @@ module.exports =
         downloadUrl:"http://bootply.com/download/102931",
         sourceUrl:"http://bootply.com/102931",
         previewUrl:"http://bootply.com/render/102931",
-        author:"Bootply.com"
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        bootstrapVersion:"3.0.2",
+        license:"MIT"
     }
 ]
