@@ -64,7 +64,7 @@ app.get('/bootstrap-template', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (1==1) {
-            res.render("detail",{template:templates,utils:utils,next:next,prev:prev,title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter template and theme for Bootstrap from BootstrapZero."});
+            res.render("list",{template:templates,utils:utils,next:next,prev:prev,title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter template and theme for Bootstrap from BootstrapZero."});
         }    
         
     }
