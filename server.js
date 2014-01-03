@@ -53,26 +53,6 @@ app.get('/templates/:id', function(req, res){
     
 });
 
-app.get('/bootstrap-template', function(req, res){
-
-    console.log("/templates list.......");
-    var templates = require('./templates');
-
-    for (var i=0;i<templates.length;i++) {
-    
-        var prev = (templates[i-1])||templates[templates.length-1];
-        var next = (templates[i+1])||templates[0];
-    
-        if (1==1) {
-            res.render("list",{template:templates,utils:utils,next:next,prev:prev,title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter template and theme for Bootstrap from BootstrapZero."});
-        }    
-        
-    }
-    
-    res.render("404",{error:"no results"});
-    
-});
-
 app.get('/bootstrap-template/:title', function(req, res){
 
     console.log("/template by title.......");
@@ -119,6 +99,14 @@ app.get('/api/templates', function(req, res){
     //res.writeHead(200, {"Content-Type": "application/json"});
     //fs.createReadStream('templates.json',{flags:'r',encoding:'utf-8'}).pipe(res);
     
+});
+
+app.get('/bootstrap-templates', function(req, res){
+
+    console.log("/templates list.......");
+    var templates = require('./templates');
+    
+    res.render("list",{template:templates,utils:utils,title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter template and theme for Bootstrap from BootstrapZero."});
 });
 
 app.get('/bootstrap-templates/:tag', function(req, res){
