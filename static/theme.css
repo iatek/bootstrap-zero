@@ -77,6 +77,10 @@
             text-decoration:none;
         }
         
+        #main .btn {
+            color:#fff;
+        }
+        
         #main > .row {
             padding-top:40px;
         }
