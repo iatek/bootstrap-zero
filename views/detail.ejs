@@ -18,8 +18,8 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-7"><a href="<%=template.previewUrl%>" target="ext"><img src="<%=template.imgUrl%>" class="img-thumbnail img-responsive" alt="<%=template.title%> Bootstrap Template" /></a></div>
-                    <div class="col-sm-5">
+                    <div class="col-sm-6"><a href="<%=template.previewUrl%>" target="ext"><img src="<%=template.imgUrl%>" class="img-thumbnail img-responsive" alt="<%=template.title%> Bootstrap Template" /></a></div>
+                    <div class="col-sm-6">
                         <p><%-template.full%></p>
                         
                         <p class="text-muted"><small>Responsive (Multiple Device Support)</small></p>
@@ -32,14 +32,14 @@
                         
                         <p class="text-muted"><small>Permalink<br><a href="/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g, "-")%>">http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g,"-")%></a></small></p>
                         
-                        <p class="text-muted"><small>License &amp; Author Details</small><br/>
+                        <p class="text-muted"><small>License &amp; Author Details<br/>
                             <% if (typeof template.author !="undefined") { %>
                                 <a href="<%=template.authorUrl%>"><%=template.license%></a> by <a href="<%=template.authorUrl%>" target="ext"><%=template.author%></a><br/>
                             <% } %>
                             <% if (typeof template.avatar !="undefined") { %>
                                 <a href="<%=template.authorUrl%>" target="ext"><img src="<%=template.avatar%>" class="pull-right img-circle" width=70 height=70 /></a><br/>
                             <% } %>
-                            <br/>
+                            </small><br/>
                         </p>
                         
                         <h3><br/>
