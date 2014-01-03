@@ -77,7 +77,7 @@
             text-decoration:none;
         }
         
-        #main .btn {
+        #main .btn, #main .btn:hover {
             color:#fff;
         }
         
