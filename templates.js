@@ -474,7 +474,7 @@ authorUrl:"http://www.bootply.com/templates",
 	{
         id:"88300",
         name:"5050",
-        title:"50-50",
+        title:"5050",
         short:"Full width 2x2 grid",
         full:"A simple layout with fixed header and footer, and a centered 50% height and 50% width 2x2 grid.",
         tags:["theme","background","full","100%"],
