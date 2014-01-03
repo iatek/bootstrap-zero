@@ -321,6 +321,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/85779",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -336,6 +337,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/85861",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -351,6 +353,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/69913",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -366,6 +369,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/85746",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -381,6 +385,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/69873",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -396,6 +401,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/85850",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -411,6 +417,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/86704",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -426,6 +433,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/85657",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -442,6 +450,7 @@ authorUrl:"http://www.bootply.com/templates",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
         bootstrapVersion:"3.0.3",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -457,6 +466,7 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/96266",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
         license:"MIT"
     },
 	{
@@ -472,7 +482,9 @@ authorUrl:"http://www.bootply.com/templates",
         previewUrl:"http://bootply.com/render/88300",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
-        license:"MIT"
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        license:"MIT",
+        licenseUrl:""
     },
 	{
         id:"100702",
@@ -488,7 +500,9 @@ authorUrl:"http://www.bootply.com/templates",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
         bootstrapVersion:"3.0.2",
-        license:"MIT"
+        license:"MIT",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        licenseUrl:""
     },
 	{
         id:"102931",
@@ -504,6 +518,25 @@ authorUrl:"http://www.bootply.com/templates",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
         bootstrapVersion:"3.0.2",
-        license:"MIT"
+        license:"MIT",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        licenseUrl:""
+    },
+    {
+        name:"Cerulean",
+        title:"Cerulean Theme",
+        short:"A Calm, Blue Sky",
+        full:"A free theme from Bootswatch",
+        tags:["bootswatch"],
+        imgUrl:"http://bootswatch.com/cerulean/thumbnail.png",
+        downloadUrl:"http://bootswatch.com/cerulean/bootstrap.min.css",
+        sourceUrl:"http://bootswatch.com/cerulean/",
+        previewUrl:"http://bootswatch.com/cerulean/",
+        author:"Bootswatch",
+        authorUrl:"http://bootswatch.com/",
+        bootstrapVersion:"3.0.3",
+        license:"Apache",
+        avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
+        licenseUrl:""
     }
 ]
