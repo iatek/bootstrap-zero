@@ -31,22 +31,24 @@
                         </p>
                         
                         <p class="text-muted"><small>Permalink<br><a href="/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g, "-")%>">http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g,"-")%></a></small></p>
+                        
+                        <p class="text-muted"><small>License</small></p>
+                        <p>
+                            <% if (typeof template.author !="undefined") { %>
+                                <a href="<%=template.authorUrl%>"><%=template.license%></a> by <a href="<%=template.authorUrl%>"><%=template.author%></a><br/>
+                            <% } %>
+                            <% if (typeof template.avatar !="undefined") { %>
+                                <a href="<%=template.authorUrl%>"><img src="<%=template.avatar%>" class="pull-right img-circle" width=70 height=70 /></a><br/>
+                            <% } %>
+                            <br/>
+                        </p>
+                        
                         <h3><br/>
                             <a href="<%=template.downloadUrl%>" class="label label-info" target="ext" title="Download this template as HTML file">Download <i class="glyphicon glyphicon-circle-arrow-down"></i></a> 
                             <a href="<%=template.sourceUrl%>" class="label label-info" target="ext" title="View the HTML, CSS and JavaScript for this template">Code</a> 
                             <a href="<%=template.previewUrl%>" class="label label-success" target="ext" title="Preview this Bootstrap template">Live Preview</a> 
                         </h3>
                         
-                        <p class="text-muted"><small>License</small></p>
-                        <p>
-                            <a href="<%=template.authorUrl%>"><%=template.license%></a><br>
-                            <% if (typeof template.author !="undefined") { %>
-                                <a href="<%=template.authorUrl%>"><%=template.author%></a>
-                            <% } %><br>
-                            <% if (typeof template.avatar !="undefined") { %>
-                                <a href="<%=template.authorUrl%>"><img src="<%=template.avatar%>" class="img-circle" width=70 height=70 /></a><br>
-                            <% } %>
-                        </p>
                         
                     </div>
                 </div>
