@@ -45,6 +45,7 @@ While a database is in the works, here is how you can submit your project(s)..
 
 - Construct a JSON object for each template/theme you want to submit. Here is an example:
 
+    ```
     {
         name:"Darkside",
         title:"Darkside",
@@ -62,7 +63,7 @@ While a database is in the works, here is how you can submit your project(s)..
         license:"MIT",
         licenseUrl:"https://github.com/iatek/bootstrap-zero/blob/master/LICENSE"
     }
-
+    ```
 - Fork this project
 - Append your template/theme info the 'templates.js' file found in the project
 - Submit a pull request so that we can review your submission
