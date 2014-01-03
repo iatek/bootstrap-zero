@@ -47,5 +47,11 @@
     <script>
     $(document).ready(function(){
         
+        $.getScript('/lazyload.js',function(){
+            $('#main .img-responsive').lazyload({
+            
+            });
+        });
+                
     });
     </script>
