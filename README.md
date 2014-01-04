@@ -12,13 +12,13 @@ Bootstrap Templates and Themes Project
 
 ![Screenshot](https://pbs.twimg.com/media/Bc6QcqoCcAAPFCQ.png:large)
 
-Goal: Make Bootstrap templates that are..
+A Repository for Bootstrap Templates
 ---
 
 - reusable
 - responsive (suitable for mobile devices)
 - follow best practices
-- maximize use of the Bootstrap baseline via CSS overrides (no custom builds or LESS)
+- maximize use of the Bootstrap baseline
 - aren't extensively customized
 - don't look to Bootstrap-y
 
