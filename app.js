@@ -8,7 +8,7 @@ exports.init = function(port) {
         _layoutFile:'layout.ejs',
         title:"Bootstrap Zero - Free Bootstrap Templates and Themes",
         desc:"Bootstrap Zero is the home of Bootstrap templates and themes for developers and designers. Use these free, responsive templates to kickstart your Twitter Bootstrap project.",
-        keywords:"",
+        keywords:"bootstrap templates, twitter bootstrap, free templates, responsive, open source",
         path:""
     });
 
