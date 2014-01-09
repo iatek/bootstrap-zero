@@ -22,15 +22,15 @@
             margin-bottom:5px;
         }
         
-                /* Wrapper for page content to push down footer */
+        /* Wrapper for page content to push down footer */
         #wrap {
           min-height: 100%;
           height: auto !important;
           height: 100%;
           /* Negative indent footer by its height */
-          margin: 0 auto -150px;
+          margin: 0 auto -180px;
           /* Pad bottom by footer height */
-          padding: 0 0 150px;
+          padding: 0 0 180px;
         }
         
         #masthead {
@@ -166,7 +166,7 @@
         	background-color:#563d7c;
         	margin-top:50px;
           	color:#efefef;
-          	height: 150px;
+          	height: 180px;
         }
         
         footer a {

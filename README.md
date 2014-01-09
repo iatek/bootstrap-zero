@@ -40,7 +40,12 @@ License
 
 Contribute
 ---
-If you author open source Bootstrap templates and theme you can submit your works for inclusion on BootstrapZero.
+If you author open source Bootstrap templates or themes you can submit your works for inclusion on BootstrapZero. Template should meet this criteria:
+
+- free, open source
+- no use of LESS or custom Bootstrap builds
+- 100% responsive for multiple device widths
+
 While a database is in the works, here is how you can submit your project(s)..
 
 - Construct a JSON object for each template/theme you want to submit. Here is an example:
