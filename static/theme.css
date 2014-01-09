@@ -115,8 +115,8 @@
         	}
         }
         
-        .label-inverse {
-            background-color:#fff;
+        .label {
+            margin-bottom:5px;
         }
         
         .navbar-bright {
