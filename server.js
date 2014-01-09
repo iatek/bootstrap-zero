@@ -73,7 +73,7 @@ app.get('/bootstrap-template/:title', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].title.toLowerCase()===title.toLowerCase()) {
-            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev,title:title+" Bootstrap template",desc:"Bootstrap " + title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",keywords:templates[i].tags+", free, bootstrap template"});
+            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev,title:title+" Bootstrap template",desc:"Bootstrap " + title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",keywords:"bootstrap,"+templates[i].tags+",free,bootstrap template"});
             return;
         }    
         
