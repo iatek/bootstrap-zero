@@ -783,5 +783,39 @@ module.exports =
         license:"CC0",
         avatar:"https://pbs.twimg.com/profile_images/1344367318/profile-small_bigger.png",
         licenseUrl:""
+    },
+    {
+        name:"Media",
+        title:"Media Template",
+        short:"Show off photography.",
+        full:"Another Bootstrap template from Coverstrap that is ideal for websites which show off a lot of photos. Stock photos provided by Unsplash.",
+        tags:["coverstrap","theme","template","portfolio","gallery","photos","unsplash","stock"],
+        imgUrl:"http://coverstrap.com/img/preview-media.b5b358f38b77dddbdecbbf728aab92af8c9c8f10.jpg",
+        downloadUrl:"http://coverstrap.com/downloads/media.zip",
+        sourceUrl:"http://coverstrap.com/previews/media.html",
+        previewUrl:"http://coverstrap.com/previews/media.html",
+        author:"Coverstrap",
+        authorUrl:"http://coverstrap.com/",
+        bootstrapVersion:"3.0.3",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/1344367318/profile-small_bigger.png",
+        licenseUrl:""
+    },
+    {
+        name:"Light",
+        title:"Light Template",
+        short:"Simple with light colors.",
+        full:"Another Bootstrap template from Coverstrap that very simple template with only light colors. Includes features, tour, FAQs, and about sections.",
+        tags:["coverstrap","theme","template","simple","clean","light","minimal"],
+        imgUrl:"http://coverstrap.com/img/preview-light.b5b358f38b77dddbdecbbf728aab92af8c9c8f10.jpg",
+        downloadUrl:"http://coverstrap.com/downloads/light.zip",
+        sourceUrl:"http://coverstrap.com/previews/light.html",
+        previewUrl:"http://coverstrap.com/previews/light.html",
+        author:"Coverstrap",
+        authorUrl:"http://coverstrap.com/",
+        bootstrapVersion:"3.0.3",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/1344367318/profile-small_bigger.png",
+        licenseUrl:""
     }
 ]
