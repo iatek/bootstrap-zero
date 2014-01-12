@@ -851,5 +851,39 @@ module.exports =
         license:"CC0",
         avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
         licenseUrl:""
+    },
+    {
+        name:"Small",
+        title:"Small",
+        short:"Dribble portfolio Bootstrap theme",
+        full:"Small is a Bootstrap template from BlackTie. Small is a little theme focused in your latest dribbble shots. Thanks to the jibbble script, this theme allows you to show 8 shots on the front page. Works excellent as a vCard option.",
+        tags:["blacktie","theme","dribble","portfolio","one-page"],
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2013/11/small.png",
+        downloadUrl:"http://bit.ly/1fEate0",
+        sourceUrl:"http://www.blacktie.co/2013/11/small-dribbble-portfolio-theme/",
+        previewUrl:"http://blacktie.co/demo/small/",
+        author:"BlackTie",
+        authorUrl:"http://www.blacktie.co",
+        bootstrapVersion:"3.0.2",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        licenseUrl:""
+    },
+    {
+        name:"Minimal",
+        title:"Minimal Dark",
+        short:"Dribble portfolio Bootstrap theme",
+        full:"Small is a Bootstrap template from BlackTie. Minimal is a simple and small theme. Ideal for you contact page or minimal site. This theme was designed for those wanting something different more than the habitual information page.",
+        tags:["blacktie","theme","dark","contact","minimal"],
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2013/10/minimal.png",
+        downloadUrl:"http://bit.ly/1h1qJay",
+        sourceUrl:"http://www.blacktie.co/2013/10/minimal-dark-bootstrap-3-theme/",
+        previewUrl:"http://blacktie.co/demo/minimal/",
+        author:"BlackTie",
+        authorUrl:"http://www.blacktie.co",
+        bootstrapVersion:"3.0.0",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        licenseUrl:""
     }
 ]
