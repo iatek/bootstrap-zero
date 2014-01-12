@@ -817,5 +817,22 @@ module.exports =
         license:"CC0",
         avatar:"https://pbs.twimg.com/profile_images/1344367318/profile-small_bigger.png",
         licenseUrl:""
+    },
+    {
+        name:"Flatty",
+        title:"Flatty",
+        short:"Flat landing page",
+        full:"Flatty is a free Bootstrap template from BlackTie that is a flat landing page designed to show your next app, site or product. With a fresh style & minimal design, you can now show your product with style.",
+        tags:["blacktie","theme","flat","landing","launch","product","startup","app"],
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2013/12/flatty.png",
+        downloadUrl:"http://bit.ly/18QS8X2",
+        sourceUrl:"",
+        previewUrl:"http://www.blacktie.co/demo/flatty/",
+        author:"BlackTie",
+        authorUrl:"http://www.blacktie.co",
+        bootstrapVersion:"3.0.3",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        licenseUrl:""
     }
 ]
