@@ -873,7 +873,7 @@ module.exports =
         name:"Minimal",
         title:"Minimal Dark",
         short:"Dark Bootstrap theme",
-        full:"Minimal is a Bootstrap template from BlackTie. Minimal is a simple and small theme. Ideal for you contact page or minimal site. This theme was designed for those wanting something different more than the habitual information page.",
+        full:"Minimal is a Bootstrap template from BlackTie. Minimal is a simple and small theme. Ideal for a contact page or minimal site. This theme was designed for those wanting something different more than the habitual information page.",
         tags:["blacktie","theme","dark","contact","minimal"],
         imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2013/10/minimal.png",
         downloadUrl:"http://bit.ly/1h1qJay",
