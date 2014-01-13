@@ -1,5 +1,6 @@
 var express = require('express'),
     engine = require('ejs-locals'),
+    utils = require('./utils'),
     app = express();
 
 exports.init = function(port) {
@@ -9,7 +10,8 @@ exports.init = function(port) {
         title:"Bootstrap Zero - Free Bootstrap Templates and Themes",
         desc:"Bootstrap Zero has a large collection of open source Bootstrap themes and templates. Bootstrap designers and developer can use these free, responsive templates to kickstart Twitter Bootstrap projects.",
         keywords:"bootstrap templates, twitter bootstrap, free templates, responsive, open source",
-        path:""
+        path:"",
+        utils:utils
     });
 
     app.configure(function(){

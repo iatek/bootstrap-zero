@@ -22,7 +22,7 @@ app.get('/', function(req, res){
         } 
     }
     
-    res.render("index",{templates:templates,starters:starters,themes:themes,utils:utils,path:"/"});
+    res.render("index",{templates:templates,starters:starters,themes:themes,path:"/"});
     
 });
 
@@ -43,7 +43,7 @@ app.get('/templates/:id', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].id===id) {
-            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev,title:templates[i].title+" Bootstrap template",desc:"Bootstrap " + templates[i].title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",utils:utils});
+            res.render("detail",{template:templates[i],next:next,prev:prev,title:templates[i].title+" Bootstrap template",desc:"Bootstrap " + templates[i].title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",utils:utils});
             return;
         }    
         
@@ -73,7 +73,7 @@ app.get('/bootstrap-template/:title', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].title.toLowerCase()===title.toLowerCase()) {
-            res.render("detail",{template:templates[i],utils:utils,next:next,prev:prev,title:"Bootstrap "+title+" template",desc:"Bootstrap " + title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",keywords:"bootstrap,"+templates[i].tags+",free,bootstrap template"});
+            res.render("detail",{template:templates[i],next:next,prev:prev,title:"Bootstrap "+title+" template",desc:"Bootstrap " + title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",keywords:"bootstrap,"+templates[i].tags+",free,bootstrap template"});
             return;
         }    
         
