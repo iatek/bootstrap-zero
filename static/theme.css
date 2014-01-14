@@ -180,6 +180,11 @@
         	background-color:#fff;
         }
         
+        .panel-footer strong {
+            text-overflow:ellipsis;
+            white-space:nowrap;
+        }
+        
         @media (min-width: 768px) {
         
           	#main .panel-body  {
