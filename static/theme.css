@@ -183,6 +183,7 @@
         .panel-footer strong {
             text-overflow:ellipsis;
             white-space:nowrap;
+            overflow: hidden;
         }
         
         @media (min-width: 768px) {
