@@ -59,7 +59,7 @@
         }
         
         #masthead .well {
-        	margin-top:13%;
+        	margin-top:3%;
         	background-color:#563d7c;
           	border-color:#452c6b;
         }
@@ -113,6 +113,9 @@
         		font-size:52px;
             	padding-top:40px;
         	}
+        	#masthead .well {
+        	    margin-top:13%;
+            }
         }
         
         .label {
