@@ -53,9 +53,7 @@
         	line-height: 1;
           	color:#fff;
           	margin-top:40px;
-          	min-height:250px;
           	border-radius:0px;
-        
         }
         
         #masthead .well {
@@ -112,6 +110,7 @@
         	#masthead h1 {
         		font-size:52px;
             	padding-top:40px;
+            	min-height:250px;
         	}
         	#masthead .well {
         	    margin-top:13%;
