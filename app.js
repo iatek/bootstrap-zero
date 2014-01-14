@@ -8,8 +8,8 @@ exports.init = function(port) {
     app.locals({
         _layoutFile:'layout.ejs',
         title:"Bootstrap Zero - Free Bootstrap Templates and Themes",
-        desc:"Bootstrap Zero has a large collection of open source Bootstrap themes and templates. Bootstrap designers and developer can use these free, responsive templates to kickstart Twitter Bootstrap projects.",
-        keywords:"bootstrap templates, twitter bootstrap, free templates, responsive, open source",
+        desc:"Bootstrap Zero is a collection of open source Bootstrap themes and templates. Bootstrap designers and developers can use these free templates to kickstart responsive Web development projects.",
+        keywords:"bootstrap, themes, templates, bootstrap templates, twitter bootstrap, free, responsive, open source",
         path:"",
         utils:utils
     });
