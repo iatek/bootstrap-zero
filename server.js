@@ -43,7 +43,7 @@ app.get('/templates/:id', function(req, res){
         var next = (templates[i+1])||templates[0];
     
         if (templates[i].id===id) {
-            res.render("detail",{template:templates[i],next:next,prev:prev,title:templates[i].title+" Bootstrap template",desc:"Bootstrap " + templates[i].title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero.",utils:utils});
+            res.render("detail",{template:templates[i],next:next,prev:prev,title:templates[i].title+" Bootstrap template",desc:"Bootstrap " + templates[i].title + " template example. This is a free, responsive starter template and theme for Bootstrap 3 from BootstrapZero."});
             return;
         }    
         
@@ -106,7 +106,7 @@ app.get('/bootstrap-templates', function(req, res){
     console.log("/templates list.......");
     var templates = require('./templates');
     
-    res.render("list",{templates:templates,utils:utils,tag:"Bootstrap",title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter templates and themes for Bootstrap from BootstrapZero."});
+    res.render("list",{templates:templates,tag:"Bootstrap",title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter templates and themes for Bootstrap from BootstrapZero."});
 });
 
 app.get('/bootstrap-templates/:tag', function(req, res){
@@ -122,7 +122,7 @@ app.get('/bootstrap-templates/:tag', function(req, res){
         }
     }
     
-    res.render("list",{templates:tagged,utils:utils,tag:tag});
+    res.render("list",{templates:tagged,tag:tag});
     
 });
 
