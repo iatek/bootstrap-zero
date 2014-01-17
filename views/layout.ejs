@@ -22,7 +22,7 @@
     
     <div id="wrap">
     
-    <header class="navbar navbar-bright navbar-fixed-top" role="banner">
+    <header class="navbar navbar-bright navbar-fixed-top hide" role="banner">
       <div class="container">
         <div class="navbar-header">
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
@@ -137,6 +137,8 @@
         
         $(document).ready(function() {
             
+             $('.navbar').fadeIn(1200);
+            
             /* highlight the top nav as scrolling occurs */
             $('body').scrollspy({ target: '#navbar' });
             
@@ -160,8 +162,6 @@
             $('[data-original]').lazyload({
             
             });
-            
-            $('.navbar').hide().fadeIn(1200);
             
         });
     </script>
