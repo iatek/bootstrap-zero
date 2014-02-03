@@ -139,7 +139,7 @@
             border-color: transparent;
         }
         
-        .navbar-bright .dropdown-menu>li>a {
+        .navbar-bright .dropdown-menu>li>a:hover {
             color:#eee;
         }
         
