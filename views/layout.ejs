@@ -2,11 +2,11 @@
 <html lang="en">
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
-        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        
         <title><%=utils.capitalize(title)%></title>
         <meta name="description" content="<%=desc%>" />
-        <meta name="keywords" content="<%=keywords%>" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        
         <meta property="og:image" content="https://pbs.twimg.com/profile_images/418009884429254656/lpxz9LHr.jpeg" />
         <meta name="google-site-verification" content="3YZMYT6XcVJlav0ZKb7MQrzjnRGApJS8FOsrG4fPrXo" />
         <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
@@ -37,10 +37,26 @@
             <% if (path==="/"){ %>
             <ul class="nav navbar-nav">
                 <li>
-                  <a href="#starters" title="Bootstrap starter templates">Starter Templates</a>
-                </li>
-                <li>
-                  <a href="#custom" title="Custom Bootstrap themes and templates">Themes and Templates</a>
+                  <a href="#starters">Bootstrap Templates</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="/bootstrap-templates/starter">Starter Templates</a></li>
+                    <li><a href="/bootstrap-templates/theme">Bootstrap Themes</a></li>
+                    <li><a href="/bootstrap-templates">All Templates + Themes</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Free Templates</li>
+                    <li><a href="/bootstrap-template/sidebar">Sidebar</a></li>
+                    <li><a href="/bootstrap-template/affix">Affix</a></li>
+                    <li><a href="/bootstrap-template/landing">Landing Page</a></li>
+                    <li><a href="/bootstrap-template/one-page">One Page</a></li>
+                    <li><a href="/bootstrap-template/portfolio">Portfolio</a></li>
+                    <li><a href="/bootstrap-template/off-canvas">Off-canvas</a></li>
+                    <li><a href="/bootstrap-template/blog">Blog</a></li>
+                    <li><a href="/bootstrap-template/fixed-width">Fixed Width</a></li>
+                    <li><a href="/bootstrap-template/facebook">Facebook Theme</a></li>
+                    <li><a href="/bootstrap-template/google-plus">Google Plus Theme</a></li>
+                    <li><a href="/bootstrap-template/holo">Android Holo Theme</a></li>
+                    <li><a href="/bootstrap-template/happy-scroll">Happy Scroll Theme</a></li>
+                  </ul>
                 </li>
             </ul>
             <% } %>
