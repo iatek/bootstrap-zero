@@ -139,6 +139,10 @@
             border-color: transparent;
         }
         
+        .navbar-bright .dropdown-menu>li>a {
+            color:#eee;
+        }
+        
         @media (min-width: 979px) {
             #sidebar.affix-top {
               position: static;
