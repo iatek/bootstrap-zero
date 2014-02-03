@@ -134,8 +134,9 @@
           	color:#CCFF33;
         }
         
-        .navbar-bright li > a:hover, .navbar-bright li.active > a {
+        .navbar-bright li > a:hover, .navbar-bright li.active > a, .navbar-bright .nav .open>a, .navbar-bright .nav .open>a:hover, .navbar-bright .nav .open>a:focus {
             background-color:#452c6b;
+            border-color: transparent;
         }
         
         @media (min-width: 979px) {
