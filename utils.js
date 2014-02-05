@@ -56,3 +56,21 @@ module.exports.capitalize = function(string){
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
+module.exports.permalink = function(string){
+    
+    if (typeof string == "undefined") {
+        return;
+    }
+    
+    return encodeURIComponent(string.replace(/-/g,"_").replace(/\s/g,"-"));
+}
+
+module.exports.unPermalink = function(string){
+    
+    if (typeof string == "undefined") {
+        return;
+    }
+    
+    return decodeURIComponent(string.replace(/-/g," ").replace(/_/g,"-"));
+}
+

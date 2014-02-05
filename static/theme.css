@@ -134,9 +134,14 @@
           	color:#CCFF33;
         }
         
+        .navbar-bright li > a {
+            text-shadow: 0 0 0;
+        }
+        
         .navbar-bright li > a:hover, .navbar-bright li.active > a, .navbar-bright .nav .open>a, .navbar-bright .nav .open>a:hover, .navbar-bright .nav .open>a:focus {
             background-color:#452c6b;
             border-color: transparent;
+            text-shadow: 0 0 0;
         }
         
         .navbar-bright .dropdown-menu>li>a:hover {
