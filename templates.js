@@ -734,6 +734,57 @@ module.exports =
         licenseUrl:""
     },
     {
+        name:"Lumen",
+        title:"Lumen Theme",
+        short:"Light and shadow",
+        full:"A free theme from Bootswatch. This theme includes the complete Bootstrap baseline so it replaces your existing bootstrap.css.",
+        tags:["bootswatch","theme","shadow","white","light"],
+        imgUrl:"http://bootswatch.com/lumen/thumbnail.png",
+        downloadUrl:"http://bootswatch.com/lumen/bootstrap.min.css",
+        sourceUrl:"http://bootswatch.com/lumen/",
+        previewUrl:"http://bootswatch.com/lumen/",
+        author:"Bootswatch",
+        authorUrl:"http://bootswatch.com/",
+        bootstrapVersion:"3.1.0",
+        license:"Apache",
+        avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
+        licenseUrl:""
+    },
+    {
+        name:"Superhero",
+        title:"Superhero Theme",
+        short:"Brave and blue",
+        full:"A free theme from Bootswatch. This theme includes the complete Bootstrap baseline so it replaces your existing bootstrap.css.",
+        tags:["bootswatch","theme","blue","dark"],
+        imgUrl:"http://bootswatch.com/superhero/thumbnail.png",
+        downloadUrl:"http://bootswatch.com/superhero/bootstrap.min.css",
+        sourceUrl:"http://bootswatch.com/superhero/",
+        previewUrl:"http://bootswatch.com/superhero/",
+        author:"Bootswatch",
+        authorUrl:"http://bootswatch.com/",
+        bootstrapVersion:"3.1.0",
+        license:"Apache",
+        avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
+        licenseUrl:""
+    },
+    {
+        name:"Cupid",
+        title:"Cupid Theme",
+        short:"Pretty in pink",
+        full:"A free theme from Bootswatch. This theme includes the complete Bootstrap baseline so it replaces your existing bootstrap.css.",
+        tags:["bootswatch","theme","flat","pink","love"],
+        imgUrl:"http://bootswatch.com/cupid/thumbnail.png",
+        downloadUrl:"http://bootswatch.com/cupid/bootstrap.min.css",
+        sourceUrl:"http://bootswatch.com/cupid/",
+        previewUrl:"http://bootswatch.com/cupid/",
+        author:"Bootswatch",
+        authorUrl:"http://bootswatch.com/",
+        bootstrapVersion:"3.1.0",
+        license:"Apache",
+        avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
+        licenseUrl:""
+    },
+    {
         name:"Land",
         title:"Land Template",
         short:"Landing page with sign up form",
@@ -832,7 +883,7 @@ module.exports =
         authorUrl:"http://www.blacktie.co",
         bootstrapVersion:"3.0.3",
         license:"CC0",
-        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
         licenseUrl:""
     },
     {
@@ -849,7 +900,7 @@ module.exports =
         authorUrl:"http://www.blacktie.co",
         bootstrapVersion:"3.0.3",
         license:"CC0",
-        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
         licenseUrl:""
     },
     {
@@ -866,7 +917,7 @@ module.exports =
         authorUrl:"http://www.blacktie.co",
         bootstrapVersion:"3.0.2",
         license:"CC0",
-        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
         licenseUrl:""
     },
     {
@@ -883,7 +934,7 @@ module.exports =
         authorUrl:"http://www.blacktie.co",
         bootstrapVersion:"3.0.0",
         license:"CC0",
-        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
         licenseUrl:""
     },
     {
@@ -900,7 +951,7 @@ module.exports =
         authorUrl:"http://www.blacktie.co",
         bootstrapVersion:"3.0.0",
         license:"CC0",
-        avatar:"https://pbs.twimg.com/profile_images/378800000575084355/bca844402d18442dfbfe8825b2ca9f21.png",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
         licenseUrl:""
     }
 ]
