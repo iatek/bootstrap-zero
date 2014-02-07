@@ -138,8 +138,10 @@
             text-shadow: 0 0 0;
         }
         
-        .navbar-bright .dropdown-menu li > a {
-                color:#ccc;
+        @media (max-width: 979px) {
+            .navbar-bright .dropdown-menu li > a {
+                color:#ddd;
+            }
         }
         
         .navbar-bright li > a:hover, .navbar-bright li.active > a, .navbar-bright .nav .open>a, .navbar-bright .nav .open>a:hover, .navbar-bright .nav .open>a:focus {
