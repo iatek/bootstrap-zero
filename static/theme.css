@@ -144,7 +144,7 @@
             }
         }
         
-        .navbar-bright li > a:hover, .navbar-bright li.active > a, .navbar-bright .nav .open>a, .navbar-bright .nav .open>a:hover, .navbar-bright .nav .open>a:focus {
+        .navbar-bright li > a:hover, .navbar-bright li.active > a, .navbar-bright .nav .open>a, .navbar-bright .nav .open>a:hover, .navbar-bright .nav a:focus {
             background-color:#452c6b;
             border-color: transparent;
             text-shadow: 0 0 0;
