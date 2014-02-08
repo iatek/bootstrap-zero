@@ -110,7 +110,7 @@
         	#masthead h1 {
         		font-size:44px;
             	padding-top:40px;
-            	min-height:250px;
+            	/*min-height:250px;*/
         	}
         	#masthead .well {
         	    margin-top:13%;
