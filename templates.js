@@ -105,7 +105,7 @@ module.exports =
         title:"Affix Sidebar",
         short:"Sidebar like the Bootstrap docs",
         full:"Similar to the Bootstrap documentation, this template features a left-side nav that attaches once scrolling goes beyond a large top header with ad space.",
-        tags:["starter","fixed","affix","sidebar","pin"],
+        tags:["starter","fixed","affix","sidebar","pin","scroll","scrollspy"],
         imgUrl:"http://www.bootply.com/assets/templates/100983.png",
         downloadUrl:"http://bootply.com/download/100983",
         sourceUrl:"http://bootply.com/100983",
