@@ -62,6 +62,10 @@
           	border-color:#452c6b;
         }
         
+        #masthead p  {
+        	color:#f8f8f8;
+        }
+        
         .icon-bar {
         	background-color:#fff;
         }
@@ -110,7 +114,6 @@
         	#masthead h1 {
         		font-size:44px;
             	padding-top:40px;
-            	/*min-height:250px;*/
         	}
         	#masthead .well {
         	    margin-top:13%;
