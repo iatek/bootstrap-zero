@@ -953,5 +953,39 @@ module.exports =
         license:"CC0",
         avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
         licenseUrl:""
+    },
+    {
+        name:"Siimple",
+        title:"Siimple",
+        short:"Landing page",
+        full:"Siimple is a free Bootstrap template from BootstrapTaste. This above the fold content is the main key of ‘Siimple’ template. You can use it for app showcase, selling single product or capture potential customer via newsletter / sign-up form. Its a really simple template but very powerful landing page.",
+        tags:["bootstraptaste","theme","one-page","background-image","landing"],
+        imgUrl:"http://bootstraptaste.com/wp-content/uploads/2014/02/siimple-feat.jpg",
+        downloadUrl:"http://bootstraptaste.com/theme/siimple/",
+        sourceUrl:"http://bootstraptaste.com/free-bootstrap-landing-page/",
+        previewUrl:"http://bootstraptaste.com/theme/siimple/",
+        author:"BootstrapTaste",
+        authorUrl:"http://www.bootstraptaste.com",
+        bootstrapVersion:"3.0.0",
+        license:"freeware",
+        avatar:"https://pbs.twimg.com/profile_images/429318798210916352/1Szn2_gT_bigger.jpeg",
+        licenseUrl:""
+    },
+    {
+        name:"Amoeba",
+        title:"Amoeba",
+        short:"One pager",
+        full:"Amoeba is a free Bootstrap template from BootstrapTaste. Amoeba is one page site template built from Bootstrap 3 with modern flat style also coming with lot of premium features.",
+        tags:["bootstraptaste","theme","one-page","background-image","flat","landing"],
+        imgUrl:"http://bootstraptaste.com/wp-content/uploads/2014/02/feat-image-mock-amoeba2.jpg",
+        downloadUrl:"http://bootstraptaste.com/theme/amoeba/",
+        sourceUrl:"http://bootstraptaste.com/free-one-page-bootstrap-template-amoeba/",
+        previewUrl:"http://bootstraptaste.com/theme/amoeba/",
+        author:"BootstrapTaste",
+        authorUrl:"http://www.bootstraptaste.com",
+        bootstrapVersion:"3.0.0",
+        license:"freeware",
+        avatar:"https://pbs.twimg.com/profile_images/429318798210916352/1Szn2_gT_bigger.jpeg",
+        licenseUrl:""
     }
 ]
