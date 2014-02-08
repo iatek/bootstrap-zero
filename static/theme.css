@@ -230,3 +230,8 @@
         .fa-4 {
             font-size: 2em;
         }
+        
+        .label-bright {
+            background-color:#CCFF33;
+            color:#563d7c;
+        }
