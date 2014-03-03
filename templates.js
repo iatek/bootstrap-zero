@@ -112,7 +112,7 @@ module.exports =
         previewUrl:"http://www.bootply.com/render/100983",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{
@@ -984,6 +984,23 @@ module.exports =
         author:"BootstrapTaste",
         authorUrl:"http://www.bootstraptaste.com",
         bootstrapVersion:"3.0.0",
+        license:"freeware",
+        avatar:"https://pbs.twimg.com/profile_images/429318798210916352/1Szn2_gT_bigger.jpeg",
+        licenseUrl:""
+    },
+    {
+        name:"Mamba",
+        title:"Mamba",
+        short:"One pager",
+        full:"Mamba is a free Bootstrap template from BootstrapTaste. Mamba is a simple &amp; flat one page Bootstrap template, suitable for creative profiles. Includes a minimal navigation menu, smooth scroll and pure css lightbox on portfolio images.",
+        tags:["bootstraptaste","theme","one-page","background-image","blue","flat"],
+        imgUrl:"http://bootstraptaste.com/wp-content/uploads/2014/02/Mamba-Free-Bootstrap-3-one-page-template-2014-02-26-23-00-47-500x500.png",
+        downloadUrl:"http://bootstraptaste.com/download-theme/87/",
+        sourceUrl:"http://bootstraptaste.com/mamba-one-page-bootstrap-template-free/",
+        previewUrl:"http://bootstraptaste.com/theme/mamba/",
+        author:"BootstrapTaste",
+        authorUrl:"http://www.bootstraptaste.com",
+        bootstrapVersion:"3.1.1",
         license:"freeware",
         avatar:"https://pbs.twimg.com/profile_images/429318798210916352/1Szn2_gT_bigger.jpeg",
         licenseUrl:""
