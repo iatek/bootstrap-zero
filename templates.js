@@ -160,7 +160,7 @@ module.exports =
         previewUrl:"http://www.bootply.com/render/88026",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{
@@ -240,7 +240,7 @@ module.exports =
         previewUrl:"http://www.bootply.com/render/96937",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{
