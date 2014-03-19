@@ -987,5 +987,22 @@ module.exports =
         license:"freeware",
         avatar:"https://pbs.twimg.com/profile_images/429318798210916352/1Szn2_gT_bigger.jpeg",
         licenseUrl:""
+    },
+    {
+        name:"Magister",
+        title:"Magister",
+        short:"Single-page portfolio template",
+        full:"Magister is a free, responsive, single-page Bootstrap template by GetTemplate. Ideal choice for personal or 'Coming soon' landing page.",
+        tags:["gettemplate", "theme", "background", "one-page", "center", "portfolio"],
+        imgUrl:"http://www.gettemplate.com/content/images/magister-large.jpg",
+        downloadUrl:"http://bit.ly/1c8ihUV",
+        sourceUrl:"http://www.gettemplate.com",
+        previewUrl:"http://www.gettemplate.com/demo/magister/",
+        author:"GetTemplate.com",
+        authorUrl:"http://www.gettemplate.com",
+        bootstrapVersion:"3.0.3",
+        avatar:"http://www.gettemplate.com/content/images/gt.png",
+        license:"CC Attribution",
+        licenseUrl:"http://creativecommons.org/licenses/by/3.0/"
     }
 ]
