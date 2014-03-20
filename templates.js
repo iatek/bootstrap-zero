@@ -1021,5 +1021,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/378800000050649381/41e2b37e68cdb7b6ace31ef6be3f093d.jpeg",
         license:"MIT",
         licenseUrl:""
+    },
+    {
+        name:"devoops",
+        title:"DevOOPS",
+        short:"Dashboard theme",
+        full:"DevOOPS is free admin dashboard theme by nnmware.",
+        tags:["admin", "theme", "dashboard", "control-panel"],
+        imgUrl:"http://devoops.me/img/devoops_screen.jpg",
+        downloadUrl:"http://devoops.me/themes/devoops/devoops.zip",
+        sourceUrl:"https://github.com/devoopsme/devoops",
+        previewUrl:"http://devoops.me/themes/devoops/",
+        author:"nnmware",
+        authorUrl:"http://devoops.me/",
+        bootstrapVersion:"3.1.0",
+        avatar:"https://avatars0.githubusercontent.com/u/1585671?s=460",
+        license:"GPL",
+        licenseUrl:""
     }
 ]
