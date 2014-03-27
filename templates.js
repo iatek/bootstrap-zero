@@ -1038,5 +1038,22 @@ module.exports =
         avatar:"https://avatars0.githubusercontent.com/u/1585671?s=460",
         license:"GPL",
         licenseUrl:""
+    },
+    {
+        name:"firmasite",
+        title:"FirmaSite",
+        short:"Wordpress theme",
+        full:"A free Bootstrap wordpress theme by FirmaSite. This is a 2 column layout that works well for a blog or article list next to a multi-purpose sidebar.",
+        tags:["wordpress", "theme", "respsonive", "blog", "sidebar"],
+        imgUrl:"http://theme.firmasite.com/wp-content/uploads/2013/11/firmasite.jpg",
+        downloadUrl:"http://wordpress.org/themes/download/firmasite.1.3.2.1.zip",
+        sourceUrl:"http://demo.theme.firmasite.com/",
+        previewUrl:"http://demo.theme.firmasite.com/",
+        author:"FirmaSite",
+        authorUrl:"http://theme.firmasite.com/",
+        bootstrapVersion:"3.1.1",
+        avatar:"https://pbs.twimg.com/profile_images/378800000021852655/d9c03cdd3feea0ce0036962483949f3c.png",
+        license:"GPLv3",
+        licenseUrl:"http://www.gnu.org/licenses/gpl.txt"
     }
 ]
