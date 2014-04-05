@@ -237,7 +237,7 @@
         }
         
         .carbonad {
-            background: transparent;
-            background-image: none;
-            border: 0;
+            background: transparent !important;
+            background-image: none !important;
+            border: 0 !important;
         }
