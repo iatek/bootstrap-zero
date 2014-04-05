@@ -1022,7 +1022,6 @@ module.exports =
         license:"MIT",
         licenseUrl:""
     },
-    /*
     {
         name:"devoops",
         title:"DevOOPS",
@@ -1039,7 +1038,7 @@ module.exports =
         avatar:"https://avatars0.githubusercontent.com/u/1585671?s=460",
         license:"GPL",
         licenseUrl:""
-    },*/
+    },
     {
         name:"firmasite",
         title:"FirmaSite",
