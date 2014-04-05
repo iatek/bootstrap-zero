@@ -235,3 +235,9 @@
             background-color:#CCFF33;
             color:#563d7c;
         }
+        
+        .carbonad {
+            background: transparent;
+            background-image: none;
+            border: 0;
+        }
