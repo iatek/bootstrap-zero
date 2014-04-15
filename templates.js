@@ -277,8 +277,8 @@ module.exports =
     },
 	{
         id:"128936",
-        name:"Dashboard",
-        title:"Dashboard",
+        name:"DashboardSidebar",
+        title:"Dashboard Sidebar",
         short:"Dashboard with off-canvas sidebar",
         full:"This is a template for a admin, control panel or dashboard. This template has a collapsible sidebar menu, and a variety of panels that can be used as dashboard widgets.",
         tags:["starter","admin","dashboard","sidebar","off-canvas","collapse"],
@@ -295,7 +295,7 @@ module.exports =
 	{
         id:"130150",
         name:"ECommerce",
-        title:"E-commerce",
+        title:"E Commerce",
         short:"Shop template",
         full:"Simple starter layout for an e-commerce template. This template has a large product image, and several smaller images that scale responsively. Also includes a tabbed panel for product details, reviews, etc..",
         tags:["starter","product","tabs","e-commerce","shop"],
@@ -446,7 +446,7 @@ module.exports =
         title:"Admin",
         short:"3 column control panel",
         full:"This is a starter template for a admin, control panel or dashboard. This template has a collapsible tree menu, and a variety of panels that can be used as dashboard widgets.",
-        tags:["admin","dashboard","theme","tree"],
+        tags:["admin","starter","dashboard","theme","tree"],
         imgUrl:"http://www.bootply.com/assets/templates/85850.png",
         downloadUrl:"http://www.bootply.com/download/85850",
         sourceUrl:"http://www.bootply.com/85850",
