@@ -446,7 +446,7 @@ module.exports =
         title:"Admin",
         short:"3 column control panel",
         full:"This is a starter template for a admin, control panel or dashboard. This template has a collapsible tree menu, and a variety of panels that can be used as dashboard widgets.",
-        tags:["starter","admin","dashboard","theme","tree"],
+        tags:["admin","dashboard","theme","tree"],
         imgUrl:"http://www.bootply.com/assets/templates/85850.png",
         downloadUrl:"http://www.bootply.com/download/85850",
         sourceUrl:"http://www.bootply.com/85850",
