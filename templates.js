@@ -276,6 +276,23 @@ module.exports =
         license:"MIT"
     },
 	{
+        id:"128936",
+        name:"Dashboard",
+        title:"Dashboard",
+        short:"Dashboard with off-canvas sidebar",
+        full:"This is a template for a admin, control panel or dashboard. This template has a collapsible sidebar menu, and a variety of panels that can be used as dashboard widgets.",
+        tags:["starter","admin","dashboard","theme","sidebar","off-canvas","collapse"],
+        imgUrl:"http://www.bootply.com/assets/templates/tmp_128936.png",
+        downloadUrl:"http://www.bootply.com/download/128936",
+        sourceUrl:"http://www.bootply.com/128936",
+        previewUrl:"http://www.bootply.com/render/128936",
+        author:"Bootply.com",
+        authorUrl:"http://www.bootply.com/templates",
+        avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
+        bootstrapVersion:"3.1.1",
+        license:"MIT"
+    },
+	{
         id:"90113",
         name:"Plus",
         title:"Google Plus",
