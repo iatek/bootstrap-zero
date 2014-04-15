@@ -529,7 +529,7 @@ module.exports =
         title:"Sectionalize",
         short:"Multi-section single page template",
         full:"Long scrolling full height sections, with a 4 column footer. The sections automagically scale to full height using CSS calc. This template also includes a search form in the custom navbar.",
-        tags:["starter","height","sections","app","scrolling","single-page","one-page-app","search","form","navbar","css","full-height"],
+        tags:["theme","height","sections","app","scrolling","single-page","one-page-app","search","form","navbar","css","full-height"],
         imgUrl:"http://www.bootply.com/assets/templates/tmp_129806.png",
         downloadUrl:"http://www.bootply.com/download/129806",
         sourceUrl:"http://www.bootply.com/129806",
