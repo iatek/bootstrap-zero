@@ -21,20 +21,18 @@
                     <div class="col-sm-6"><a href="<%=template.previewUrl%>" rel="nofollow" target="ext"><img src="<%=template.imgUrl%>" class="img-thumbnail img-responsive" alt="<%=template.title%> Bootstrap Template" /></a></div>
                     <div class="col-sm-6">
                         <p><%-template.full%></p>
-                        
                         <p class="text-muted"><small>Responsive (Multiple Device Support)</small></p>
                         <p>
-                            <i class="fa fa-mobile fa-4" title="For smartphone, iphone, android, galaxy, nokia, etc.."></i>
-                            <i class="fa fa-tablet fa-4" title="For ipad, surface, kindle and other portrait tablet screen widths"></i>
-                            <i class="fa fa-laptop fa-4" title="Supports and optimized for laptop and landscape tablet screen widths"></i>
-                            <i class="fa fa-desktop fa-4" title="Supports desktop, large monitors and larger screen widths"></i>
+                         <i class="fa fa-mobile fa-4" title="For smartphone, iphone, android, galaxy, nokia, etc.."></i>
+                         <i class="fa fa-tablet fa-4" title="For ipad, surface, kindle and other portrait tablet screen widths"></i>
+                         <i class="fa fa-laptop fa-4" title="Supports and optimized for laptop and landscape tablet screen widths"></i>
+                         <i class="fa fa-desktop fa-4" title="Supports desktop, large monitors and larger screen widths"></i>
                         </p>
                         <p class="pull-right">
-                                <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-size="large" data-align="right" data-related="BootstrapZero" data-text="<%=template.title%> free Bootstrap template from @BootstrapZero" data-url="http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(" ","-")%>">Tweet</a>
-                                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                         <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-size="large" data-align="right" data-related="BootstrapZero" data-text="<%=template.title%> free Bootstrap template from @BootstrapZero" data-url="http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(" ","-")%>">Share on Twitter</a>
+                         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                         </p>
                         <p class="text-muted"><small>Permalink<br><a href="/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g, "-")%>">http://bootstrapzero.com/bootstrap-template/<%=template.title.toLowerCase().replace(/\s/g,"-")%></a></small></p>
-                        
                         <p class="text-muted"><small>License &amp; Author Details<br/>
                             <% if (typeof template.author !="undefined") { %>
                                 <a href="<%=template.authorUrl%>" rel="nofollow"><%=template.license%></a> by <a href="<%=template.authorUrl%>" target="ext"><%=template.author%></a><br/>
