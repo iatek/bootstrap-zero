@@ -42,30 +42,26 @@
                             <% } %>
                             </small>
                         </p>
-                        
                         <h3>
-                            <a id="btnDownload" href="<%=template.downloadUrl%>" rel="nofollow" class="label label-info" target="ext" title="Download this template as HTML file">Download <i class="glyphicon glyphicon-circle-arrow-down"></i></a> 
-                            <a href="<%=template.sourceUrl%>" rel="nofollow" class="label label-info" target="ext" title="View the HTML, CSS and JavaScript for this template">Code</a> 
-                            <a href="<%=template.previewUrl%>" rel="nofollow" class="label label-success" target="ext" title="Preview this Bootstrap template">Live Preview</a> 
+                         <a id="btnDownload" href="<%=template.downloadUrl%>" rel="nofollow" class="label label-info" target="ext" title="Download this template as HTML file">Download <i class="glyphicon glyphicon-circle-arrow-down"></i></a> 
+                         <a href="<%=template.sourceUrl%>" rel="nofollow" class="label label-info" target="ext" title="View the HTML, CSS and JavaScript for this template">Code</a> 
+                         <a href="<%=template.previewUrl%>" rel="nofollow" class="label label-success" target="ext" title="Preview this Bootstrap template">Live Preview</a> 
                         </h3>
                         
                     </div>
                 </div>
-                
                 <h4>
                     <% for (var tag in template.tags) { %>
                     <a href="/bootstrap-templates/<%=template.tags[tag]%>" class="label label-default" target="ext"><%=template.tags[tag]%></a> 
                     <% } %>
                 </h4>
-                
-               
       		</div>
       	</div>
       	<hr>
       	<div class="row">
-      	      <div class="col-sm-3"><a href="http://www.bootstrapzero.com/bootstrap-template/<%=prev.title.toLowerCase().replace(/\s/g,"-")%>"><i class="glyphicon glyphicon-chevron-left"></i> Previous Template</a></div>
-      	      <div class="col-sm-6 text-center"><a href="http://designmodo.com/shop/?u=1063" rel="nofollow" target="ext">High-quality Themes</a></div>
-      	      <div class="col-sm-3 text-right"><a href="http://www.bootstrapzero.com/bootstrap-template/<%=next.title.toLowerCase().replace(/\s/g,"-")%>">Next Template <i class="glyphicon glyphicon-chevron-right"></i></a></div>
+      	 <div class="col-xs-3"><a href="http://www.bootstrapzero.com/bootstrap-template/<%=prev.title.toLowerCase().replace(/\s/g,"-")%>"><i class="glyphicon glyphicon-chevron-left"></i> Previous Template</a></div>
+      	 <div class="col-xs-6 text-center"><a href="http://designmodo.com/shop/?u=1063" rel="nofollow" target="ext">Premium Themes <i class="glyphicon glyphicon-share"></i></a></div>
+      	 <div class="col-xs-3 text-right"><a href="http://www.bootstrapzero.com/bootstrap-template/<%=next.title.toLowerCase().replace(/\s/g,"-")%>">Next Template <i class="glyphicon glyphicon-chevron-right"></i></a></div>
         </div>
     </div>
     
