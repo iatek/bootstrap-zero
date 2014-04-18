@@ -32,7 +32,7 @@
       		</div>
       	</div>
       	<div class="row">
-      	    <% for(i in starters) {%>
+      	    <% for(i in starters.slice(0,12)) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(/\s/g,"-") %>"><%=starters[i].title%></h3></a></div>
@@ -43,6 +43,8 @@
       		<% } %>
         </div>
         <hr>
+        <div class="col-md-12 text-center"><a href="http://www.bootstrapzero.com/bootstrap-templates/starter" class="btn btn-success btn-lg">All Starter Templates</a></div>
+        <hr>
         <div class="row" id="custom">
       		<div class="col-md-12">
       			<h2>Templates with Themes</h2>
@@ -51,7 +53,7 @@
       		</div>
       	</div>
       	<div class="row">
-      	    <% for(i in themes.slice(0,15)) {%>
+      	    <% for(i in themes.slice(0,21)) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>

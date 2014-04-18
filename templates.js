@@ -1045,7 +1045,7 @@ module.exports =
         short:"Coming soon countdown",
         full:"Counter is a useful and beautiful template from BlackTie. Counter is a coming soon theme that uses Revolution Slider to showcase images at the background.  The countdown is powered by a custom Javascript. Modify that script to set the proper date.",
         tags:["blacktie","theme","background","one-page","counter","launch","startup","javascript","coming-soon","landing","date","countdown","clock"],
-        imgUrl:"hhttp://www.blacktie.co/blog/wp-content/uploads/2014/03/counter.png",
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2014/03/counter.png",
         downloadUrl:"https://dl.dropboxusercontent.com/u/105401917/BlackTie/counter.zip",
         sourceUrl:"http://www.blacktie.co/2014/03/counter-coming-soon-page/",
         previewUrl:"http://blacktie.co/demo/counter/",
