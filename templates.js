@@ -1178,7 +1178,7 @@ module.exports =
     {
         name:"darkadmin",
         title:"DarkAdmin",
-        short:"Dark Admin",
+        short:"Admin template with dark theme",
         full:"A free Bootstrap theme from PrepBootstrap. This is a admin theme with many addition pages and layouts. Dashboard, which contains dashboard widgets, that handle the task of data visualization for the theme. Useful for quarterly reports, sales data, or data reporting.",
         tags:["theme", "admin", "dark", "dashboard", "chart", "table", "reports", "sidebar", "prepbootstrap"],
         imgUrl:"http://www.prepbootstrap.com/Content/images/theme/dark-admin.png",
