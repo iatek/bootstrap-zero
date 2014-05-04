@@ -1174,5 +1174,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/378800000021852655/d9c03cdd3feea0ce0036962483949f3c.png",
         license:"GPLv3",
         licenseUrl:"http://www.gnu.org/licenses/gpl.txt"
+    },
+    {
+        name:"darkadmin",
+        title:"DarkAdmin",
+        short:"Dark Admin",
+        full:"A free Bootstrap theme from PrepBootstrap. This is a admin theme with many addition pages and layouts. Dashboard, which contains dashboard widgets, that handle the task of data visualization for the theme. Useful for quarterly reports, sales data, or data reporting.",
+        tags:["theme", "admin", "dark", "dashboard", "chart", "table", "reports", "sidebar", "prepbootstrap"],
+        imgUrl:"http://www.prepbootstrap.com/Content/images/theme/dark-admin.png",
+        downloadUrl:"http://www.prepbootstrap.com/bootstrap-theme/dark-admin/download",
+        sourceUrl:"http://www.prepbootstrap.com/bootstrap-theme/dark-admin",
+        previewUrl:"http://www.prepbootstrap.com/bootstrap-theme/dark-admin/preview/index.html",
+        author:"PrepBootstrap",
+        authorUrl:"http://www.prepbootstrap.com/",
+        bootstrapVersion:"3.1.1",
+        avatar:"https://pbs.twimg.com/profile_images/446219636262989824/wiuiurDV_bigger.png",
+        license:"MIT",
+        licenseUrl:"http://www.prepbootstrap.com/license"
     }
 ]
