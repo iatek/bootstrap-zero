@@ -315,7 +315,7 @@ module.exports =
         title:"Google Maps",
         short:"Foursquare-style with fixed map",
         full:"This is a template that uses the Google Maps API. The top nav includes a search form that consumes the full width of the leftover space in the navbar. The layout has 2 columns with a scrolling content pane, and right-side fixed, full height map.",
-        tags:["starter","height","fixed","sidebar","map","app","navbar","search"],
+        tags:["starter","height","fixed","sidebar","map","google-maps","google","app","navbar","search"],
         imgUrl:"http://www.bootply.com/assets/templates/tmp_129821.png",
         downloadUrl:"http://www.bootply.com/download/129821",
         sourceUrl:"http://www.bootply.com/129821",
