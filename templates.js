@@ -1057,6 +1057,23 @@ module.exports =
         licenseUrl:""
     },
     {
+        name:"Pratt",
+        title:"Pratt",
+        short:"App landing or startup page",
+        full:"Pratt is another simple, clean template from BlackTie. Pratt makes a quick simple landing page for your new startup or app. Really easy to use and modify. It works well for a Coming Soon Page.",
+        tags:["blacktie","theme","background","one-page","launch","startup","landing","coming-soon","app"],
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2013/10/pratt-copia.png",
+        downloadUrl:"http://bit.ly/1g3Bskf",
+        sourceUrl:"http://www.blacktie.co/2013/10/pratt-app-landing-page/",
+        previewUrl:"http://blacktie.co/demo/pratt/",
+        author:"BlackTie",
+        authorUrl:"http://www.blacktie.co",
+        bootstrapVersion:"3.0",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
+        licenseUrl:""
+    },
+    {
         name:"Siimple",
         title:"Siimple",
         short:"Landing page",
