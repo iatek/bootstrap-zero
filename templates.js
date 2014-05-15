@@ -610,7 +610,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -627,7 +627,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -644,7 +644,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -661,7 +661,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -678,7 +678,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -695,7 +695,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -712,7 +712,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -729,7 +729,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -746,7 +746,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -763,7 +763,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -780,7 +780,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -797,7 +797,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.0.3",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -814,7 +814,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.1.0",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },
@@ -831,7 +831,7 @@ module.exports =
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
         bootstrapVersion:"3.1.0",
-        license:"Apache",
+        license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
     },

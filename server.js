@@ -101,6 +101,18 @@ app.get('/api/templates', function(req, res){
     
 });
 
+app.get('/bootstraps/:page', function(req, res){
+
+    console.log("/templates paged list all.......");
+    
+    var page = (req.params.page)||1;
+    var templates = require('./templates').reverse();
+    templates = templates.slice();
+    
+    
+    res.render("list",{templates:templates,tag:"Bootstrap",title:"Free bootstrap themes and template",desc:"Bootstrap templates and examples. A collection of free, responsive starter templates and themes for Bootstrap from BootstrapZero."});
+});
+
 app.get('/bootstrap-templates', function(req, res){
 
     console.log("/templates list all.......");
