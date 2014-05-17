@@ -272,7 +272,8 @@
             pager.find('.page_link:first').addClass('active');
             pager.find('.prev_link').hide();
             if (numPages<=1) {
-                pager.find('.next_link').hide();
+                //pager.find('.next_link').hide();
+                pager.hide();
             }
             
             children.css('display', 'none');
