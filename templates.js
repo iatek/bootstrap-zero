@@ -256,7 +256,7 @@ module.exports =
         previewUrl:"http://www.bootply.com/render/101499",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{
@@ -272,7 +272,7 @@ module.exports =
         previewUrl:"http://www.bootply.com/render/101506",
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{
@@ -357,7 +357,7 @@ module.exports =
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
         avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{

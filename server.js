@@ -135,7 +135,7 @@ app.get('/bootstrap-templates/:tag', function(req, res){
         }
     }
     
-    res.render("list",{templates:tagged,tag:tag});
+    res.render("list",{templates:tagged,tag:tag,title:'Bootstrap ' + tag + ' Themes and Templates - BootstrapZero'});
     
 });
 
