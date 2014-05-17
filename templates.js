@@ -331,7 +331,7 @@ module.exports =
         name:"Plus",
         title:"Google Plus",
         short:"Google+ style with cards",
-        full:"Google+ inspired responsive starter template with 2 top navs, cards, fluid columns and flat design. The template has login modal pop-up, home menu, and layout toggle that switches the grid between 2 and 3 columns.",
+        full:"Google+ inspired responsive starter template with 2 top navbars, cards, fluid columns and flat design. The template has login modal pop-up, home menu, and layout toggle that switches the grid between 2 and 3 columns.",
         tags:["google","google-plus","theme","flat","toggle","cards"],
         imgUrl:"http://www.bootply.com/assets/templates/90113.png",
         downloadUrl:"http://www.bootply.com/download/90113",
@@ -340,7 +340,7 @@ module.exports =
         author:"Bootply.com",
         authorUrl:"http://www.bootply.com/templates",
         avatar:"https://pbs.twimg.com/profile_images/3663020003/d09fae59ab68605a7973043e0267b905.jpeg",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.1.1",
         license:"MIT"
     },
 	{
