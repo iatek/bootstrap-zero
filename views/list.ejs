@@ -25,7 +25,7 @@
                 <hr>
       		</div>
       	</div>
-      	<div class="row">
+      	<div class="row" id="listTemplates">
       	    <% for(i in templates) {%>
   			<div class="col-sm-4">
               	<div class="panel panel-default">
@@ -35,6 +35,7 @@
                 </div>              
       		</div>
       		<% } %>
+      		<ul class="pagination pagination-small pager" id="pageTemplates"></ul>
         </div>
         <div class="row">
       		<div class="col-md-12">
