@@ -1,0 +1,27 @@
+{
+    "run": {
+        "@path": "/.c9/runners",
+        "configs": {
+            "json()": {},
+            "@inited": "true"
+        }
+    },
+    "share": {
+        "@preview": false,
+        "@app": false
+    },
+    "ace": {
+        "@newLineMode": "unix",
+        "@tabSize": "4",
+        "@useSoftTabs": "true",
+        "@guessTabSize": "true"
+    },
+    "language": {
+        "@warnLevel": "info"
+    },
+    "build": {
+        "@path": "/.c9/builders",
+        "@saveall": "true",
+        "@builder": "auto"
+    }
+}

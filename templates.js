@@ -1242,5 +1242,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/426737674360090624/zvNslwy8.png",
         license:"Freeware",
         licenseUrl:""
+    },
+    {
+        name:"binary",
+        title:"Binary",
+        short:"Admin theme",
+        full:"Binary Admin is an easy to customize admin or dashboard template. This responsive template includes a collpasing off-canvas sidebar, working charts, data tables, multilevel dropdown, and of course all the usual Bootstrap 3 awesomeness.",
+        tags:["theme", "admin", "dashboard", "jquery", "sidebar", "charts", "data", "submenu", "morris", "menu", "multipurpose"],
+        imgUrl:"http://binarycart.com/assets/img/img1.png",
+        downloadUrl:"http://bit.ly/binaryadmin",
+        sourceUrl:"http://binarycart.com/",
+        previewUrl:"http://binarycart.com/bclivedemos/01-05-2014/v1/bs-binary-admin/index.html",
+        author:"Binary Themes",
+        authorUrl:"http://www.binarytheme.com/",
+        bootstrapVersion:"3.1.1",
+        avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
+        license:"CC 3.0",
+        licenseUrl:""
     }
 ]
