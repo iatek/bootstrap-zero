@@ -1256,7 +1256,7 @@ module.exports =
         author:"Carlos Alverez",
         authorUrl:"http://alvarez.is/",
         bootstrapVersion:"3.0.0",
-        avatar:"https://pbs.twimg.com/profile_images/426737674360090624/zvNslwy8.png",
+        avatar:"https://pbs.twimg.com/profile_images/477555798881886208/S59w4clz.jpeg",
         license:"Freeware",
         licenseUrl:""
     },
@@ -1275,6 +1275,23 @@ module.exports =
         bootstrapVersion:"3.1.1",
         avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
         license:"CC 3.0",
-        licenseUrl:""
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"RUMA",
+        title:"Ruma",
+        short:"Multipurpose Template",
+        full:"Ruma is a clean Bootstrap 3 template that features a single page with multiple sections. It uses the Bootstrap carousel for a nice horizontal slider, and has a nice navbar animation as you scroll down.",
+        tags:["single-page-app","multipurpose","navbar","scrolling","animation","slider","carousel"],
+        imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-ruma1.png",
+        downloadUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-Ruma.zip",
+        sourceUrl:"http://www.binarytheme.com/free-multipurpose-template-ruma/",
+        previewUrl:"http://www.binarytheme.com/btlivedemos/05-2014/31/bs-multipurpose-ruma/index.html",
+        author:"binarytheme",
+        authorUrl:"http://www.binarytheme.com/category/themes/bootstrap-themes/",
+        bootstrapVersion:"3.1",
+        avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
+        license:"CC3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
