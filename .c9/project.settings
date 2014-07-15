@@ -8,7 +8,8 @@
     },
     "share": {
         "@preview": false,
-        "@app": false
+        "@app": false,
+        "@useOwnerSettings": false
     },
     "ace": {
         "@newLineMode": "unix",
@@ -17,11 +18,17 @@
         "@guessTabSize": "true"
     },
     "language": {
-        "@warnLevel": "info"
+        "@warnLevel": "info",
+        "@instanceHighlight": "true",
+        "@undeclaredVars": "true",
+        "@unusedFunctionArgs": "false"
     },
     "build": {
         "@path": "/.c9/builders",
         "@saveall": "true",
         "@builder": "auto"
+    },
+    "find.nak": {
+        "@searchLimit": 100
     }
 }
