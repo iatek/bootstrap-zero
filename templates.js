@@ -1108,6 +1108,23 @@ module.exports =
         licenseUrl:""
     },
     {
+        name:"Ninestars",
+        title:"Ninestars",
+        short:"Creative single pager",
+        full:"Ninestars is a free Bootstrap theme from BootstrapTaste. This one page Bootstrap HTML template for creative or portfolio named ‘Ninestars’. It has a slide out sidebar menu like the Google nexus website from Codrops site instead of standard Bootstrap navigation.",
+        tags:["bootstraptaste","theme","one-page","creative","agency","menu","slide","landing"],
+        imgUrl:"http://bootstraptaste.com/wp-content/uploads/2014/05/ninestars-mockup.jpg",
+        downloadUrl:"http://bootstraptaste.com/download-theme/116/",
+        sourceUrl:"http://bootstraptaste.com/ninestars-free-bootstrap-3-theme-for-creative/",
+        previewUrl:"http://bootstraptaste.com/theme/ninestars/",
+        author:"BootstrapTaste",
+        authorUrl:"http://www.bootstraptaste.com",
+        bootstrapVersion:"3.1.0",
+        license:"freeware",
+        avatar:"https://pbs.twimg.com/profile_images/429318798210916352/1Szn2_gT_bigger.jpeg",
+        licenseUrl:""
+    },
+    {
         name:"Amoeba",
         title:"Amoeba",
         short:"One pager",
