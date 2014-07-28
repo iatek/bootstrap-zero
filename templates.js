@@ -1091,6 +1091,23 @@ module.exports =
         licenseUrl:""
     },
     {
+        name:"DashGum",
+        title:"DashGum",
+        short:"Free Dashboard Theme",
+        full:"DashGum is an awesome 15 page Bootstrap admin theme or dashboard panel. With DashGum you have charts, tables, a lot of panels, calendars, notifications, to-do list and more.",
+        tags:["blacktie","theme","admin","dashboard","tasks","charts","tables","panels","calendar","alerts"],
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2014/07/dashgum.png",
+        downloadUrl:"http://bit.ly/1mJp9H5",
+        sourceUrl:"http://www.blacktie.co/2014/07/dashgum-free-dashboard/",
+        previewUrl:"http://www.blacktie.co/demo/dashgumfree/",
+        author:"BlackTie",
+        authorUrl:"http://www.blacktie.co",
+        bootstrapVersion:"3.2.0",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
+        licenseUrl:""
+    },
+    {
         name:"Siimple",
         title:"Siimple",
         short:"Landing page",
