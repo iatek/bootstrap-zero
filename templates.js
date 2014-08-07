@@ -1093,7 +1093,7 @@ module.exports =
     {
         name:"DashGum",
         title:"DashGum",
-        short:"Free Dashboard Theme",
+        short:"Free dashboard-admin theme",
         full:"DashGum is an awesome 15 page Bootstrap admin theme or dashboard panel. With DashGum you have charts, tables, a lot of panels, calendars, notifications, to-do list and more.",
         tags:["blacktie","theme","admin","dashboard","tasks","charts","tables","panels","calendar","alerts"],
         imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2014/07/dashgum.png",
