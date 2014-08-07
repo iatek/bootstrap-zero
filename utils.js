@@ -13,6 +13,11 @@ module.exports.shorten = function(str,len) {
   
 };
 
+module.exports.capitalize = function(s)
+{
+    return s[0].toUpperCase() + s.slice(1);
+};
+
 module.exports.timeAgo = function(date_str){
     date_str = date_str.replace('+0000','Z');
     var time_formats = [
