@@ -1327,5 +1327,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
         license:"CC3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"bcore",
+        title:"B-core",
+        short:"Dashboard Admin Template",
+        full:"BCORE is fully responsive admin template. It comes with 40+ integrated plugins for charts, data tables, maps, form elements, notifications and more.",
+        tags:["admin","multipurpose","dashboard","alerts","charts","menu","maps","notitication"],
+        imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/04/bs-admin-bcore.png",
+        downloadUrl:"http://www.binarytheme.com/?smd_process_download=1&download_id=684",
+        sourceUrl:"http://www.binarytheme.com/bootstrap-free-admin-dashboard-template/",
+        previewUrl:"http://binarytheme.com/btlivedemos/04-2014/10/bs-admin-bcore/index.html",
+        author:"binarytheme",
+        authorUrl:"http://www.binarytheme.com/category/themes/bootstrap-themes/",
+        bootstrapVersion:"3.0",
+        avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
+        license:"CC3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
