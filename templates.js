@@ -1330,7 +1330,7 @@ module.exports =
     },
     {
         name:"bcore",
-        title:"B-core",
+        title:"Bcore",
         short:"Dashboard Admin Template",
         full:"BCORE is fully responsive admin template. It comes with 40+ integrated plugins for charts, data tables, maps, form elements, notifications and more.",
         tags:["admin","multipurpose","dashboard","alerts","charts","menu","maps","notitication"],
