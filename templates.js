@@ -609,7 +609,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/cerulean/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -626,7 +626,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/cosmo/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -643,7 +643,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/amelia/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -660,7 +660,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/cyborg/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -677,7 +677,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/flatly/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -694,7 +694,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/readable/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -711,7 +711,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/journal/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -728,7 +728,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/simplex/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -745,7 +745,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/slate/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -762,7 +762,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/spacelab/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -779,7 +779,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/united/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -796,7 +796,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/yeti/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.0.3",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -813,7 +813,7 @@ module.exports =
         previewUrl:"http://bootswatch.com/lumen/",
         author:"Bootswatch",
         authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.1.0",
+        bootstrapVersion:"3.2.0",
         license:"MIT",
         avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
         licenseUrl:""
@@ -858,7 +858,7 @@ module.exports =
         short:"A touch of warmth",
         full:"A free theme from Bootswatch. This theme includes the complete Bootstrap baseline so it replaces your existing bootstrap.css.",
         tags:["bootswatch","theme","white","simple","flat","light"],
-        imgUrl:"http://bootswatch.com/paper/thumbnail.png",
+        imgUrl:"http://bootswatch.com/sandstone/thumbnail.png",
         downloadUrl:"http://bootswatch.com/sandstone/bootstrap.min.css",
         sourceUrl:"http://bootswatch.com/sandstone/",
         previewUrl:"http://bootswatch.com/sandstone/",
