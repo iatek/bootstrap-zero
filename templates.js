@@ -1333,7 +1333,7 @@ module.exports =
         title:"Binary",
         short:"Admin theme",
         full:"Binary Admin is an easy to customize admin or dashboard template. This responsive template includes a collpasing off-canvas sidebar, working charts, data tables, multilevel dropdown, and of course all the usual Bootstrap 3 awesomeness.",
-        tags:["theme", "admin", "dashboard", "jquery", "sidebar", "charts", "data", "submenu", "morris", "menu", "multipurpose"],
+        tags:["theme", "admin", "dashboard", "jquery", "sidebar", "charts", "data", "submenu", "morris", "menu", "multipurpose", "binarytheme"],
         imgUrl:"http://binarycart.com/assets/img/img1.png",
         downloadUrl:"http://bit.ly/binaryadmin",
         sourceUrl:"http://binarycart.com/",
@@ -1346,11 +1346,11 @@ module.exports =
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     },
     {
-        name:"RUMA",
+        name:"ruma",
         title:"Ruma",
         short:"Multipurpose Template",
         full:"Ruma is a clean Bootstrap 3 template that features a single page with multiple sections. It uses the Bootstrap carousel for a nice horizontal slider, and has a nice navbar animation as you scroll down.",
-        tags:["single-page-app","multipurpose","navbar","scrolling","animation","slider","carousel"],
+        tags:["single-page-app","multipurpose","navbar","scrolling","animation","slider","carousel","binarytheme"],
         imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-ruma1.png",
         downloadUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-Ruma.zip",
         sourceUrl:"http://www.binarytheme.com/free-multipurpose-template-ruma/",
@@ -1367,7 +1367,7 @@ module.exports =
         title:"Bcore",
         short:"Dashboard Admin Template",
         full:"BCORE is fully responsive admin template. It comes with 40+ integrated plugins for charts, data tables, maps, form elements, notifications and more.",
-        tags:["admin","multipurpose","dashboard","alerts","charts","menu","maps","notitication"],
+        tags:["admin","multipurpose","dashboard","alerts","charts","menu","maps","notitication","binarytheme"],
         imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/04/bs-admin-bcore.png",
         downloadUrl:"http://www.binarytheme.com/?smd_process_download=1&download_id=684",
         sourceUrl:"http://www.binarytheme.com/bootstrap-free-admin-dashboard-template/",
@@ -1377,6 +1377,23 @@ module.exports =
         bootstrapVersion:"3.0",
         avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
         license:"CC3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"ecosave",
+        title:"EcoSave",
+        short:"Accept Donations",
+        full:"This green environment template comes on 2 variations.. light and dark. This template also includes an embedded Vimeo video, contact form and pop-up gallery with lightbox.",
+        tags:["theme", "donations", "bootstrap", "gallery", "free", "multipurpose", "environment", "green", "non-profit", "video", "one-page", "binarytheme"],
+        imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/07/bs-ecosave.png",
+        downloadUrl:"http://www.binarytheme.com/?smd_process_download=1&download_id=1327",
+        sourceUrl:"http://www.binarytheme.com/ecosave-bootstrap-environment-template/",
+        previewUrl:"http://binarytheme.com/demos?theme=ecosave-bootstrap-environment-template",
+        author:"Binary Theme",
+        authorUrl:"http://www.binarytheme.com/",
+        bootstrapVersion:"3.1.0",
+        avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
+        license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
