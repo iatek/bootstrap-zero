@@ -1162,7 +1162,7 @@ module.exports =
         name:"Squad",
         title:"Squad",
         short:"Scrolling page",
-        full:"Siimple is a free Bootstrap template from BootstrapTaste. Squadfree is a free HTML site template for creatives with a simple and modern layout built with Bootstrap 3 framework. Nice CSS3 animation added on each section scroll and navigatio. This template uses wow.js animation script to animate section elements.",
+        full:"Squad is a free Bootstrap template from BootstrapTaste for creatives, with a simple and modern layout. Nice CSS3 animation added on each section scroll and navigatio. This template uses wow.js animation script to animate section elements.",
         tags:["bootstraptaste","theme","one-page","background-image","photo","animation","creative","portfolio"],
         imgUrl:"http://bootstraptaste.com/wp-content/uploads/2014/08/sqfree.jpg",
         downloadUrl:"http://bootstraptaste.com/download-theme/142/",
