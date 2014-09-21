@@ -1415,7 +1415,7 @@ module.exports =
     },
     {
         name:"respdashboard",
-        title:"Responsive-Dashboard",
+        title:"ResponsiveDashboard",
         short:"AngularJS + Bootstrap",
         full:"This working template demonstrates use of AngularJS with Bootstrap 3. This good looking bloat free dashboard template features a collapsible vertical sidebar, font-awesome icons, alerts and scrolling tables.",
         tags:["theme", "admin", "bootstrap", "dashboard", "multipurpose", "font-awesome", "angular", "angularjs", "github", "bower"],
