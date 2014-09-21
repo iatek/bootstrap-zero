@@ -323,7 +323,9 @@
                     pager.find('.next_link').hide();
                 }
                 
-                $('body').scrollTo($this);
+                $('html, body').animate({
+                  scrollTop: $this.offset().top
+                }, 1000);
                 
                 pager.data("curr",page);
                 pager.attr("curr",page);
