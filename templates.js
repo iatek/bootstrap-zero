@@ -1412,5 +1412,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
         license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"respdashboard",
+        title:"Responsive-Dashboard",
+        short:"AngularJS + Bootstrap",
+        full:"This working template demonstrates use of AngularJS with Bootstrap 3. This good looking bloat free dashboard template features a collapsible vertical sidebar, font-awesome icons, alerts and scrolling tables.",
+        tags:["theme", "admin", "bootstrap", "dashboard", "multipurpose", "font-awesome", "angular", "angularjs", "github", "bower"],
+        imgUrl:"https://twittstrap.com/wp-content/uploads/edd/2014/08/responsive-dashboard.png",
+        downloadUrl:"https://github.com/Ehesp/Responsive-Dashboard/archive/master.zip",
+        sourceUrl:"https://github.com/Ehesp/Responsive-Dashboard",
+        previewUrl:"http://ehesp.github.io/Responsive-Dashboard/",
+        author:"Ehesp",
+        authorUrl:"https://github.com/Ehesp",
+        bootstrapVersion:"3.2.0",
+        avatar:"https://avatars3.githubusercontent.com/u/842078?v=2&s=460",
+        license:"CC 3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
