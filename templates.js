@@ -1307,7 +1307,7 @@ module.exports =
         author:"PrepBootstrap",
         authorUrl:"http://www.prepbootstrap.com/",
         bootstrapVersion:"3.1.1",
-        avatar:"https://pbs.twimg.com/profile_images/446219636262989824/wiuiurDV_bigger.png",
+        avatar:"https://pbs.twimg.com/profile_images/465874078440488961/YAIqiYpC.png",
         license:"MIT",
         licenseUrl:"http://www.prepbootstrap.com/license"
     },
@@ -1427,6 +1427,23 @@ module.exports =
         authorUrl:"https://github.com/Ehesp",
         bootstrapVersion:"3.2.0",
         avatar:"https://avatars3.githubusercontent.com/u/842078?v=2&s=460",
+        license:"CC 3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"developer",
+        title:"Responsive Developer",
+        short:"Portfolio or Resume",
+        full:"Here is a great looking theme for designers and developers. It is 100% responsive and uses LESS to it's easy to customize.",
+        tags:["theme", "developer", "designer", "portfolio", "resume", "LESS", "projects", "skills"],
+        imgUrl:"http://themes.3rdwavemedia.com/wp-content/uploads/2014/07/Responsive-HTML5-CSS3-Website-Template-for-Developers.png",
+        downloadUrl:"http://themes.3rdwavemedia.com/download/36/",
+        sourceUrl:"http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/",
+        previewUrl:"http://themes.3rdwavemedia.com/demo/developer/",
+        author:"3rd Wave Media",
+        authorUrl:"http://themes.3rdwavemedia.com/",
+        bootstrapVersion:"3.2.0",
+        avatar:"https://pbs.twimg.com/profile_images/510538354606100484/MeeKLsxw.png",
         license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
