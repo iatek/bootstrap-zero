@@ -1446,5 +1446,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/510538354606100484/MeeKLsxw.png",
         license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"oleose",
+        title:"Oleose",
+        short:"Mobile App Landing",
+        full:"Oleose is an eye-catching and fully responsive Bootstrap 3 Ttmplate for professional app landing page. It is developer friendly and easy to customize. It works on all main web browsers, tablets and phones.",
+        tags:["theme", "mobile", "app", "app-store", "ipad", "iphone", "launch", "apple", "landing", "one-page", "colors", "less", "scoop-themes"],
+        imgUrl:"http://www.scoopthemes.com/templates/Oleose/preview.jpg",
+        downloadUrl:"http://www.scoopthemes.com/downloads/Oleose.zip",
+        sourceUrl:"http://www.scoopthemes.com/templates/2014/10/06/Oleose-Theme/",
+        previewUrl:"http://www.scoopthemes.com/templates/Oleose/",
+        author:"ScoopThemes",
+        authorUrl:"http://www.scoopthemes.com/",
+        bootstrapVersion:"3.2.0",
+        avatar:"https://pbs.twimg.com/profile_images/476609094703280129/WwYYeWxG.png",
+        license:"CC 3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
