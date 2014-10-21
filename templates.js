@@ -1470,7 +1470,7 @@ module.exports =
         short:"Responsive Business Template",
         full:"Corlate is a clean, one page responsive template that includes Font Awesome, css3 animations, it's own bootstrap carousel slider and shortcodes which allows you to easily create tabs, accordion slides, pricing table or gallery.",
         tags:["theme", "landing", "one-page", "colors", "shapebootstrap", "font-awesome", "pricing", "animations"],
-        imgUrl:"http://shapebootstrap.net/wp-content/uploads/2014/06/corlate-thumbnail.png",
+        imgUrl:"http://shapebootstrap.net/wp-content/uploads/2014/06/corlate-banner.png",
         downloadUrl:"http://shapebootstrap.net/wp-content/plugins/shapebootstrap/download.php?id=439",
         sourceUrl:"http://shapebootstrap.net/item/corlate-free-responsive-business-html-template/",
         previewUrl:"http://shapebootstrap.net/demo/html/corlate/",
