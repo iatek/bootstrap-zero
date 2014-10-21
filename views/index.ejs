@@ -28,7 +28,27 @@
           <button type="button" class="close" data-dismiss="alert">×</button>
           The best of Bootstrap in a single bundle. Download the <a href="http://www.bootbundle.com/" target="ext"><strong>BootBundle</strong></a>.
         </div>
-	    <div class="row" id="starters">
+	    
+        <div class="row" id="custom">
+      		<div class="col-md-12">
+      			<h2>Templates with Themes</h2>
+                <p>Get a less Bootstrap-y look with these custom themes</p>
+                <hr>
+      		</div>
+      	</div>
+      	<div class="row">
+      	    <% for(i in themes.slice(0,24)) {%>
+  			<div class="col-sm-4">
+              	<div class="panel panel-default">
+                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
+                	<div class="panel-body"><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
+                	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
+                </div>              
+      		</div>
+      		<% } %>
+        </div>
+        
+        <div class="row" id="starters">
       		<div class="col-md-12">
       			<h2>Starter Templates</h2>
                 <p>Kickstart your Bootstrap design with these clean, standard templates.</p>
@@ -48,24 +68,7 @@
         </div>
         <div class="col-md-12 text-center"><a href="http://www.bootstrapzero.com/bootstrap-templates/starter" class="btn btn-success btn-lg">All Starter Templates</a></div>
         <hr>
-        <div class="row" id="custom">
-      		<div class="col-md-12">
-      			<h2>Templates with Themes</h2>
-                <p>Get a less Bootstrap-y look with these custom themes</p>
-                <hr>
-      		</div>
-      	</div>
-      	<div class="row">
-      	    <% for(i in themes.slice(0,24)) {%>
-  			<div class="col-sm-4">
-              	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
-                	<div class="panel-body"><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
-                	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
-                </div>              
-      		</div>
-      		<% } %>
-        </div>
+        
         <div class="row" id="tags">
             <div class="col-md-12 text-center"><a href="http://www.bootstrapzero.com/bootstrap-templates" class="btn btn-success btn-lg">All Free Themes and Templates</a></div>
       		<hr>
