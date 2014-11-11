@@ -1463,5 +1463,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/378800000095630324/6525e00eed614a7bdd4bf053ea969f93.png",
         license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"neu",
+        title:"Neu",
+        short:"Web Designer Template",
+        full:"Neu Proflie, is created to suit a professional Web designer, Web UI Developer, UX/UI Developer or programmer portfolio. This is a clean responsive web design template you can use for personal portfolio’s websites to show case your work and CV or Resume template. This template is built on Bootstrap framework which give flexibilty to customeise the theme easly as per the user requirements. All latest technology HTML5 CSS3, jQuery and Bootstrap.",
+        tags:["theme", "one-page", "portfolio", "resume", "web-designer", "gallery", "contact", "webthemez"],
+        imgUrl:"http://webthemez.com/wp-content/uploads/2014/06/neu-profile.jpg",
+        downloadUrl:"http://webthemez.com/?wpdmact=process&did=MTIuaG90bGluaw==",
+        sourceUrl:"http://webthemez.com/neu-free-web-designer-profile-responsive-web-template/",
+        previewUrl:"http://webthemez.com/demo/neu-free-web-designer-profile-responsive-web-template/",
+        author:"WebThemez",
+        authorUrl:"http://webthemez.com/",
+        bootstrapVersion:"3.0.0",
+        avatar:"https://pbs.twimg.com/profile_images/469555575131353088/E5CL3KQZ.png",
+        license:"CC 3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
