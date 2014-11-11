@@ -1351,7 +1351,7 @@ module.exports =
         short:"Admin theme",
         full:"Binary Admin is an easy to customize admin or dashboard template. This responsive template includes a collpasing off-canvas sidebar, working charts, data tables, multilevel dropdown, and of course all the usual Bootstrap 3 awesomeness.",
         tags:["theme", "admin", "dashboard", "jquery", "sidebar", "charts", "data", "submenu", "morris", "menu", "multipurpose", "binarytheme"],
-        imgUrl:"http://binarycart.com/assets/img/img1.png",
+        imgUrl:"http://binarycart.com/assets/img/binaryadmin.png",
         downloadUrl:"http://bit.ly/binaryadmin",
         sourceUrl:"http://binarycart.com/",
         previewUrl:"http://binarycart.com/bclivedemos/01-05-2014/v1/bs-binary-admin/index.html",
