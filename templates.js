@@ -1431,10 +1431,27 @@ module.exports =
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     },
     {
+        name:"devaid",
+        title:"DevAid",
+        short:"Theme for Developers",
+        full:"Here is a great looking template for developers. It comes with 4 colour schemes, and social links for GitHub, Twitter and Facebook to promote your project. The source LESS files are included. It is 100% responsive and easy to customize.",
+        tags:["theme", "developer", "portfolio", "LESS", "projects", "skills", "code", "promote", "app", "one-page", "twitter", "github", "social"],
+        imgUrl:"http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/products/free-bootstrap-theme-for-developers-devaid.jpg",
+        downloadUrl:"http://themes.3rdwavemedia.com/download/314/",
+        sourceUrl:"http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/",
+        previewUrl:"http://themes.3rdwavemedia.com/demo/devaid/",
+        author:"3rd Wave Media",
+        authorUrl:"http://themes.3rdwavemedia.com/",
+        bootstrapVersion:"3.3.0",
+        avatar:"https://pbs.twimg.com/profile_images/510538354606100484/MeeKLsxw.png",
+        license:"CC 3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
         name:"oleose",
         title:"Oleose",
         short:"Mobile App Landing",
-        full:"Oleose is an eye-catching and fully responsive Bootstrap 3 Ttmplate for professional app landing page. It is developer friendly, easy to customize and includes 3 color options. It works on all main web browsers, tablets and phones.",
+        full:"Oleose is an eye-catching and fully responsive Bootstrap 3 Template for professional app landing page. It is developer friendly, easy to customize and includes 3 color options. It works on all main web browsers, tablets and phones.",
         tags:["theme", "mobile", "app", "app-store", "ipad", "iphone", "launch", "apple", "landing", "one-page", "colors", "less", "blue", "green", "scoop-themes"],
         imgUrl:"http://www.scoopthemes.com/templates/Oleose/preview.jpg",
         downloadUrl:"http://www.scoopthemes.com/downloads/Oleose.zip",
