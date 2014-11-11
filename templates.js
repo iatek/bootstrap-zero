@@ -632,23 +632,6 @@ module.exports =
         licenseUrl:""
     },
     {
-        name:"Amelia",
-        title:"Amelia Theme",
-        short:"Sweet and cheery",
-        full:"A free theme from Bootswatch",
-        tags:["bootswatch","theme"],
-        imgUrl:"http://bootswatch.com/amelia/thumbnail.png",
-        downloadUrl:"http://bootswatch.com/amelia/bootstrap.min.css",
-        sourceUrl:"http://bootswatch.com/amelia/",
-        previewUrl:"http://bootswatch.com/amelia/",
-        author:"Bootswatch",
-        authorUrl:"http://bootswatch.com/",
-        bootstrapVersion:"3.2.0",
-        license:"MIT",
-        avatar:"https://pbs.twimg.com/profile_images/3387741863/b048a3aa0b489981587c20cc813f57e1.jpeg",
-        licenseUrl:""
-    },
-    {
         name:"Cyborg",
         title:"Cyborg Theme",
         short:"Jet black and electric blue",
