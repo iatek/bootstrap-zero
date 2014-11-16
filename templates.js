@@ -1497,5 +1497,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/469555575131353088/E5CL3KQZ.png",
         license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"worthy",
+        title:"Worthy",
+        short:"Multipurpose Single Page",
+        full:"Worthy is a free Multipurpose One Page Template based on Bootstrap 3 Framework. You can use it for corporate, business and agency webpages as well as portfolio and personal webpages.",
+        tags:["theme", "one-page", "agency", "clients", "web-designer", "portfolio", "contact", "fontawesome", "htmlcoder"],
+        imgUrl:"http://htmlcoder.me/sites/default/files/styles/large/public/worthy-1.jpg?itok=0eNBmJEd",
+        downloadUrl:"http://htmlcoder.me/download/worthy_v.1.0.zip",
+        sourceUrl:"http://htmlcoder.me/worthy-free-bootstrap-template",
+        previewUrl:"http://htmlcoder.me/preview/worthy/v.1.0",
+        author:"HtmlCoder",
+        authorUrl:"http://htmlcoder.me/",
+        bootstrapVersion:"3.0.0",
+        avatar:"https://pbs.twimg.com/profile_images/530409569202102273/Fv-gSf-K.png",
+        license:"CC 3.0",
+        licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
     }
 ]
