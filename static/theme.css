@@ -156,16 +156,18 @@
             border-top-width: 0;
             border-left-width: 0;
             box-shadow: 0 0 0 rgba(0,0,0,0.08);
+        }
+        
+        #main .panel img {
             transition: all .5s ease-in-out;
             -moz-transition: all .5s ease-in-out; /* Firefox 4 */
             -webkit-transition: all .5s ease-in-out; /* Safari and Chrome */
             -o-transition: all .5s ease-in-out; /* Opera */
-            -ms-transition: all .5s ease-in-out; /* IE9 (maybe) */ 	
-          
+            -ms-transition: all .5s ease-in-out; /* IE9 (maybe) */
         }
 
-        #main .panel:hover {
-        	transform: scale(1.1);
+        #main .panel img:hover {
+        	transform: scale(1.05);
         }
         
         #main .panel-heading {
