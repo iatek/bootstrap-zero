@@ -5,7 +5,7 @@
         
         body {
         	padding-top: 51px;
-          	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+          	font-family: 'Roboto',sans-serif;
           	font-weight: 300;
           	-webkit-font-smoothing: antialiased;
         	background-color: #dae3e7;
@@ -21,6 +21,10 @@
         h2 {
           	margin-top:30px;
             margin-bottom:5px;
+        }
+        
+        hr {
+            background-color: transparent;
         }
         
         /* Wrapper for page content to push down footer */
