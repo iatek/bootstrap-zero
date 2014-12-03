@@ -59,8 +59,8 @@
         
         #masthead .well {
         	margin-top:3%;
-        	background-color:#563d7c;
-          	border-color:#452c6b;
+        	background-color: #21272d;
+          	border-color: #30363c;
         }
         
         #masthead p  {
@@ -126,7 +126,7 @@
         }
         
         .navbar-bright {
-        	background-color:#563d7c;
+        	background-color: #32383e;
             color:#CCFF33;
             border-width:0;
           	text-shadow: 0 -1px 0 rgba(0,0,0,.15);
