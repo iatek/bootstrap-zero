@@ -36,6 +36,12 @@
             font-weight: 400;
         }
         
+        .well {
+            border: 1px solid #aaa;
+            box-shadow:none 0 0 0;
+            -webkit-box-shadow:none 0 0 0;
+        }
+        
         img {
             -webkit-animation: fadein 2.5s; /* Safari and Chrome */
             -moz-animation: fadein 2.5s; /* Firefox */
