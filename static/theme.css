@@ -4,7 +4,7 @@
         }
         
         body {
-        	padding-top: 51px;
+        	padding-top: 50px;
           	font-family: 'Roboto',sans-serif;
           	-webkit-font-smoothing: antialiased;
         	background-color: #dae3e7;
@@ -61,6 +61,8 @@
           	color:#fff;
           	margin-top:40px;
           	border-radius:0px;
+          	font-family: 'Roboto',sans-serif;
+          	font-weight: 200;
         }
         
         #masthead .well {
