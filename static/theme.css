@@ -87,7 +87,9 @@
         #masthead {
         	min-height: 350px;
           	background-color: #32383e;
-            background-size: cover;
+            background-image: url(/images/bp_banner.png);
+            background-repeat: no-repeat;
+            background-position: center;
           	margin-top:0;
             margin-bottom:30px;
             padding-top:20px;
