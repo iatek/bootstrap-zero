@@ -6,7 +6,6 @@
         body {
         	padding-top: 51px;
           	font-family: 'Roboto',sans-serif;
-          	font-weight: 300;
           	-webkit-font-smoothing: antialiased;
         	background-color: #dae3e7;
         	color:#434343;
@@ -27,6 +26,10 @@
             background-color: transparent;
         }
         
+        .label {
+            font-weight: 400;
+        }
+        
         /* Wrapper for page content to push down footer */
         #wrap {
           min-height: 100%;
@@ -40,7 +43,6 @@
         
         #masthead {
         	min-height:450px;
-        	color:#452c6b;
           	background-color: #32383e;
             background-size: cover;
           	margin-top:0;
@@ -68,7 +70,8 @@
         }
         
         #masthead p  {
-        	color:#f8f8f8;
+        	color: #f8f8f8;
+        	font-weight: 100;
         }
         
         .icon-bar {
