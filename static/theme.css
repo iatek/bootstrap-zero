@@ -45,8 +45,8 @@
           	text-shadow: 0 1px 1px rgba(0,0,0,.1);
           	font-weight: 500;
           	border:0 solid #ccc;
-          	border-top-width:1px;
-          	border-top-color:#785e9c;
+          	border-top-width: 1px;
+          	border-top-color: #21272d;
         }
         
         #masthead h1 {
@@ -183,9 +183,9 @@
         }
         
         footer {
-            padding-top:30px;
-            padding-bottom:30px;
-        	background-color:#563d7c;
+            padding-top: 30px;
+            padding-bottom: 30px;
+        	background-color: #21272d;
         	margin-top:50px;
           	color:#efefef;
           	height: 180px;
