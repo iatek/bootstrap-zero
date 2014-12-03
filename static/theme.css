@@ -157,21 +157,8 @@
             border-left-width: 0;
             box-shadow: 0 0 0 rgba(0,0,0,0.08);
         }
-        
-        #main .panel-heading {
-            transition: padding .5s ease-in-out;
-            -moz-transition: padding .5s ease-in-out; /* Firefox 4 */
-            -webkit-transition: padding .5s ease-in-out; /* Safari and Chrome */
-            -o-transition: padding .5s ease-in-out; /* Opera */
-            -ms-transition: padding .5s ease-in-out; /* IE9 (maybe) */
-        }
 
-        #main .panel-heading:hover {
-        	padding: 10px 20px;
-        }
-        
         #main .panel-heading {
-            background-color:#fff;
             border-bottom-width:0;
         }
         
