@@ -8,7 +8,8 @@
           	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
           	font-weight: 300;
           	-webkit-font-smoothing: antialiased;
-        	background-color:#efefef;
+        	background-color: #dae3e7;
+        	color:#434343;
         }
         
         h3 {
@@ -36,8 +37,8 @@
         #masthead {
         	min-height:450px;
         	color:#452c6b;
-          	background-color:#563d7c;
-            background-size:cover;
+          	background-color: #32383e;
+            background-size: cover;
           	margin-top:0;
             margin-bottom:30px;
             padding-top:20px;
