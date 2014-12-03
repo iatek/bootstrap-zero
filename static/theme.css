@@ -159,15 +159,15 @@
         }
         
         #main .panel-body {
-            transition: all .5s ease-in-out;
-            -moz-transition: all .5s ease-in-out; /* Firefox 4 */
-            -webkit-transition: all .5s ease-in-out; /* Safari and Chrome */
-            -o-transition: all .5s ease-in-out; /* Opera */
-            -ms-transition: all .5s ease-in-out; /* IE9 (maybe) */
+            transition: padding .5s ease-in-out;
+            -moz-transition: padding .5s ease-in-out; /* Firefox 4 */
+            -webkit-transition: padding .5s ease-in-out; /* Safari and Chrome */
+            -o-transition: padding .5s ease-in-out; /* Opera */
+            -ms-transition: padding .5s ease-in-out; /* IE9 (maybe) */
         }
 
         #main .panel-body:hover {
-        	transform: scale(1.05);
+        	padding: 20px;
         }
         
         #main .panel-heading {
