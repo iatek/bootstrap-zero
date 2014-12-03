@@ -40,6 +40,11 @@
             border: 1px solid #aaa;
             box-shadow:none 0 0 0;
             -webkit-box-shadow:none 0 0 0;
+            background-color: transparent;
+        }
+        
+        .alert {
+            border-width:0;
         }
         
         img {
