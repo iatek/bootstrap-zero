@@ -24,6 +24,10 @@
             font-family: 'Roboto',sans-serif;
         }
         
+        h1 {
+            font-family: 'Roboto',sans-serif;
+        }
+        
         hr {
             border-color: transparent;
         }
@@ -60,11 +64,11 @@
         #masthead h1 {
         	font-size: 32px;
         	line-height: 1;
-          	color:#fff;
-          	margin-top:40px;
-          	border-radius:0px;
+          	color: #fff;
+          	margin-top: 40px;
+          	border-radius: 0px;
           	font-family: 'Roboto',sans-serif;
-          	font-weight: 200;
+          	font-weight: 300;
         }
         
         #masthead .well {
