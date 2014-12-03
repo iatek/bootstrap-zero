@@ -130,8 +130,7 @@
             color:#CCFF33;
             border-width:0;
           	text-shadow: 0 -1px 0 rgba(0,0,0,.15);
-            border-bottom-width:1px;
-          	border-bottom-color:#231c6b;
+            border-bottom-width: 1px;
         }
           
         .navbar-bright a {
@@ -149,7 +148,7 @@
         }
         
         .navbar-bright li > a:hover, .navbar-bright li.active > a, .navbar-bright .nav .open>a, .navbar-bright .nav .open>a:hover, .navbar-bright .nav a:focus {
-            background-color:#452c6b;
+            background-color: #21272d;
             border-color: transparent;
             text-shadow: 0 0 0;
         }
@@ -192,10 +191,10 @@
         }
         
         footer a {
-        	color:#cdbfe3;
+        	color: #ccc;
         }
         footer a:hover {
-        	color:#decff4;
+        	color: #ddd;
         }
         
         section {
