@@ -80,11 +80,11 @@
       	<div class="row" id="listTemplates">
       	    <% for(i in templates) {%>
   			<div class="col-sm-4">
-              	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=templates[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=templates[i].title%></h3></a></div>
-                	<div class="panel-body"><a href="/bootstrap-template/<%=templates[i].title.toLowerCase().replace(/\s/g,"-")%>"><img data-original="<%=templates[i].imgUrl%>" title="<%=templates[i].tags%>,bootstrap template" class="img-responsive" /></a></div>
-                	<div class="panel-footer"><strong><%=templates[i].short%></strong></div>
-                </div>              
+            <div class="panel panel-default">
+             <div class="panel-heading"><h3><a href="/bootstrap-template/<%=templates[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=templates[i].title%></h3></a></div>
+             <div class="panel-body"><a href="/bootstrap-template/<%=templates[i].title.toLowerCase().replace(/\s/g,"-")%>"><img data-original="<%=templates[i].imgUrl%>" title="<%=templates[i].tags%>,bootstrap template" class="img-responsive" /></a></div>
+             <div class="panel-footer"><strong><%=templates[i].short%></strong></div>
+            </div>              
       		</div>
       		<% } %>
         </div>
