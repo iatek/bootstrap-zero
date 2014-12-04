@@ -158,7 +158,7 @@
           	padding:0;
         }
         
-        #main .col-sm-4 {
+        #main .col-sm-6 {
             padding-bottom:30px;
         }
         
@@ -273,8 +273,8 @@
         @media (min-width: 768px) {
         
           	#main .panel-body  {
-          		min-height:220px;
-          		max-height:220px;
+          		min-height:240px;
+          		max-height:240px;
         	}
         }
         
