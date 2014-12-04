@@ -234,8 +234,8 @@
             }
         
           	#main .panel-body  {
-          		min-height:240px;
-          		max-height:240px;
+          		min-height:260px;
+          		max-height:260px;
         	}
         }
         
@@ -273,8 +273,8 @@
         @media (min-width: 768px) {
         
           	#main .panel-body  {
-          		min-height:190px;
-          		max-height:190px;
+          		min-height:220px;
+          		max-height:220px;
         	}
         }
         
