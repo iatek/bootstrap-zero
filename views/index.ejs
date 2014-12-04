@@ -44,7 +44,7 @@
       	</div>
       	<div class="row">
       	    <% for(i in themes.slice(0,24)) {%>
-  			<div class="col-sm-4">
+  			<div class="col-sm-6">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
                 	<div class="panel-body"><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
@@ -65,7 +65,7 @@
       	</div>
       	<div class="row">
       	    <% for(i in starters.slice(0,12)) {%>
-  			<div class="col-sm-4">
+  			<div class="col-sm-6">
               	<div class="panel panel-default">
                   	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(/\s/g,"-") %>"><%=starters[i].title%></h3></a></div>
                 	<div class="panel-body"><a href="/bootstrap-template/<%=starters[i].title.toLowerCase().replace(/\s/g,"-")%>"><img src="<%=starters[i].imgUrl%>" alt="<%=starters[i].tags%>,bootstrap template" class="img-responsive" /></a></div>
