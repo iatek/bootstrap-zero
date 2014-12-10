@@ -23,10 +23,10 @@
         .affix-top {
           padding-top: 10px;
           padding-bottom: 10px;
-          -webkit-transition:padding 0.5s linear;
-          -moz-transition:padding 0.5s linear;  
-          -o-transition:padding 0.5s linear;         
-          transition:padding 0.5s linear;  
+          -webkit-transition:padding 0.3s linear;
+          -moz-transition:padding 0.3s linear;  
+          -o-transition:padding 0.3s linear;         
+          transition:padding 0.3s linear;  
         }
         
         h3 {
