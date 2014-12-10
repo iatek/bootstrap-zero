@@ -334,6 +334,7 @@
             background-repeat: no-repeat;
             border: 1px solid #d4d4d4;
             border-bottom-color: #bcbcbc;
+            font-size: 11px;
         }
         .gh-btn, .gh-count {
             padding: 2px 5px 2px 4px;
@@ -353,7 +354,7 @@
             height: 14px;
             margin-right: 4px;
             vertical-align: 3px;
-            background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiP…0xNi4yLDIxLjktMzAuNEMxMzEsMTYuMSwxMTYuNywxLjgsOTksMS44eiIvPg0KPC9zdmc+DQo=);
+            background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiP…0xNi4yLDIxLjktMzAuNEMxMzEsMTYuMSwxMTYuNywxLjgsOTksMS44eiIvPg0KPC9zdmc+DQo=');
             background-size: 28px 14px;
             background-repeat: no-repeat;
             background-position: 0 0;
