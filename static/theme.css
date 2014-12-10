@@ -337,7 +337,7 @@
             font-size: 11px;
         }
         .gh-btn, .gh-count {
-            padding: 0px 4px 2px 4px;
+            padding: 0px 4px 3px 2px;
             color: #333;
             text-decoration: none;
             text-shadow: 0 1px 0 #fff;
@@ -347,5 +347,5 @@
         }
         .gh-btn, .gh-count, .gh-ico {
             float: left;
-            margin-top: -3px;
+            margin-top: -4px;
         }
