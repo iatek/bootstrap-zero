@@ -322,3 +322,28 @@
             background-image: none !important;
             border: 0 !important;
         }
+        
+        .gh-btn {
+            background-color: #e6e6e6;
+            background-image: -webkit-gradient(linear,0 0,0 100%,from(#fafafa),to(#eaeaea));
+            background-image: -webkit-linear-gradient(#fafafa,#eaeaea);
+            background-image: -moz-linear-gradient(top,#fafafa,#eaeaea);
+            background-image: -ms-linear-gradient(#fafafa,#eaeaea);
+            background-image: -o-linear-gradient(#fafafa,#eaeaea);
+            background-image: linear-gradient(#fafafa,#eaeaea);
+            background-repeat: no-repeat;
+            border: 1px solid #d4d4d4;
+            border-bottom-color: #bcbcbc;
+        }
+        .gh-btn, .gh-count {
+            padding: 2px 5px 2px 4px;
+            color: #333;
+            text-decoration: none;
+            text-shadow: 0 1px 0 #fff;
+            white-space: nowrap;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+        .gh-btn, .gh-count, .gh-ico {
+            float: left;
+        }
