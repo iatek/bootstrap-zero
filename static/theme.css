@@ -347,6 +347,7 @@
         }
         .gh-btn, .gh-count, .gh-ico {
             float: left;
+            margin-top: -4px;
         }
         
         .gh-ico {
