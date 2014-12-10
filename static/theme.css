@@ -11,6 +11,24 @@
         	color:#434343;
         }
         
+        .affix {
+          padding:0px;
+          -webkit-transition:padding 0.2s linear;
+          -moz-transition:padding 0.2s linear;  
+          -o-transition:padding 0.2s linear;         
+          transition:padding 0.2s linear;  
+        
+        }
+        
+        .affix-top {
+          padding-top:15px;
+          padding-bottom:15px;
+          -webkit-transition:padding 0.5s linear;
+          -moz-transition:padding 0.5s linear;  
+          -o-transition:padding 0.5s linear;         
+          transition:padding 0.5s linear;  
+        }
+        
         h3 {
           	margin-top:4px;
             margin-bottom:4px;
