@@ -337,7 +337,7 @@
             font-size: 11px;
         }
         .gh-btn, .gh-count {
-            padding: 1px 4px 2px 4px;
+            padding: 0px 4px 2px 4px;
             color: #333;
             text-decoration: none;
             text-shadow: 0 1px 0 #fff;
@@ -347,16 +347,5 @@
         }
         .gh-btn, .gh-count, .gh-ico {
             float: left;
-            margin-top: -4px;
-        }
-        
-        .gh-ico {
-            width: 14px;
-            height: 14px;
-            margin-right: 4px;
-            vertical-align: 3px;
-            background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiP…0xNi4yLDIxLjktMzAuNEMxMzEsMTYuMSwxMTYuNywxLjgsOTksMS44eiIvPg0KPC9zdmc+DQo=);
-            background-size: 28px 14px;
-            background-repeat: no-repeat;
-            background-position: 0 0;
+            margin-top: -3px;
         }
