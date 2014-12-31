@@ -21,8 +21,8 @@
         }
         
         .affix-top {
-          padding-top: 10px;
-          padding-bottom: 10px;
+          padding-top: 8px;
+          padding-bottom: 8px;
           -webkit-transition:padding 0.2s linear;
           -moz-transition:padding 0.2s linear;  
           -o-transition:padding 0.2s linear;         
