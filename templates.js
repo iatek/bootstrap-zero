@@ -1405,7 +1405,7 @@ module.exports =
         imgUrl:"https://twittstrap.com/wp-content/uploads/edd/2014/08/responsive-dashboard.png",
         downloadUrl:"https://github.com/Ehesp/Responsive-Dashboard/archive/master.zip",
         sourceUrl:"https://github.com/Ehesp/Responsive-Dashboard",
-        previewUrl:"http://ehesp.github.io/Responsive-Dashboard/",
+        previewUrl:"http://rdash.github.io/#/",
         author:"Ehesp",
         authorUrl:"https://github.com/Ehesp",
         bootstrapVersion:"3.2.0",
