@@ -15,6 +15,7 @@
     },
     "language": {
         "@instanceHighlight": "true",
+        "@semi": "true",
         "@undeclaredVars": "true",
         "@unusedFunctionArgs": "false",
         "@warnLevel": "info"

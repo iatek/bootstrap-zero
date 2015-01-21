@@ -1125,6 +1125,23 @@ module.exports =
         licenseUrl:""
     },
     {
+        name:"Marco",
+        title:"Marco",
+        short:"Clean one pager",
+        full:"Marco is a stylish one page theme. Ideal for freelancers or agencies willing to show their work. Uses FontAwesome 4.0.3 and Animation.css.",
+        tags:["blacktie","theme","creative","agency","portfolio","one-page","animation","transitions","fontawesome","freelancer","dev"],
+        imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2014/03/marco.png",
+        downloadUrl:"http://bit.ly/1cwuL3w",
+        sourceUrl:"http://www.blacktie.co/2014/03/marco-one-page-theme/",
+        previewUrl:"http://blacktie.co/demo/marco/",
+        author:"BlackTie",
+        authorUrl:"http://www.blacktie.co",
+        bootstrapVersion:"3.1.1",
+        license:"CC0",
+        avatar:"https://pbs.twimg.com/profile_images/427947974044315648/DYrSsfHE.png",
+        licenseUrl:""
+    },
+    {
         name:"Siimple",
         title:"Siimple",
         short:"Landing page",
