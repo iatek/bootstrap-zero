@@ -1127,7 +1127,7 @@ module.exports =
     {
         name:"Marco",
         title:"Marco",
-        short:"Clean one pager",
+        short:"Clean one page agency template",
         full:"Marco is a stylish one page theme. Ideal for freelancers or agencies willing to show their work. Uses FontAwesome 4.0.3 and Animation.css.",
         tags:["blacktie","theme","creative","agency","portfolio","one-page","animation","transitions","fontawesome","freelancer","dev"],
         imgUrl:"http://www.blacktie.co/blog/wp-content/uploads/2014/03/marco.png",

@@ -49,12 +49,12 @@
       	</div>
       	<div class="row">
       	    <% for(i in themes.slice(0,24)) {%>
-  			<div class="col-sm-6">
-              	<div class="panel panel-default">
-                  	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
-                	<div class="panel-body"><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
-                	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
-                </div>              
+  			    <div class="col-sm-4">
+            	<div class="panel panel-default">
+                	<div class="panel-heading"><h3><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><%=themes[i].title%></a></h3></div>
+              	<div class="panel-body"><a href="/bootstrap-template/<%=themes[i].title.toLowerCase().replace(/\s/g,"-")%>"><img src="<%=themes[i].imgUrl%>" alt="<%=themes[i].tags%>" class="img-responsive" /></a></div>
+              	<div class="panel-footer"><strong><%=themes[i].short%></strong></div>
+              </div>              
       		</div>
       		<% } %>
       		<div class="col-md-12 text-center"><a href="http://www.bootstrapzero.com/bootstrap-templates" class="btn btn-success btn-lg">More Bootstrap Themes and Templates <i class="fa fa-chevron-right"></i></a></div>
