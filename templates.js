@@ -1446,5 +1446,38 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/530409569202102273/Fv-gSf-K.png",
         license:"CC 3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        name:"Expose",
+        title:"Expose",
+        short:"Simple one pager",
+        full:"Expose is a one page HTML / CSS site template using Bootstrap 3.0.0, which is perfect for portfolio or personal or landing page.",
+        tags:["scripteden","theme","pricing","clients","landing","launch","product","one-page","app"],
+        imgUrl:"http://cdn.scripteden.com/wp-content/uploads/thenext-thumb-cache//expose-900x0-916bd1d6c775a18f065ba5b81d2b1362-300x300.png",
+        downloadUrl:"http://scripteden.com/download/expose/",
+        sourceUrl:"http://scripteden.com/previews/expose/",
+        previewUrl:"http://scripteden.com/previews/expose/",
+        author:"Script Eden",
+        authorUrl:"http://scripteden.com/",
+        bootstrapVersion:"3.0.0",
+        license:"CC0",
+        avatar:"http://cdn.scripteden.com/wp-content/uploads/avatars/1/62f270c7a637b67320cf0775688d6d1c-bpfull.png",
+        licenseUrl:""
+    },
+    {
+        name:"Design Agency",
+        title:"Design Agency",
+        short:"Video background",
+        full:"Design agency template with video background and parallax scrolling.",
+        tags:["theme","business","agency","design","video","scroll","parallax"],
+        imgUrl:"http://www.designbootstrap.com/wp-content/uploads/2015/01/designAgency-back.png",
+        downloadUrl:"http://www.designbootstrap.com/?smd_process_download=1&download_id=596",
+        sourceUrl:"http://www.designbootstrap.com/free-bootstrap-corporate-template-design-agency",
+        previewUrl:"http://www.designbootstrap.com/livedemos/2015/01/18/design-agency/index.html",
+        authorUrl:"http://www.designbootstrap.com/",
+        bootstrapVersion:"3.3.1",
+        avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
+        license:"MIT",
+        licenseUrl:"http://www.designbootstrap.com/licenses/"
     }
 ]
