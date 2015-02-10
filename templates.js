@@ -1164,7 +1164,7 @@ module.exports =
         short:"Admin dashboard template",
         full:"A free premium admin dashboard and control panel theme by Almsaeed Studio.",
         tags:["admin", "theme", "dashboard", "control-panel"],
-        imgUrl:"http://www.daveismyname.com/system/ckeditor/elFinder/files/images/blog/design/adminlte-dashboard.png",
+        imgUrl:"http://www.almsaeedstudio.com/include/img/adminlte-browser-window.png",
         downloadUrl:"http://almsaeedstudio.com/download/AdminLTE-master",
         sourceUrl:"https://github.com/almasaeed2010/AdminLTE/",
         previewUrl:"http://almsaeedstudio.com/preview",
