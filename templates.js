@@ -1244,23 +1244,6 @@ module.exports =
         licenseUrl:"https://github.com/dragdropsite/mPurpose/blob/master/LICENSE"
     },
     {
-        name:"blocks",
-        title:"Blocks",
-        short:"Single-page admin",
-        full:"Blocks is a light-weight, admin dashboard template inspired by Cyfe. Blocks is essentially, a single page theme.. all you need, configured, ordered and placed in one page. Of course you can find some other pages with important stuff like a login page or a file manager option, but the core information, the most important data, will be displayed in the main page. Built on Bootstrap 3 with bunch of premium extended features, strong code structure underneath, all packed in one design.",
-        tags:["theme", "admin", "dashboard", "jquery", "charts", "slider", "notify", "pricing", "cyfe"],
-        imgUrl:"http://speckycdn.sdm.netdna-cdn.com/wp-content/uploads/2014/05/bootstrap_admin_theme_03.jpg",
-        downloadUrl:"http://bit.ly/1c7MLlX",
-        sourceUrl:"http://www.alvarez.is/blog/blocks-free-bootstrap-3-dashboard/freebies/",
-        previewUrl:"http://alvarez.is/demo/free/blocks/",
-        author:"Carlos Alverez",
-        authorUrl:"http://alvarez.is/",
-        bootstrapVersion:"3.0.0",
-        avatar:"https://pbs.twimg.com/profile_images/477555798881886208/S59w4clz.jpeg",
-        license:"Freeware",
-        licenseUrl:""
-    },
-    {
         name:"binary",
         title:"Binary",
         short:"Admin theme",
