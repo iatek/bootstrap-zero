@@ -1159,23 +1159,6 @@ module.exports =
         licenseUrl:"http://creativecommons.org/licenses/by/3.0/"
     },
     {
-        name:"AdminLTE",
-        title:"AdminLTE",
-        short:"Admin dashboard template",
-        full:"A free premium admin dashboard and control panel theme by Almsaeed Studio.",
-        tags:["admin", "theme", "dashboard", "control-panel"],
-        imgUrl:"http://www.almsaeedstudio.com/include/img/adminlte-browser-window.png",
-        downloadUrl:"http://almsaeedstudio.com/download/AdminLTE-master",
-        sourceUrl:"https://github.com/almasaeed2010/AdminLTE/",
-        previewUrl:"http://almsaeedstudio.com/preview",
-        author:"Almsaeed Studio",
-        authorUrl:"http://almsaeedstudio.com/",
-        bootstrapVersion:"3.0.3",
-        avatar:"https://pbs.twimg.com/profile_images/378800000050649381/41e2b37e68cdb7b6ace31ef6be3f093d.jpeg",
-        license:"MIT",
-        licenseUrl:""
-    },
-    {
         name:"devoops",
         title:"DevOOPS",
         short:"Dashboard theme",
