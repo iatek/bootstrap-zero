@@ -1449,9 +1449,9 @@ module.exports =
     {
         name:"ZontalAdmin",
         title:"ZontalAdmin",
-        short:"Video background",
+        short:"Pleasant Animations",
         full:"Zontal is free Bootstrap admin template for personal and commercial use. It features nice animations and movement that is similiar to material design.",
-        tags:["theme","dashboard","admin","scroll","animation","material-design"],
+        tags:["theme","dashboard","admin","scroll","animation","material-design","tables"],
         imgUrl:"http://www.designbootstrap.com/wp-content/uploads/2015/01/zontal-admin-back.png",
         downloadUrl:"http://www.designbootstrap.com/?smd_process_download=1&download_id=848",
         sourceUrl:"http://www.designbootstrap.com/free-responsive-admin-theme-zontal-admin/",
