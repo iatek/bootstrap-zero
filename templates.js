@@ -1431,7 +1431,7 @@ module.exports =
         licenseUrl:""
     },
     {
-        name:"Design Agency",
+        name:"DesignAgency",
         title:"Design Agency",
         short:"Video background",
         full:"Design agency template with video background and parallax scrolling.",
@@ -1442,6 +1442,22 @@ module.exports =
         previewUrl:"http://www.designbootstrap.com/livedemos/2015/01/18/design-agency/index.html",
         authorUrl:"http://www.designbootstrap.com/",
         bootstrapVersion:"3.3.1",
+        avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
+        license:"MIT",
+        licenseUrl:"http://www.designbootstrap.com/licenses/"
+    },
+    {
+        name:"ZontalAdmin",
+        title:"ZontalAdmin",
+        short:"Video background",
+        full:"Zontal is free Bootstrap admin template for personal and commercial use. It features nice animations and movement that is similiar to material design.",
+        tags:["theme","dashboard","admin","scroll","animation","material-design"],
+        imgUrl:"http://www.designbootstrap.com/wp-content/uploads/2015/01/zontal-admin-back.png",
+        downloadUrl:"http://www.designbootstrap.com/?smd_process_download=1&download_id=848",
+        sourceUrl:"http://www.designbootstrap.com/free-responsive-admin-theme-zontal-admin/",
+        previewUrl:"http://designbootstrap.com/livedemos/2015/01/30/zontal-admin",
+        authorUrl:"http://www.designbootstrap.com/",
+        bootstrapVersion:"3.3.2",
         avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
         license:"MIT",
         licenseUrl:"http://www.designbootstrap.com/licenses/"
